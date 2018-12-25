@@ -1,0 +1,170 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Humans, fairies, and all, everyone seems to be ",
+                "after this ship... are they after the treasure room?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Treasure?",
+                "Bingo, on the right track."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in arguing!",
+                "I'll show no mercy to any enemy!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Oh! To think that there are still fairies that",
+                "wouldn't run away after seeing this fist..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I have seen worse. Now let me just",
+                "finish you off..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "......get back here."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Just what are you after?",
+                "Treasure? Or perhaps our sister's power?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Sister?"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "......",
+                "Uh I mean...treasure!"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "I knew it; you're just a common thief!"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "I'm Ichirin, and I'm taking our sister's place guarding the treasure."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I won't let any thieves in alive!"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Thief?!",
+                "Just who do you think I am!?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I'm Cirno the ice fairy, here to rob your treasures!",
+                "Oh...guess I am a thief..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "So?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Uhm...",
+                "Just ignore me, okay?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...Eh?",
+                "You mean, that fairy has...?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Hellooo?",
+                "Why are you talking to yourself?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Unzan tells me",
+                "you're gathering the fragments of the floating treasure."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "What?",
+                "The only thing I got were these flying things other fairies had."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I see asking the mice to search wasn't any use..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Thank you for finding them!",
+                "Now I can finally revive our sister!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How awesome.",
+                "I can't believe there're fairies like that in this world, too..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I just don't wanna lose!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "If you're collecting the floating treasure, then",
+                "you're trying to revive our sister too, right?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "What are you babbling about?",
+                "You mean these flying things the fairies were dropping?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Very well, very well.",
+                "You seem to be an ally, so..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "......Uh no?",
+                "Wait, are these flying things worth anything?"
+            ]
+        }
+    }
+}

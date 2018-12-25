@@ -1,0 +1,227 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, you're pretty good."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Dunno who you are, but they say",
+                "a rowdy welcome is best for a rowdy guest!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "I like you!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "We'll have lots more fun, so",
+                "Keep following until you can't take anymore!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh? Don't really wanna..."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Man, what's your deal?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(I read up on that youkai we ran across before.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Pache >(It was a bridge princess. A youkai driven insane by",
+                "<l$> jealousy, sworn to protect the bridge.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Can't we worry about the one over there?",
+                "Read up on her, please!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "What, are you out of breath?",
+                "Giving up already?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Pache >(...I can't conduct research that quickly!)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Useless~."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "What's wrong?",
+                "Are you trying to figure out who I am?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Hey! You got it.",
+                "Now just tell me your weak point!"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I'm one of the Big Four of the Mountain, Yuugi the strong."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "My weak point is fried beans,",
+                "obviously."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Why isn't everyone this nice?",
+                "Fried beans though...?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "<t$Pache >(...",
+                "<l$> Her weak point is fried beans?)"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "<t$Pache >(Fried beans... No way.)"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "So, why did you come all the way down here?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Huh, y'know, I'm clueless."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Pache >(This place isn't our destination.",
+                "<l$> Get rid of this pest so we can keep going.)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Wow, so violent towards the first nice one."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Yes, indeed."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "I love violent people."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "But, if you're all talk, then here you'll die!",
+                "I'll test you well here."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well done!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "You'd have to be that strong to get all the way",
+                "down here alone."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Pache >(...Well, let's move on.",
+                "<l$> Let's just... Leave her alone.)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "...You know the way?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I have no idea where we even are."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "This place is Former Hell,",
+                "a prison the youkai from above can't interfere with."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "You beat me.",
+                "I'll lead you wherever you want, if you wish."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Pache >(...Okay, then please take us to wherever",
+                "<l$> the person who's creating the geyser is.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "A geyser... Okay, why don't you try",
+                "going to the Palace of the Earth Spirits up ahead?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "It might be hard for a fairy...",
+                "Well, it looks like you'll be strong enough."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Just strong enough to beat you,",
+                "that's nothing to write home about."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "<t$Pache >(Look at her, while she was fighting us and drinking,",
+                "<l$> she didn't spill a drop of her saké.)"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "<t$Pache >(And she hates fried beans.",
+                "<l$> ...You were just testing us, weren't you?)"
+            ]
+        }
+    }
+}

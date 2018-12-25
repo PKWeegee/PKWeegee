@@ -1,0 +1,269 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, you're pretty good."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Dunno who you are, but they say",
+                "a rowdy welcome is best for a rowdy guest!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "I like you!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "We'll have lots more fun, so",
+                "keep following until you can't take anymore!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "But I don't want to go drinking with you."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Geez!",
+                "Get out of my way please!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, you're so cold.",
+                "And people from above almost never come down here."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Suika >(Oh, I was wondering who that was! Yuugi,",
+                "<l$> long time no see.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Huh?",
+                "You know who I am? ...Who are you?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<t$Suika >(Me, it's me! Don't tell me you forgot me just",
+                "<l$> 'cuz I went to play above ground for a little while.)"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "That drunken voice...",
+                "Is that Suika!?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Suika >(I wanna go mountain climbing again, the four of us.)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Wow, you sure have changed a lot...",
+                "You look just like a tengu."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "When did you pick up those tastes, anyway?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "No clue?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "You're not talking to me."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Huh?",
+                "Where'd Suika go?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "She's above ground.",
+                "You know her?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Above ground?",
+                "Oh, her voice is coming from that jewel."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "If you're friends, you're an oni too, right?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Of course.",
+                "I was one of the Big Four of the Mountain with Suika, Yuugi the Strong!"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Of course, I can't climb many mountains down here."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Hmm.",
+                "So, you won't attack the overworld anymore, right?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Ahahahaha!",
+                "Why would we want to do that now?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "This place may have been Hell once, but now it's our paradise."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "We're even thankful for the sages above ground.",
+                "They won't let anyone come bother us here."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "But more importantly, you!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "You're strong for a tengu,",
+                "And it looks like you know Suika, too."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "I haven't been this excited in a long time!"
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "... not again.",
+                "Why is it always like this?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well done!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Only a friend of Suika could be this strong!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "So, you really don't want to attack the overworld?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "No no.",
+                "That's an oni's promise."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The underworld was given to us",
+                "in return for sealing away the evil spirits."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "The underworld is our paradise.",
+                "We don't care about the overworld anymore."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Suika >(It's been weird lately, though.",
+                "<l$> The evil spirits showed up together with these springs.)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Oh, Suika.",
+                "So, the evil spirits, you say?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Suika >(Yep, together with a bunch of earth spirits.",
+                "<l$> Something bad's gonna happen if this keeps up.)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "...Really?",
+                "That's weird, someone should be watching over them."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "What are you talking about?",
+                "I'm not keeping up with your explanations."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "<t$Suika >(That's 'cos nobody's given one.)"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "<t$Suika >(Anyway, I asked this tengu to look into",
+                "<l$> it for me.)"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "<t$Suika >(Since we can't act in secret.)"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Oh, I see!",
+                "Well, then, I'll leave it to you, tengu!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Where should I",
+                "go now?"
+            ]
+        }
+    }
+}

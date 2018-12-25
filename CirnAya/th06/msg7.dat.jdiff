@@ -1,0 +1,668 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "What?",
+                "Are you here again?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I'm here again."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "Today, my asthma isn't so bad and I'm feeling pretty good."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "I'll show you",
+                "my best magic!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "It's oddly hot today."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Are they so violent"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "because the girl",
+                "went crazy before?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "How naïve!",
+                "You there, bird!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Another one?"
+            ]
+        },
+        "247_h1_0": {
+            "lines": [
+                "The Devil's Little Sister",
+                "<c$Flandre Scarlet$The Devil's Little Sister>"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Here I am."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "And you are? You weren't here",
+                "the last time I came..."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "I was, but you couldn't see me."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "So, are you a tengu?"
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Yes, that's right."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "You're not trying to trick me, right?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I never saw",
+                "one before."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "That's right, I am a tengu."
+            ]
+        },
+        "257_0": {
+            "lines": [
+                "Tengus are pretty complicated.",
+                "Most of them are, anyway."
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "But, chickens..."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "Ah?"
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "...even if you don't know how to cook them,",
+                "they're still tasty."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "And who makes the food",
+                "in your household?"
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "I dont know...I don't think my sister does..."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Sister?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Miss Scarlet, the devil?"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "Remilia!",
+                "My sister Remilia!"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "She doesn't look like she",
+                "can cook at all."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "She doesn't."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "I heard something interesting."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "Your older sister keeps intruding the shrine",
+                "and being a nuisance."
+            ]
+        },
+        "277_0": {
+            "lines": [
+                "The shrine maiden is getting pissed."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "I know!"
+            ]
+        },
+        "279_0": {
+            "lines": [
+                "I wanted to go too..."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "That would be something..."
+            ]
+        },
+        "281_0": {
+            "lines": [
+                "I couldn't.",
+                "It was raining too hard."
+            ]
+        },
+        "283_0": {
+            "lines": [
+                "You seem to be different...",
+                "Have you done something in the past?"
+            ]
+        },
+        "285_0": {
+            "lines": [
+                "I couldn't have done anything."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "I haven't gone out even once",
+                "the past 495 years."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "Wow. Aren't you bored?"
+            ]
+        },
+        "289_0": {
+            "lines": [
+                "I have a play toy over here..."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "What do you want to play?"
+            ]
+        },
+        "291_0": {
+            "lines": [
+                "Danmaku."
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "Oh, dodging patterns.",
+                "I'm pretty good at that."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "See?",
+                "This is the power of a tengu!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Don't believe that you've won."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "There's still more!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "!?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yes, I can't even shoot smoke anymore..."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Aw....I'll come and play with you."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "So please, don't cause trouble."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Oh, and I was thinking of visiting you with cake and tea, in thanks."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I don't want to know",
+                "what you put in those."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I don't want to know",
+                "what you put in those."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "It's not too sweet, is it?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "No it's not that!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Good girls should go home quietly",
+                "and go to sleep."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "...But I am home?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "So you don't need to go home.",
+                "Go to sleep then."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'm going back to the mountain."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "But bad girls don't need to go home."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "I'll need to pick up another bad girl",
+                "from the shrine, after all."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Who do you mean, bad girl?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Your sister!!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "What?",
+                "Are you here again?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Yeah.",
+                "I wanna play some more!"
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "I don't have time for this."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "The little sister, and now you.",
+                "What kind of day is this?!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "W-woah,",
+                "what's going on?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "This house is a bit empty."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But everyone is attacking",
+                "with so much intensity."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Did someone call me?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Nope, I didn't."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Here I am."
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Who're you...?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Before you ask for a person's name..."
+            ]
+        },
+        "249_0": {
+            "lines": [
+                "Ah, me?"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "I'm Cirno, the strongest ice fairy!"
+            ]
+        },
+        "252_h1_0": {
+            "lines": [
+                "The Devil's Little Sister",
+                "<c$Flandre Scarlet$The Devil's Little Sister>"
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "I'm Flandre,",
+                "Mrs. Cirno...cute name."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "You look similar to",
+                "that vampire girl I beat."
+            ]
+        },
+        "255_0": {
+            "lines": [
+                "So YOU beat my sister..."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "I have seen it, because I was here last time you",
+                "barged in here."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "You were?"
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "I've been resting in the basement."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "For about 495 years."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Sounds like a long time."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "I was listening when you quarreled",
+                "with my elder sister."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "So...",
+                "You are the younger one?"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "I've always been curious about these",
+                "fairies, so I came to look."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "You are lucky then.",
+                "Look at me all you want!"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Will you play with me?"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Play?"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "Danmaku."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "Danmaku?",
+                "Sounds fun!"
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "I won't let you",
+                "continue!"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Weaaaaak~"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This isn't happening...",
+                "I actually lost..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "It's real, don't worry."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I'll go back to the lake."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yes, I've had enough."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "But in the end I'll be all alone again."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Oh..."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "It must be sad, being all alone..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Of course it is."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Tell you what:"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I'll visit you, and play with you more."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "R-really?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Yeah, you are fun to beat."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Hmpf,",
+                "next time that won't happen."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "We'll see about",
+                "that."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "You will die by the bullets"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "and then there were none."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "I can't die.",
+                "That's what makes us fairies special."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Well, it doesn't matter.",
+                "I can't die myself."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Dying sounds scary."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "How did we get to such a morbid topic..."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "Not sure, already forgot..."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Well...whatever."
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "I'll be heading to the lake now.",
+                "See you later!"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "I'll haunt you in the night..."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Not when I do first!"
+            ]
+        }
+    }
+}

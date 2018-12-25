@@ -1,0 +1,428 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Oh, did you come to visit the shrine",
+                "in this cold weather?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hehe, I've learned how to do the greetings here."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "You can't let yourself be held back by",
+                "common sense in Gensokyo, right!?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hm, where's that idiot, anyway?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "If what that hell raven said is true, all",
+                "the fighting I've been through is Kanako's work."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Suika >(Heeey!",
+                "<l$> Where are we off playing today?)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Why is an oni talking to me through my crows",
+                "when I'm still above ground?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh, what a perfect time to find a tengu."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Do you know where the god of this shrine went?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Huh?",
+                "I was just looking for them, too."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Eh? Even tengus are lost?",
+                "That's funny."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "She must be hiding, right?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "<t$Suika >(Huh?",
+                "<l$> That voice, that person...)"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "<t$Suika >(You're Koishi from the Komeiji place, right?",
+                "<l$> What're you doing on top of a mountain like this?)"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Hmm? Have we met before?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Huh? You know her?"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "<t$Suika >(Hey, remember the scary lady in the",
+                "<l$> Palace of the Earth Spirits? This is her little sister.)"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Eh?",
+                "Satori's sister?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Hmmm, are you the tengu who beat",
+                "my sister and Okuu?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Something like that, yes."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "I wasn't able to find the god of the mountain,",
+                "but I can't believe I met someone like you up here."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "What a long trip it must have been!"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Or maybe you're related to this shrine?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "No, no, well, kinda, but",
+                "I don't know about the gods whereabouts."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Really?",
+                "Well, it doesn't matter."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "If you beat my sister,",
+                "I'd better test your power for myself."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Man, everyone's the same wherever I go.",
+                "Why do I have to keep fighting these people?"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "<t$Suika >(Aya, Koishi has a power that compensates for",
+                "<l$> her sister's weak point.)"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "Satori's weak point?"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "<t$Suika >(Satori's mind reading is her weak point.",
+                "<l$> Koishi decided to close her third eye by herself.)"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "What are you talking to yourself about?"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "I can't read minds like my sister.",
+                "Please talk to me with words I can hear."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Her mind reading was a weakness,",
+                "so she closed her third eye?"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Well, then, she's just a regular youkai!",
+                "This'll be an easy win."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "I don't really understand, but are you ready?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Let me tell you something good.",
+                "My sister could never win against me."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Why? I can act against the subconscious,",
+                "against the thing that she can’t read."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "The danmaku that lurk in your subconscious",
+                "are danmaku that my sister has never seen!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Oh, wow!",
+                "You're not just any normal tengu, are you?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "That didn't hurt, but it sure does itch!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I can see how my sister, Okuu, and Orin",
+                "wouldn't stand a chance against you."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "My bullets can never hit you."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "<t$Suika >(Zzzz... Zzzz... oh,",
+                "<l$> hey, it's over?)"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Yeah, it ended while you were passed out",
+                "from drinking too much."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Anyway, why are you so strong?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Well, so I can take care of",
+                "troublesome youkai like you, of course."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "That's boring!",
+                "I'd use it to do something a lot more fun."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Well, it can be pretty boring."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I'd start a love-stricken massacre!",
+                "Or maybe pillage from a bunch of peaceful humans."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "<t$Suika >(Well, she's a youkai, after all. Why don't we play",
+                "<l$> together next time you're above ground?)"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Wow, you're really nice!",
+                "It sure is fun up here."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Hey, now!",
+                "Don't make any weird promises for me!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "And make sure I'm not around when you do that."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "<t$Suika >(By the way, Aya?)"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "<t$Suika >(Why did you come",
+                "<l$> all the way out to this shrine?)"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Oh, right. There's something I wanted",
+                "to ask Kanako and Suwako."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "They're both out right now."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "I'm watching the shrine while they're gone."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Mm,",
+                "so they're gone..."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "What did you want to ask them?",
+                "I can pass the message along."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "It was about the crow from underground...",
+                "Uh, do you know what I'm talking about?"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Of course I do.",
+                "The hell crow with the yatagarasu, right?"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Eh?",
+                "How do you know about that?"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "Lady Kanako said it was her secret plan to",
+                "revolutionize industry on the mountain."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "She said if we could obtain clean energy,",
+                "it would bring more believers to the shrine."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "The feeding of the crow was successful.",
+                "I guess you could say the first stage is complete."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "She was a lot calmer than I imagined,",
+                "and listened to what we had to say."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "I thought she'd go wild above ground;",
+                "this is kind of anticlimactic."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "You mean my whole ordeal underground..."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Was just to help out with your kappa",
+                "industrial revolution?"
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Eh? You went underground?",
+                "Why?"
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Oh, whatever. I'm seriously tired,",
+                "so I'm going back to have a bath and go to bed!"
+            ]
+        }
+    }
+}

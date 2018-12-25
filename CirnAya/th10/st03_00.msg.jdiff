@@ -1,0 +1,180 @@
+{
+    "0": {
+        "32_0": {
+            "lines": [
+                "Ack! Aya?!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Hey!",
+                "We aren't playing chase right now!"
+            ]
+        }
+    },
+    "1": {
+        "38_0": {
+            "lines": [
+                "Awww, my optical camo suit broke!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "...Whoops."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You are getting pretty good,",
+                "at picking me out from the camo."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Well, that's because im bird-eyed!",
+                "...Or maybe because you weren't really hidden."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Hmm...",
+                "Tag, you're it!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Ugh, this isn't the time for that!"
+            ]
+        }
+    },
+    "2": {
+        "38_0": {
+            "lines": [
+                "Ah, fast as always.",
+                "So, what's up?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I've heard some interesting stuff from the shrine maiden."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh?",
+                "To think that you can talk to her so easily."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "What did you find out?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "The god on top of the mountain is stealing faith.",
+                "This could speak trouble for Gensokyo."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The god on top of the mountain?",
+                "Which one? There are a bunch..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Also...",
+                "I don't want to be responsible for putting you in danger."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "The god up there is fearsome.",
+                "And they especially don't want tengu to appear."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "So please, don't go up there.",
+                "It's too dangerous."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Oh, I know...",
+                "But sometimes there are things you just have to do."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I didn't want to do this.",
+                "Why did it have to turn out this way..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Oh well, if you really want to get into the mountain,",
+                "you'll have to show me how serious you are!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Hah...",
+                "Strong as always..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Now then, I need to hurry up."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Hey Aya,",
+                "promise me to be careful."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "It's not like I'm new to this.",
+                "I can handle this just fine."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Yeah, you fought some powerful foes in the past."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Please beat that god for us."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Beat her...",
+                "First of all, I'd try to talk her out of it."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I doubt that will work.",
+                "She's quite the powerful god."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "I'll inform the kappa up ahead. Good luck!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "The fastest way...",
+                "is up this waterfall!"
+            ]
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Oh come on!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This isn't fair!",
+                "It's too fast! I wanna get its treasures!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "There was a treasure response from over here..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "What? It's that fairy from before.",
+                "Boring..."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Treasre?",
+                "Where, where, where?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Nope, that's not it.",
+                "Looks like the response was coming from you."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "But fairies have a rarity factor of negative ten,",
+                "so I think I'll just ignore you."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Oh, you don't know how rare I am."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Well, I'd better go find the next treasure,",
+                "or I'll never hear the end of it from her."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You want treasure, huh?",
+                "Just go to the treasure ship, you idiot."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Treasure ship?",
+                "That thing floating up in the sky?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Maybe it looks like a treasure ship,",
+                "but it's not, now."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Well, I don't have any business with fairies, but..."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Too bad for you,",
+                "but it looks like my little mice are really hungry."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "What a stupid mouse."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Whatever, I gotta keep my eyes on the treasure!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Yikes, it's fast!"
+            ]
+        }
+    }
+}

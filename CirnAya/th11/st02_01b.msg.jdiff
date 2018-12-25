@@ -1,0 +1,113 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Why are the youkai here so bad?",
+                "This whole thing just seems bad."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(I read up on that youkai we ran across before.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Pache >(It was an earth spider. A troublesome youkai",
+                "<l$> who inflicts disease upon humans.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Disease? Ewwww.",
+                "Wait, can you tell me their weak points?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh, are you a fairy?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Have fairies come to explore the underground?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Nope.",
+                "I'm just here to fight."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Please, take my advice,",
+                "you're better of just going right back where you came."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I don't feel like going back, though."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Bookworm, tell me about her.",
+                "What's her power, or her weak point?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Pache >(How should I know that already?)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Well, I tried to warn you...",
+                "Fairies truly are foolish."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Pache >(Well, you're the one that provoked her,",
+                "<l$> deal with her yourself.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Sure thing!",
+                "Read up on her, ok?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Oh, that was quick."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Pache >(...A Persian person driven by jealousy?",
+                "<l$> I don't really understand.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Pache >(Look, this is all conjecture.",
+                "<l$> *scribbles notes*)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Am I here so you",
+                "can do research?"
+            ]
+        }
+    }
+}

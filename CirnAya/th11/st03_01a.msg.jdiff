@@ -1,0 +1,263 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, you're pretty good."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Dunno who you are, but they say",
+                "a rowdy welcome is best for a rowdy guest!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "I like you!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "We'll have lots more fun, so",
+                "Keep following until you can't take anymore!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh?",
+                "Not really interested, but..."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hey uh..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hm? What's that?",
+                "Give up already?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I would never! But uh...?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Why is it snowing underground...?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Huh?",
+                "Well, it's winter, of course it's snowing."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Oh, thought I had something to do with it."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Alice >(Cirno, we've made it to the city,",
+                "<l$> so let's try to get some information.)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Hm, okay, let's talk, I guess.",
+                "Who are you?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I'm one of the Big Four of the Mountain, Yuugi the strong."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Of course, I can't really go mountain climbing",
+                "since I came underground."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "<t$Alice >(Big Four...?",
+                "<l$> Of the Mountain...??)"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Okay, question time is over.",
+                "Let's fight."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Pretty straightforward.",
+                "Mind if I ask something?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Uh, ok."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "It's really been a long time since humans came underground."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "That's because there's a lot of really frightening youkai",
+                "here. Fairies always seemed scared of them."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "So, then, are you brave?",
+                "Or are you a fool?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I'm a brave fool."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Alice >(You mean an idiot, right?)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Ho ho.",
+                "I guess it's a waste of time to ask a fool a question."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If you were strong, I probably wouldn't need to say anything,",
+                "no matter why you came down here."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "<t$Alice >(Cirno, watch out! I did some research,",
+                "<l$> and the Big Four of the Mountain are...)"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Alright, come on and fight me seriously!",
+                "If you don't, you might end up in tears!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well done!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I love how strong you are!",
+                "We're friends from now on."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Alice >(The Big Four of the Mountain are the four",
+                "<l$> big oni, if we're talking about the Youkai Mountain.)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Alice >(Which would mean you're looking at an oni...)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "An oni...?",
+                "You mean, like the drunky?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So, why did you come down here?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "No clue..."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Alice >(I got something to ask you;",
+                "<l$> I'd like you to stop the geyser that's erupting now.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Alice >(I can feel something sinister behind",
+                "<l$> it all. Above all...)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Alice >(My dolls go out of control when they get near it.",
+                "<l$> It's as if they got some sort of grudge...)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "A geyser, huh?",
+                "That's odd, I have no idea about that either..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "You should probably go to the Palace of the Earth Spirits."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "They might know something up there."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Hey, you're acting like a townsperson.",
+                "But..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "What's with you, Dolly? You sent me down here",
+                "to stop the hot springs?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "<t$Alice >(That's right. I thought you'd object",
+                "<l$> if I mentioned it, so I didn't tell you.)"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "I mean, I'm here now,",
+                "so I guess we can only go further!"
+            ]
+        }
+    }
+}

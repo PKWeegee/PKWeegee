@@ -1,0 +1,454 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Oh, did you come to visit the shrine",
+                "in this cold weather?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hehe, I've learned how to do the greetings here."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "You can't let yourself be held back by",
+                "common sense in Gensokyo, right!?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Woah, it's cold up on the mountain."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The hot springs appeared and the spirits went away,",
+                "isn't that enough work for now?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Alice >(Look, it's the extra dungeon",
+                "<l$> for after you beat the game. Good luck!)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Geez, who started that, anyway?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Isn't it enough to have cleared the game",
+                "in the first place?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "If there's always an extra dungeon,",
+                "then the last boss just becomes a midboss!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Alice >(Don't be so blunt.",
+                "<l$> Look, according to the hell raven,)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "<t$Alice >(She got the power of nuclear fusion",
+                "<l$> from the gods of the mountain, right?)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Yeah, that's right.",
+                "I came here to get some sort of divine blessing, too."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Um, excuse me..."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Have you seen anyone from this shrine?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Yeah, I just beat her over there."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "You beat her?"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "She came at me from over there,",
+                "so I did the usual!"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Oh my, it looks like no one's here.",
+                "What a shame."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "What's wrong?",
+                "Coming to pray for good grades?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "I'll introduce you at the shrine below the mountain.",
+                "There's a shrine maiden there that never has anything to do."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "I'd rather visit the shrine on the mountain.",
+                "I came here to get a divine blessing from the gods in this shrine."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "<t$Alice >(What's the divine blessing of the Moriya Shrine,",
+                "<l$> anyway?)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "I don't know, something good,",
+                "like the nuclear fusion power she gave that crow, right?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Nuclear fusion, crow?",
+                "Are you talking about Okuu?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Who's Okuu?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "<t$Alice >(She's talking about that hell raven,",
+                "<l$> Utsuho.)"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Oh, the bird.",
+                "That poor girl who got demoted to midboss."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "You two know about Okuu?",
+                "Who are you?"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "I'm the strongest Ice Fairy, Cirno.",
+                "Don't forget it!"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Anyway, who are you? Any pilgrim to this shrine's",
+                "pretty suspicious, and strong."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "Okuu's one of my sister's pets."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "I was so jealous of her power-up."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "I thought if I came here,",
+                "my pets could become more powerful, too."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "<t$Alice >(Are you Ms. Satori's younger sister!?)"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "What's that?",
+                "Did Satori have a little sister like her?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Oh? You even know about my big sister?"
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Are you two..."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Like I said, I'm Cirno, the strongest!"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Are you the doll-using fairy that",
+                "they said visited our house?"
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "Wha?.."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "<t$Alice >(Tee hee.)"
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "I'm Koishi Komeiji."
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "I couldn't find the gods of the mountain,",
+                "but it looks like I found a good playmate."
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "Stealing is bad, okay?",
+                "Ms. Above Ground Fairy."
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "Well, whatever.",
+                "I did beat Kanako and Suwako, though."
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "It looks like they're not around,",
+                "so I'll play with you."
+            ]
+        },
+        "438_0": {
+            "lines": [
+                "I heard about you from my sister and Okuu."
+            ]
+        },
+        "446_0": {
+            "lines": [
+                "That fairy dodged danmaku just like bits",
+                "of paper dancing in the air."
+            ]
+        },
+        "454_0": {
+            "lines": [
+                "She said you were psychologically unsettling,",
+                "like a flea crawling up your back."
+            ]
+        },
+        "462_0": {
+            "lines": [
+                "If I beat you and take you back home,",
+                "I'll definitely become the talk of the house!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're strong!",
+                "I can see how you beat my sister."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Yep, I crushed you easily!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Alice >(Was it really that easy?)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Thanks for spending time with me!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I couldn't take you alive,",
+                "but this'll probably be worth some talk back home."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Uh, oh yeah,",
+                "you're Satori's little sister..."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "So, uh,",
+                "can you read minds, too?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Nope, I closed my third eye."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Third eye?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "The third eye, which can see through people's minds.",
+                "But that's what makes my sister weak."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I realized that mind reading made me",
+                "lose to people's subconscious."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "So I don't read people's minds anymore.",
+                "Uh, no, I guess I can't, really."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I don't get it, but thank goodness."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "<t$Alice >(What a shame. You could",
+                "<l$> control people easily with that kind of power.)"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "It's not that great.",
+                "The conscious always loses to the unconscious."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "People don't just act on what they ",
+                "consciously think."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "They act on both the conscious and the unconscious. If you read",
+                "their mind, you can't tell what's going on in their subconscious mind."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Hmm, I see.",
+                "Well, I got all warmed up, but I couldn't find Kanako or anyone else."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Guess I'd better be heading home."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Alice >(What?",
+                "<l$> Don't tell me you're done here?)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Well, someone else will take care of seeing if there's",
+                "anything between the underground and the mountain gods."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "I'll just ask them later."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "<t$Alice >(You're so easygoing.",
+                "<l$> Maybe I should look into it myself, later?)"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Besides, I figured out something really important."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "<t$Alice >(...?",
+                "<l$> What?)"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "The shrine's as empty as a snake's husk right now.",
+                "It's the perfect time to go fight."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Oh my, being too reckless is bad, you know?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "——<i$\"Later, Kanako and the others caught Cirno>",
+                "<i$       beating people up.\">"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "<i$And so they put her through the wringer. Harshly.>",
+                "<i$      All's well that ends well.\">"
+            ]
+        }
+    }
+}

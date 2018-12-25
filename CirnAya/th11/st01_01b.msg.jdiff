@@ -1,0 +1,111 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "The wind is so strong."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$??? >(...That's because this great wind hole is here.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "...Hm, who's there?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Pache >(...You can hear my voice, right?)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "What's that? Bookworm?",
+                "Where's your voice coming from?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Pache >(From all those little things around you...)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh?",
+                "A fairy? Nothing to worry about then."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Are you going to the festival they're having down below?",
+                "You look like it."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Pache >(Be careful.",
+                "<l$> The underground youkai are nothing like us.)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What?",
+                "Looks about the same..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Well, if you're gonna go, go, or else go back."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "It'll be harder for you if I have to get involved."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Pache >(The youkai underground are bad for you.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Whaat?",
+                "It's not like I'm going to get sick?"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I'm bad for you even if you don't eat me."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Well, I haven't punished a fairy in a long time,",
+                "I may as well have some fun."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wow, you're right.",
+                "She seems pretty bad...at fighting."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Pache >(The underground is full of despised youkai.",
+                "<l$> You'd better be ready for them.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Why'd you send me down here though?",
+                "You are just lazing off. That's not fair."
+            ]
+        }
+    }
+}

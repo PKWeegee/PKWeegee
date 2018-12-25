@@ -1,0 +1,107 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "You've come to exterminate me, yes?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I don't see why not..."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Hm, but can you really defeat me?"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Of course."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "And on top of that, you look flammable."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Huh? Flames?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I'll burn you up into a pile of ashes!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Hoho... If you think you can hit me, try it!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "But you'll regret fighting me in this place blessed by the moon!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "A wolfgirl?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "You didn't even go full power."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Huh? I was trying to, though..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Lemme just tear your clothes off!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Ah...please don't. On full moons, I get thick fur."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "How thick?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Uh, nevermind."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I can roast you either way."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Eek... My cuticle..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Time to char you pitch black!"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Uhm, maybe not go that far...?",
+                "...Or should I?"
+            ]
+        }
+    }
+}

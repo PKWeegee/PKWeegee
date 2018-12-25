@@ -1,0 +1,201 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Humans, fairies, even tengu, everyone seems to be ",
+                "after this ship... are they after the treasure room?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Treasure room?",
+                "So it really IS a..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in arguing!",
+                "I'll show no mercy to any enemy!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Oh! To think that there are still tengu that",
+                "wouldn't run away after seeing this fist..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "This ship really is a treasure ship, right?",
+                "Looks a bit empty, but..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Ah, she ran away."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Just what are you after?",
+                "Treasure? Or perhaps our sister's power?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "A scoop!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Hmmm.",
+                "We have no need for the press."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "This ship looks pretty empty, though."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "I regret to have to tell you",
+                "there's no treasure left."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Excuse me?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "The treasure with the power to fly",
+                "also brings about change in humans and youkai..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Most of it has been lost while our sister slept.",
+                "It's fallen down into the world."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Eeh?",
+                "So what happened to the riches?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Riches?",
+                "Is that what you're after?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "There never were any.",
+                "None with any real monetary worth, anyway."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "That's a shame."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "...Eh?",
+                "You mean, this tengu has...?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Unzan tells me you're after the fragments",
+                "of the flying treasure. Is this true?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Fragments?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Unzan would have no reason to lie.",
+                "Excellent!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "You don't have to hide it.",
+                "You're collecting those fragments flying through the sky, right?"
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "You must be trying to revive our sister as well!",
+                "How awesome."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "What are you on about?",
+                "I just collected them because they were in the way!"
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "It's okay.",
+                "Now, hand over the treasure you've found!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're quite strong! Unzan says you must be",
+                "a very famous person."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "R-really?",
+                "Well...my newspaper is very widespread."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "The floating fragments you've collected",
+                "are necessary for our sister's revival."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Now, please bring them inside."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "So there's no treasure?",
+                "What a letdown."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I guess I can still interview",
+                "whoever pilots this ship."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Maybe that will reveal",
+                "something of value."
+            ]
+        }
+    }
+}

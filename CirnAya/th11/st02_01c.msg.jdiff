@@ -1,0 +1,133 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "How deep is this hole..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Nitori >(Just a little farther until the Former Capital.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Former Capital?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Nitori >(It's where some old friends of ours live.",
+                "<l$> It's a great underground city.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "What's that?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Oh, are you a fairy?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "What does a fairy want in the Former Capital?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Finding strong people,",
+                "the usual."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Did you get lost?",
+                "You'd better go back above ground if so."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Back to where the light is so dazzling..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Nitori >(But everyone with really nasty powers",
+                "<l$> is forced to live outside the city.)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "<t$Nitori >(This is a youkai who controls jealousy.",
+                "<l$> Beat her up good now, okay?)"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Oh...",
+                "Sounds like a plan..."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Conversations are pointless anyways.",
+                "Why am I even down here in the first place?"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "<t$Nitori >(Because of the hot springs, right?",
+                "<l$> If you want to find them, you've gotta go underground!)"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "You talk to yourself an awful lot."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Well, I'm sure nobody will mind terribly much",
+                "if I just beat up one person..."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "I'm so confused,",
+                "but if there's gonna be hot springs, I don't care!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Nitori >(Okay, we're almost to the Former Capital!)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Are there strong people there?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Nitori >(Youkai that were sealed away out of revulsion, youkai",
+                "<l$> that oust themselves underground of their own accord...)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "<t$Nitori >(There's some loud, anti-social types,",
+                "<l$> and...)"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I can take it."
+            ]
+        }
+    }
+}

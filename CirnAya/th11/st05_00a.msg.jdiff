@@ -1,0 +1,210 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Oh, it's so hot.",
+                "At least I have my fan."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Yukari >(Good thinking)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I wouldn't have imagined such a hellish place",
+                "would be under their courtyard."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "...A cat?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "I think that cat's been following me from the Palace,",
+                "how creepy."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "<t$Yukari >(Do you have any catnip?)"
+            ]
+        },
+        "314_0": {
+            "lines": [
+                "Tada~"
+            ]
+        },
+        "322_0": {
+            "lines": [
+                "Looks like you're havin' fun, sis!",
+                "Mind if I join ya?"
+            ]
+        },
+        "330_0": {
+            "lines": [
+                "Aah!",
+                "The cat turned into a cat!"
+            ]
+        },
+        "338_0": {
+            "lines": [
+                "<t$Yukari >(You mean, the cat turned into a cat-wheelbarrow?)"
+            ]
+        },
+        "346_0": {
+            "lines": [
+                "It's more fun being a cat,",
+                "but I can't really talk like that."
+            ]
+        },
+        "354_0": {
+            "lines": [
+                "Besides, it looked like I was gonna lose to ya,",
+                "so I had to change back."
+            ]
+        },
+        "362_0": {
+            "lines": [
+                "Are you the pet Satori",
+                "was talking about?"
+            ]
+        },
+        "370_0": {
+            "lines": [
+                "<t$Yukari >(I think she said it wasn't the cat.)"
+            ]
+        },
+        "378_0": {
+            "lines": [
+                "I was watching, and listening.",
+                "To my master's gallantry, and your plot!"
+            ]
+        },
+        "386_0": {
+            "lines": [
+                "You wanna stop the geyser?",
+                "Ya better not!"
+            ]
+        },
+        "394_0": {
+            "lines": [
+                "She's really dangerous, ya know?",
+                "She's the most dangerous bird underground."
+            ]
+        },
+        "402_0": {
+            "lines": [
+                "There's no way we can turn back now!",
+                "Even if you're a dangerous cat."
+            ]
+        },
+        "410_0": {
+            "lines": [
+                "<t$Yukari >(Hm, I wonder where our cat went off to?",
+                "<l$> It's such a pain when she just suddenly disappears like that.)"
+            ]
+        },
+        "418_0": {
+            "lines": [
+                "<t$Yukari >(I wish you'd take care to program your own familiar",
+                "<l$> properly. Without any bugs.)"
+            ]
+        },
+        "426_0": {
+            "lines": [
+                "Well, if you're gonna go up against that dangerous bird,",
+                "you gotta fight me first!"
+            ]
+        },
+        "434_0": {
+            "lines": [
+                "Perfect!",
+                "I think we already fought you a few times as a cat, though..."
+            ]
+        },
+        "442_0": {
+            "lines": [
+                "If I kill you, tengu, my hellfire cart will get heavy~♪",
+                "Man, carrying off corpses is fun!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Good job!",
+                "Wouldn't've thought I'd lose to a tengu."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Oh, it's so hot I can't stand it!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I just wanted to be done with it."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Hey, sis, I bet you can beat her for me!",
+                "I'll be waiting for you!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "What a weird feeling."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "<t$Yukari >(It looks like there's only one road up ahead.",
+                "<l$> All we can do is go forward.)"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I wonder what the pet down that road will be like?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "She's one of Ms. Satori's pets, just like me, but..."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "She got really powerful lately, it's like she can do anything.",
+                "So, nobody can really take care of her..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "We animals get really powerful when we live long, and we",
+                "can get powerful by swallowing up ghosts and evil spirits."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "But, she's... I wonder where she found it?",
+                "Hard to believe she swallowed up the power of the gods."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "<t$Yukari >(Did you hear that?)"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Yeah.",
+                "I wonder if it's okay to eat gods like that..."
+            ]
+        }
+    }
+}

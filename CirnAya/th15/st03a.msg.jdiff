@@ -1,0 +1,132 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "The Moon...so close..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Well, look who it is."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "If it isn't Gensokyo's tengu reporter."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "This is a quite powerful nightmare, isn't it?",
+                "...Wait."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Your physical body?!",
+                "Is that your physical body?!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Uh...",
+                "Yeah, why shouln't it be?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "For your physical body to break into",
+                "the Dream World like this..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...have you been caught in some kind of trap?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "T-trap?",
+                "That blasted rabbit, she tricked me..."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "The dream leads to the Lunar Capital...",
+                "Aha. I see."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Very well.",
+                "I will dispose of this lunatic dream."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Now, sleep.",
+                "I will craft your Kaian now."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "I've disposed of",
+                "all the nightmares up to this point."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You must have a strong will",
+                "to maintain control over your body through this."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I am a baku.",
+                "A resident of this Dream World."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You said you were heading toward the Lunar Capital?",
+                "And with your physical body, too."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "There, a nightmare unlike any you have encountered",
+                "before now awaits you."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "It is worthy of being called",
+                "a \"lunatic dream.\""
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Prepare yourself well,",
+                "dreaming tengu of the physical world."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "...so wait, lemme see if I got this..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "...The Lunar Capital and Gensokyo have been connected",
+                "through the Dream World?"
+            ]
+        }
+    }
+}

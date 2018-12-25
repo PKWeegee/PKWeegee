@@ -1,0 +1,117 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "How deep is this thing!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Suika >(...Are we there yet?)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No clue.",
+                "I don't even really know where we're going."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh, are you a tengu?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "What business does a tengu have in the Former Capital?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Former Capital?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Don't tell me you're here for our cursed power?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Suika >(No way, who cares about that?)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Suika >(Are you the bridge princess?)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You know about me? Who are you?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I don't know anything about you...yet!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "<t$Suika >(She's a lowly youkai driven by jealousy.",
+                "<l$> Are you guarding the bridge to the underground here?)"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Hmph,",
+                "Are you looking down on me?"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "That lowly power should still be frightening to a tengu."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Look, I don't know anything about you, okay?"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Then experience the power of a youkai of fear",
+                "that should have been sealed away!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Stop holding your own conversations!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Suika >(We're almost there.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Huh?",
+                "We're almost where?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Suika >(The world where we live.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Whaa?",
+                "Where are you draggin me?"
+            ]
+        }
+    }
+}

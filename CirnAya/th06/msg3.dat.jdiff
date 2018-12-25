@@ -1,0 +1,212 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Damn, time for the last stand!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Last stand?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Stop following me!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Thanks for leading the way!"
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I don't know why you are following me.",
+                "There's nothing here."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Then where are you fleeing to?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ah uh,",
+                "nowhere..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "So, who are you?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Er, just a normal person."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "A normal person who attacks me?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I attacked normally.",
+                "But you attacked me first."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "You're the one who's abnormal."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'm not,",
+                "I am just a normal tengu."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "That's good to hear.",
+                "If I remember correctly..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...they say that tengus",
+                "are to be eliminated..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Don't spread sayings like that!"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Now then, please show me the way."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There is no more.",
+                "This is the demo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh well, that's too bad."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm so sorry, mistress!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Damn, gotta run for now!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I'll chase you then."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, thanks back there."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "There you are!"
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hey, why is a fairy",
+                "coming up to me?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "To fight."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "But you just die when I hit you."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Then I just don't get hit.",
+                "Easy."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "As a guard, I won't let even the smallest fairy in."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "A guard?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Yes, for this mansion there."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Oh a mansion!",
+                "Let me in!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "What part of guard didn't you get?"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Hahaha,",
+                "I can go in now."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This has got to be a joke."
+            ]
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "If only Reimu wasn't so lazy,",
+                "I wouln't be here right now..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$??? >(Hey I heard that!",
+                "<l$> Don't you dare call me lazy.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Wait what? Did my crows just talk?",
+                "Or am I already going insane?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Reimu >(It's me, you stupid tengu.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<t$Reimu >(Your crows allow us to communicate.)"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "|\tHuh, I bet that's \t,\tYukari's\t,her",
+                "Huh, I bet that's Yukari's doing.",
+                "But how did she...?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Reimu >(Well, I'll enjoy my tea.",
+                "<l$> You go and have fun down there.)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh?",
+                "A ventriloquist?"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I wonder where that voice is coming from?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "<t$Reimu >(Oh look, a youkai. Have fun.)"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Ugh, this is why I wanted you to go here.",
+                "Us tengu are hated in the underground."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "<t$Reimu >(That's the fun part.)"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "What a weird Tengu...",
+                "Talking to herself and all."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Or is she just ignoring me?"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Oh, I'm not ignoring you."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "I just want to pass by you peacefully."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Sorry, but can't let you do that.",
+                "Now face the wrath of the spider, filthy tengu!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Didn't wanna do that, but you gave me no choice.",
+                "Now then..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Reimu >(See, it's not that bad to bust some youkai.",
+                "<l$> You'll get the hang of this soon.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I'd still rather have you down here..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Oh well...let's keep going."
+            ]
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Wait, waaaait!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "What is it, fellow bird?"
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "The two of you aren't hearing my song, are you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Perhaps you're not human?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "No, we're not human."
+            ]
+        },
+        "64_1": {
+            "lines": [
+                "Don't get distracted",
+                "by this song."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "That's the cry of a night sparrow.",
+                "It's one of the most accursed sounds in the world."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Accursed? How rude of you."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "At the very least, my singing is better than the sound of",
+                "approaching idiots, isn't it?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Yeah. Way better."
+            ]
+        },
+        "69_1": {
+            "lines": [
+                "Why are you agreeing with her...?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Hey listen.",
+                "The cries are getting louder."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Geeze. Whether you are tengus or",
+                "you were fairies, it doesn't matter to me."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Now, the fun youkai festival begins!"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Are we gonna beat her?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Eh? Uh, yes. I suppose we should, yes.",
+                "But watch out, she may have a trick up her sleeve."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "I don't like sparrows.",
+                "They are too dumb."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "You shall not pass!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "That night sparrow's appearance is going to attract",
+                "lots of youkai and other things, before long."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Let's move on before that happens.",
+                "We have to hurry."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Sure."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Off to the village now!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "What do we want over there?"
+            ]
+        }
+    }
+}

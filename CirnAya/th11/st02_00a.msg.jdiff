@@ -1,0 +1,113 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "How deep is this thing!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Yukari >(...You're almost there.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Yukari >(You should reach the Former Capital soon.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh, are you a tengu?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "What does a tengu want in the Former Capital?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Former Capital?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Are you coming to look for our cursed power?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Yukari >(.....Reimu.)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Yukari >(All the youkai underground have fearsome,",
+                "<l$> detestable powers...)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "<t$Yukari >(Just beat her while you're passing by her.)"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "You are so unpredictable!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "It's fine to get some scoops here,",
+                "but I think you tricked me, Yukari."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Yukari >(Hmhmhm, I'm not tricking anyone.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "I'm jealous of the light above ground.",
+                "I'm jealous of the gentle breezes."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I don't have anything against you, but",
+                "I can make up lots of reasons to attack you."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "What was her problem?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Yukari >(She's a youkai of jealousy binding",
+                "<l$> this world to the next through her regrets.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "This world and the next?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Isn't the barrier between those two",
+                "already fragile enough?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "<t$Yukari >(That's just because human death has a bewitching",
+                "<l$> effect on youkai.)"
+            ]
+        }
+    }
+}

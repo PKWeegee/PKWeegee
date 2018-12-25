@@ -1,0 +1,270 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, you're pretty good."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Dunno who you are, but they say",
+                "a rowdy welcome is best for a rowdy guest!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "I like you!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "We'll have lots more fun, so",
+                "keep following until you can't take anymore!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "But I don't want to go drinking with you."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Geez!",
+                "You are kinda in my way, you know!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, you're so cold.",
+                "And people from above almost never come down here."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Yukari >(...Aya, why don't we listen to",
+                "<l$> what she has to say?)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I don't even know why you want me down here.",
+                "You're after something, right, Yukari?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Just whose tail are you after, anyway?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I don't know."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh, are you lost?",
+                "How did you wander all the way down here?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Did you wander into some hole that opened up?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "No!",
+                "I was forced to come down here!"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "<t$Yukari >(I promised not to let any youkai",
+                "<l$> from above down here.)"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "<t$Yukari >(And then you all built a great city underground.)"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "<t$Yukari >(But, in return I believe you promised to make",
+                "<l$> sure the evil spirits underground would remain pacified.)"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Yeah, we have a deal like that, but who are",
+                "you if you know about that?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "<t$Yukari >(And yet, the evil spirits started pouring out when",
+                "<l$> that geyser erupted. That's not what you promised, is it?)"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Eh? They're pouring out?",
+                "The evil spirits?"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Well, I can't think of many people who've left the",
+                "Former Capital to go above ground..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I only know of one,",
+                "But she's..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Yukari >(She's got nothing to do with this, I'm sure.",
+                "<l$> Can you remember any other times?)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Hm, let's see...",
+                "A geyser probably means it's the Palace of the Earth Spirits."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "*scribble scribble*",
+                "Wait slow down! What's the Palace of the Earth Spirits?"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "You came here because the youkai in that jewel",
+                "told you to, right?"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Yep, you got that correct."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "The Palace of the Earth Spirits is a building right in",
+                "the middle of what used to be Hell here."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "A bunch of stuck-up folks live there."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "Hmm.",
+                "That's our next goal then."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "<t$Yukari >(Hohoho, I think it'll be a while before we",
+                "<l$> can set out, as long as she's there, anyway.)"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "That youkai in the jewel knows",
+                "what's going on!"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Because, we oni always want to compare our strength",
+                "to that of the strong people we meet!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well done!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "If you're that powerful, you'll have no problems at the",
+                "Palace of the Earth Spirits!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "What?",
+                "You're an oni?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Uh, yeah?",
+                "We cast aside the above ground world and moved here."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Long ago, this was Hell's shopping district,",
+                "but now the Yamas have made off with Hell, so..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Now it's just a forgotten prison for evil spirits."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, that's an old story, I'm sure humans don't",
+                "remember anymore."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Yukari >(I wouldn't have thought you oni would break your",
+                "<l$> promise. Now, take her to the Palace of the Earth Spirits.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Yukari, what are you hiding?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Yukari >(Oh, the tea at the shrine wasn't very good.)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "That's true."
+            ]
+        }
+    }
+}

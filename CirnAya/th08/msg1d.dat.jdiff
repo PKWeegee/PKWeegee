@@ -1,0 +1,141 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Stop following me!",
+                "I'm busy here."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Busy with what?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm investigating the moon.",
+                "The night is short, so don't interrupt me!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I have to find the culprit,",
+                "and interviw them."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Then lemme tag along..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "\"Interview them\"..."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "I don't want to be interviewed.",
+                "So I'll just pummel you!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Before you do,",
+                "tell me where I have to go!"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "That's not how you do it!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "You just gotta",
+                "beat the answer out of them."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "What's with these two?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Ah?",
+                "Little firefly, take both of us on!"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Just leave me alone..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Firefly watching is fun.",
+                "Firefly beating is even more fun!"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Do we really have time for that now?!",
+                "Let me just go further!"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "You're spending the most time just talking like this!"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "It's been such a long time since I've seen anyone",
+                "who wouldn't be pleased to see fireflies!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "That took way too long.",
+                "But...I guess it was faster because of you."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "See, I told you.",
+                "Can I tag along now?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Fine.",
+                "I don't have time to argue, so don't hold me back."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Alright!",
+                "Where are we headed?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "First of all we should go along the path..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "It's gonna be a bit dangerous,",
+                "so try and not get killed."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I'll be fine.~"
+            ]
+        }
+    }
+}

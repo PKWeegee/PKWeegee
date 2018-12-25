@@ -1,0 +1,240 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Is it you? Are you the ones trying to attack",
+                "the village in the middle of this night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh?",
+                "Where are we?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "This should be the village..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "There's no point in playing innocent.",
+                "I can tell you're ominous."
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Crap!",
+                "These weirdos are really something."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh, how cruel.",
+                "At least we are strong."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "What business do you have in some place like this?"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "You attacked us first.",
+                "Now I want revenge."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "There's nothing here.",
+                "Just move along already."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "It's easy to say that, but",
+                "I know there was a village here..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There was never a village in this place!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "And I thought there was.",
+                "I remember pranking people in this area."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "What is your purpose?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "To investigate the weird moon."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "!?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Isn't there something else thats weird?",
+                "The night is so long..."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "You two are really way too suspicious."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I should get rid of you."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Wait, I can't just let you say that.",
+                "We aren't suspicious."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hu-"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Shut up."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...You two really do seem dangerous.",
+                "Looks like I'll have to drive you away from here."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Although I don't quite get what you're doing."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Hey hey."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "We beat a bug, a bird, and now there's a beast."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "What are you trying to say?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Hmph. I'll help myself to all of your history!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Every last bit."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "I wonder what we are gonna beat next!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Could you please concentrate on what",
+                "is happening right now?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "\"Beast\"? Isn't that just",
+                "a human."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "No...",
+                "She has got to be a beast."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Could she be a rare",
+                "half beast?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Dammit. If the Moon hadn't been incomplete,",
+                "I'd never have lost to such weirdos..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Oh, yes, yes.",
+                "We got to investigate the full moon."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "What's gonna happen next?",
+                "I can't wait!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "The bamboo forest...",
+                "That should be it."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Not a place I usually go."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Sounds scary."
+            ]
+        }
+    }
+}

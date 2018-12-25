@@ -1,0 +1,477 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Oh, did you come to visit the shrine",
+                "in this cold weather?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hehe, I've learned how to do the greetings here."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "You can't let yourself be held back by",
+                "common sense in Gensokyo, right!?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "It sure is cold on the mountain.",
+                "I guess it's winter, after all."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(Ah, it's so wonderful to spend the",
+                "<l$> afternoon sipping warm tea in a warm house.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Hey, you looking for a fight?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Why do you have to do this",
+                "while I'm above ground, anyway?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<t$Pache >(Mountains in winter are dangerous for novices.",
+                "<l$> It's best not to recklessly decide to climb them.)"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hell",
+                "was way more dangerous than this."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Pache >(In any case,",
+                "<l$> if what that hell raven said was true,)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "<t$Pache >(then she got the power to control",
+                "<l$> nuclear fusion from the gods of this mountain.)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Um, excuse me...?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Have you seen anyone from this shrine?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Well, uh...?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Pache >(I don't know,",
+                "<l$> I was reading a book.)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Huh, I guess not, then.",
+                "Sorry, but I don't know too much about this shrine."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Oh, I see, sorry to have bothered you.",
+                "Maybe they're out now..."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Did you try visiting the building?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Yes.",
+                "It was just an empty shell."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "What do I do now, Boooky?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Pache >(Hmm, there's nothing",
+                "<l$> you can do if they're not here.)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Are you looking for the gods of the mountain, too?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Yeah, kind of."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Did you come to this shrine",
+                "looking for power, too?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Power?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I heard you can get the ultimate power",
+                "if you meet the gods of the mountain."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "<t$Pache >(Really, now?",
+                "<l$> Who's been spreading that rumor?)"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "I heard it from one of my sister's pets.",
+                "The gods of the mountain made Okuu really strong."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "Okuu? Sister?",
+                "Uhh..."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "<t$Pache >(...I got a bad feeling...",
+                "<l$> Cirno.)"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Pache >(I'm going to take",
+                "<l$> a bit of an afternoon nap. Good luck!)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Hey, hey!"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Do you want the mountain gods' power, too?"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Well, that's not what I came for,",
+                "but I wouldn't mind it."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Then that makes us rivals."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "My sister is always saying that you can't make",
+                "your dreams come true if you can't beat all your rivals."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "I don't have anything against you,",
+                "but I hope you're ready to die a dog's death!"
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Oh, don't worry, that cat will carry off your body,",
+                "so you'll be able to live in our place!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wooow... You're really strong!",
+                "I see I was wrong to think you're just some normal fairy."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "But I am a fairy."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "No way!",
+                "I can't believe a fairy could be so strong... oh,"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Are you the person that came to",
+                "play in the Palace of the Earth Spirits?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Palace of the Earth Spirits?",
+                "Hm, I think I've been there before."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Really?",
+                "There can't be that many people as strong as you."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I'm Koishi Komeiji.",
+                "I live in the Palace of the Earth Spirits."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Pache >(What did she say...? I thought",
+                "<l$> she was just a normal human shrine visitor at first.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Huh, your intuition's not that great.",
+                "It's obvious she's a youkai to me."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Pache >(...You don't feel like a",
+                "<l$> youkai to me.)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Pache >(Actually...",
+                "<l$> I can't sense anything at all from you.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "That's because I deal",
+                "with the subconscious!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Since I closed off my ability to read minds,",
+                "I gained the ability to move around free of thought."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "<t$Pache >(A state of mu...",
+                "<l$> If a Buddhist priest heard of her, he'd cry tears of joy.)"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "But, I won, anyhow."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "You're really strong.",
+                "Do you want to come play at my house?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Well, I don't have anything better to do,",
+                "but it's so far away."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "<t$Pache >(Are you Satori's",
+                "<l$> younger sister?)"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Yes!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Pache >(Hmm, I hadn't heard that she had a younger sister.)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Hm, they're still not back?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Oh, it's the green one.",
+                "What were you off doing?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "We just saw each other a few minutes ago!"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Anyway, what are you here for?",
+                "Lady Kanako and Lady Suwako are both out."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Hmmm, let's see..."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Hey, Booky,",
+                "we wanted to ask the gods somethin', right?"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "<t$Pache >(Satori's little sister... um, let's see,",
+                "<l$> don't I have any documents on her somewhere?)"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "<t$Pache >(Eh? Something to ask the gods?",
+                "<l$> Yes, about nuclear fusion, remember?)"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "Nuclear fusion...?",
+                "Yes, our plan is going along quite nicely."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Oh, didn't you hear? We're going to create a kappa industrial",
+                "revolution by using the old Remains of Blazing Hell."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "If it works,",
+                "our standard of living will be much better."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Nuclear fusion energy is a clean energy that",
+                "even the outside world hasn't mastered yet."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "It's exciting to think that I'll see the power",
+                "of the Sun harnessed here on the Earth."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "I don't understand",
+                "what you're saying at all."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "<t$Pache >(So, nuclear fusion is the key to",
+                "<l$> revolutionizing the kappa's industry?)"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Anyway, is it dangerous?"
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "Of course not.",
+                "I guess Lady Kanako didn't explain this to you, did she?"
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "It might cause geysers,",
+                "which might make hot springs appear, though."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "<t$Pache >(So, in the end this whole incident was just a mix-up",
+                "<l$> caused by the gods of the mountain not explaining things?)"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "<t$Pache >(I'm tired...",
+                "<l$> I'm going to bed.)"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "Well, I'm going home, but come play with me some time!",
+                "You promised!"
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "Well, this is nice.",
+                "Now I have an excuse to go see the underground as much as I want."
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "Okay, let's do it!"
+            ]
+        }
+    }
+}

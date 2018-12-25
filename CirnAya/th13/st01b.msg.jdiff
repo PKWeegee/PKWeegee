@@ -1,0 +1,83 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Woah, these ghosts are sparkly..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, do we have visitors?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Hold on a moment,",
+                "I'll prepare some tea."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I'm not a tea person."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I'm just here to have fun with these",
+                "ghosts."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Ghosts?",
+                "Do you mean me?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "If you want to have fun with me,",
+                "I will gladly fight you!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Yay, I'm still the strongest!",
+                "What should I do now?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Ugh, why don't you chase after these ghosts?",
+                "Or rather...divine spirits."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Ghostly as they may be, they're not related to the spirits here."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Divine...spirits?",
+                "Weird name."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Would you please leave here now?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Why not go to the youkai temple or something?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Sure thing!"
+            ]
+        }
+    }
+}

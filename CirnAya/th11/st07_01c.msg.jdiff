@@ -1,0 +1,437 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Oh, did you come to visit the shrine",
+                "in this cold weather?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hehe, I've learned how to do the greetings here."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "You can't let yourself be held back by",
+                "common sense in Gensokyo, right!?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "It sure is cold on the mountain.",
+                "I guess it's winter, after all."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Nitori >(The rivers freeze over in the winter.",
+                "<l$> It makes life easy for us.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "The rivers freezing makes it easy on you?",
+                "Why's that?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Nitori >(It's actually warm underneath the ice.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Anyhow can I interrupt?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Why are you talking to me like this",
+                "when I'm on the mountain?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Nitori >(I guess it's become a habit.",
+                "<l$> Besides, I don't wanna leave the water.)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh well, whatever."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "<t$Nitori >(I'll share our nuclear energy",
+                "<l$> with you if you want.)"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "<t$Nitori >(We tamed the crow in charge of it,",
+                "<l$> so now we just have to go tell the god of the mountain.)"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Um, excuse me...?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Have you seen anyone from this shrine?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Nope."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "<t$Nitori >(You liar, we just saw someone.)"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Oh, yeah, just a minute ago.",
+                "We beat her, though."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "You beat her? Why?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "It was her way of greeting us,",
+                "or something like that."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Nitori >(Hmm. It looks like the gods",
+                "<l$> aren't here today. Let's come back later.)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "What?",
+                "The gods aren't here?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Oh, no.",
+                "And I came all the way up here from deep underground..."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "What?",
+                "Did you say from deep underground?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "What a waste of time to come while the gods are out...",
+                "What could I possibly gain from this?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Ah, you gained tiredness."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Huh? I'm not tired yet."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "<t$Nitori >(Cirno, she might want to get her",
+                "<l$> hands on fusion energy, too.)"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "<t$Nitori >(Be careful.)"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Fusion energy?",
+                "How do you know about fusion energy?"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "But man,",
+                "those mountain gods have a pretty nice shrine, don't they?"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "You...",
+                "are you after the power, too!?"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "<t$Nitori >(We're not gonna hand it over!",
+                "<l$> Take her down, Cirno!)"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Hey, calm down.",
+                "I'll do that anyways."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Hmm, you're the fairy that came to the underground,",
+                "aren't you?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Sis mentioned a weird fairy",
+                "with orbs that disturbed our home."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Your sister?"
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "If you wanted to beat me like you did",
+                "Sis and Okuu, by all means."
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Since I went to the trouble of coming up from the underground,",
+                "I'd like to get something out of it."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "<t$Nitori >(Hey, Cirno",
+                "<l$> What are you doing? Hurry up and get her out of here.)"
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "R-Right..."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "If you want the power of fusion",
+                "you need to get past here!"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "Hm, if you want to turn me away,",
+                "just try to beat me."
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "Don't get confident just because you beat my sister,",
+                "though."
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "We'll decorate the entrance of the",
+                "Palace of the Earth Spirits with your corpse!"
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "Who's your sister, anyway?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wow, you're really strong!",
+                "I can see how my sister lost to you."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Hey, is your sister...?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Huh? Didn't you know?",
+                "Aren't you the one who visited the Palace?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I knew it, you're that Satori girl's sister..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Yeah, I thought this would be a",
+                "waste since the gods aren't in,"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "but it looks like I found something worthwhile",
+                "after all."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Nitori >(So what did you come here for?)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Well, I heard that the god who gave Okuu",
+                "nuclear fusion power lived on a mountain."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "I was wondering if I could get some powers",
+                "for my pets, too."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Nitori >(That's too bad. These gods probably",
+                "<l$> won't do anything that won't benefit them.)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Nitori >(The only reason your house's pet got",
+                "<l$> nuclear fusion power is because it helped their plans.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "What, really? That's boring..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Oh well,",
+                "I got to meet someone interesting."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "I'm pretty interesting."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Come play at my house next time.",
+                "We'll find some interesting spirits for you, or something."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hmm. I don't mind going..."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "But it could be pretty hard getting there."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Oh, don't worry. If you just tell people",
+                "you're friends with the people at the Palace,"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I'm sure most of the youkai will avoid you."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Nitori >(...Wow, everybody hates them.)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "My sister is bad at fighting,",
+                "but everybody's afraid of her."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Just say her name,",
+                "and you'll have free run of the underground."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Hm, so does that mean",
+                "I can go anywhere I want down there?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "<t$Nitori >(Well, I, uh...)"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Oh, yeah."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "There's someone else who doesn't",
+                "like you too much."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Who's that?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "<t$Nitori >(Whatever, I'll be fine. If you want",
+                "<l$> to go back underground, you can go by yourself.)"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "By yourself, what? Aren't you...",
+                "Do you have multiple personalities?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Nope,",
+                "from now on I'm just the one personality."
+            ]
+        }
+    }
+}

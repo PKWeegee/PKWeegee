@@ -1,0 +1,88 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "There's youkai here?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Jackpot! I wonder how many there are."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "More than you'd expect!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Lots of youkai live near the Human Village, too."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Ah, you again."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "And how dare you not be terrified at the sight of me?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Well, it IS kinda scary to see a head flying your way."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "That severed head..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Want to see it once again?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Did you get frightened, I wonder?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Uh, well..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "No.",
+                "Just kinda gross."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Well, rats."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Fairies these days are so brave."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Well, I'm just special."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Lay low for a bit, ok?",
+                "Or I'll steal your head."
+            ]
+        }
+    }
+}

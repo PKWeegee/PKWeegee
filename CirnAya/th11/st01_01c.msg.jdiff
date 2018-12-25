@@ -1,0 +1,109 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Strong winds here."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$??? >(...Heeey, can you hear me?)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "...Maybe I can, maybe not."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Nitori >(...I know you can hear me, it's me.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You know, \"It's me,\"",
+                "it isn't enough for me to know anything."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Oh?",
+                "A fairy? How cute."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Are you going to the festival they're having down below?",
+                "You look like it."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Nitori >(Here she is! It's a spider, an earth spider!)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Spider...? Really? Not as creepy as I'd think."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Oh, looks like the cat's out of the bag."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Just when I thought I'd finally got myself some wild game."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "You're no ordinary fairy, are you?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Nitori >(Yah, an earth spider!",
+                "<l$> We'll tear you to pieces!)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "You're pretty interesting.",
+                "I like you, let's play!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "<t$Nitori >(Okay,",
+                "<l$> good luck~)"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Hehe~!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "See? You provoked her, and I fought her.",
+                "That's what I call teamwork."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Nitori >(Yeah, they're always",
+                "<l$> dirtying up our rivers...)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "This is gonna be fun."
+            ]
+        }
+    }
+}

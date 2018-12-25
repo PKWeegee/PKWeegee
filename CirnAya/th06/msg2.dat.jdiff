@@ -1,0 +1,145 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Did the lake get bigger?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ugh, and this mist. I can't see anything."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Even though my sense of direction is good..."
+            ]
+        },
+        "92_h1_0": {
+            "lines": [
+                "Higher Fairy of the lake",
+                "<c$Daiyousei$Higher Fairy of the lake>"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "When you lose your way,",
+                "it's because of the fairies."
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Oh really? Can you show me the way then?",
+                "To the island in the lake."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "H-hey, why aren't you suprised?",
+                "I'm the apprentice of the strongest fairy!"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Another target.",
+                "Nothing new."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "S-stop teasing me!"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "I'LL SHOW YOU THE ARTS OF ICE",
+                "THAT I LEARNED FROM MY FRIEND!!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Brrr...kinda chilly."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "At least I can see the island now."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, feels good to be",
+                "back home..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Actually..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Why is it so cold...?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I wasn't here to",
+                "chill the place down."
+            ]
+        },
+        "93_h1_0": {
+            "lines": [
+                "Higher Fairy of the lake",
+                "<c$Daiyousei$Higher Fairy of the lake>"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "A-ah, miss Cirno!"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Daiyousei! Did you imitate my powers?"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Y-yeah, what do you think? Did I do good?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Yeah! Now show me that strength!"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "W-what?? Fight with YOU?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Yes, learn from the STRONGEST!"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Ah...you still have much to learn."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Hmm, oh look!",
+                "There's an island there."
+            ]
+        }
+    }
+}

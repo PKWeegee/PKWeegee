@@ -1,0 +1,118 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What floor are we at now?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Alice >(There aren't any \"floors\" in a cave.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Huh? A dungeon",
+                "always have floors though?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You're now on floor B666."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Welcome to the end of the underground skyscraper."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Told ya.",
+                "There are floors."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "<t$Alice >(I'm sure you could tell based on",
+                "<l$> how much time you'd spent.)"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Alice >(Ah, but we have an enemy, right?)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Oh yeah, gotta beat her up."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A fairy going to the Former Capital who talks",
+                "to herself a lot... Are you crazy?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I already bumped into you before",
+                "so I can beat you again."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "But that also means you are the boss here."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Alice >(Yes yes, she's the boss...)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "I wouldn't recommend that you treat",
+                "going underground like a game."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "You might be trying to get experience points,",
+                "but you'll just be wasting time in the end."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Another waste of time.",
+                "At least I got stronger."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Alice >(H-hurry up.",
+                "<l$> We're almost to our destination.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh yay...wait.",
+                "Where were we going?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Alice >(The Former Capital where",
+                "<l$> the sealed-away youkai live.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Eeeh?",
+                "What do we want there?"
+            ]
+        }
+    }
+}

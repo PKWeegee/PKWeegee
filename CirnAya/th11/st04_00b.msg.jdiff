@@ -1,0 +1,291 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "So, does that mean there are enemies in this mansion",
+                "that can control the evil spirits?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Suika >(Yeah, probably.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Well, I just snuck in...",
+                "Oh well, where's the owner?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Suika >(This is the mansion of the most hated person down here.",
+                "<l$> The master of the mansion controls lots of spirits.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The most hated person in the underground...",
+                "Must be a real nuisance."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Suika >(Naw, she acts really grown-up",
+                "<l$> and she's very mild-mannered, but...)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "...A visitor? Most unusual."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "|\t...I see, my \t,\tcat\t,pet",
+                "...I see, my cat must have",
+                "caused you some trouble."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Oh, are you the nuisance?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "That's not a very nice way of putting it."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "...Hmmm."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "...It seems you're looking for a fight.",
+                "But it doesn't look like you have a good reason for it."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "I mean, interviews are a good reason.",
+                "Not sure what your deal is..."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "...Now you're trying to think of another one.",
+                "...Evil spirits, oni? Hot springs? Information!?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Hey! How do you know what I'm..."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "There's nothing that's hidden from me."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Perhaps I should have introduced myself sooner.",
+                "I'm Satori, the master of the Palace of the Earth Spirits."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "My third eye will tell me whatever you're thinking,",
+                "no matter how badly you wish it otherwise."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "You can tell what I'm thinking?",
+                "Wow that's annoying."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "<t$Suika >(See? Nobody wants to be with her.",
+                "<l$> Welp, good luck.)"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Hey, you put me down here, right!?",
+                "Do something about her!"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Who <i$are> you talking to?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Oh, I see, there's an oni above ground.",
+                "I didn't know that."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "<t$Suika >(I knew it, she can't tell what I'm thinking up here.",
+                "<l$> It's so far away, I'm in a safety zone.)"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "How unfair. Oh well,",
+                "I guess I'll just have to beat her before she reads my mind."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "\"The oni will be satisfied if I can beat the master of the Palace.\"",
+                "Hmm."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Unfortunately, I don't think anything will change",
+                "even if you do manage to beat me."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Suika >(Fighting her for too long is dangerous.",
+                "<l$> Hurry up before she lays your heart bare!)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Ah, you're thinking,",
+                "\"Hmm, I wonder if she's really the mastermind?\""
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Eh? \"Who cares, let's get her anyway!\""
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "I just want to get done with this thing,",
+                "and write my article!"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "It seems you're of no mind",
+                "to settle this peacefully."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "I can see it.",
+                "The danmaku drawn into your memory!"
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "Now, this is where it really begins!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "|\tGo sleep with a \t,\tmemory of fear\t,trauma",
+                "Go sleep with a memory of fear so frightful",
+                "it'll wake you up!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Not bad at all.",
+                "I didn't think a tengu from above would be so strong."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Hmmmm.",
+                "Suika's danmaku..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Suika >(Hey, hey, those were my moves before!",
+                "<l$> It'd be nice if you didn't steal them.)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I picked the danmaku that looked the strongest",
+                "from the depths of your heart."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Oh, you're remembering even stronger ones now?",
+                "Hm, I'll have to have another look."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Suika >(Yeah, just tell her whatever,",
+                "<l$> blah blah blah.)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Blah blah blah blah blah.",
+                "Like that?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "There's no need to use words.",
+                "Ah yes, a geyser that's spewing out evil spirits...?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "One of my pets is in charge of that.",
+                "I'll take you to the courtyard."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Courtyard?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "You can go even farther down from there."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Bwuh?",
+                "Deeper?!"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "\"It'll take me even farther from the hot springs,\"",
+                "you say..."
+            ]
+        }
+    }
+}

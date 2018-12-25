@@ -1,0 +1,89 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Youkai are rampaging",
+                "this close to the Human Village!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This must be a full-blown incident..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "You showed up quick!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "You've come to interview me?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Hey, thanks for coming right to me and saving me the trouble."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Let's interview you then!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "...It's true, then."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "If you stay docile, tengu get to work..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "So, you're...",
+                "A rokurokubi, right?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "I am, indeed. Every human out there fears me."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "W-What the heck? Gosh, you're so strong..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Happens when everyone wants to attack me."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Wait, could you be..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Finally noticed?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Could this be...",
+                "The tengu reporter of terror?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "...Yikes!"
+            ]
+        }
+    }
+}

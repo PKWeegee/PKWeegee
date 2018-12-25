@@ -1,0 +1,103 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Ugh, what is this awful feeling..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "This forest is always so dark, and damp..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "My, my, you're still here?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "And I had just tried to turn you away."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Really now?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "...Eh, forget about it. Anyway!",
+                "My duty is to chase away lost humans."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "But I'm not lost. Or a human for that matter.",
+                "I'm a tengu that needs to go back to the mountain."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Oh uhm, I didn't know that.",
+                "But the mountain is dangerous!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Hey, it's my home, I know what to expect."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "I'm not a friend of tengus.",
+                "But I'll still take your misfortune."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Would you like me to take on all of your tragedies?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "No thanks.",
+                "They make me who I am."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Really, now!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "I was just trying to be nice and chase you away..."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "That's the opposite of nice."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Beyond here is the world of the gods..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "A human would surely die there...",
+                "But I guess you are fine."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Oh, good.",
+                "I'm finally home."
+            ]
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "0": {
+        "60_1": {
+            "lines": [
+                "Ah, finally something is happening again.",
+                "I can smell the scoop from here!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Usually I don't go out during the night,",
+                "but I guess I can try my luck..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Even though it's dark out,",
+                "I know where to go."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Guess I'm bird-eyed..."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "It is kinda romantic here though.",
+                "Hehehe."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "You said it!",
+                "Monsters come out too, so it's simply <i$wonderful>."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Ah?",
+                "Do I know you?"
+            ]
+        },
+        "135_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "We just meet a few moments ago.",
+                "Could you be night-blind?"
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "No I know that I saw you before.",
+                "But I still don't know anything about you."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Oh, well, there isn't really",
+                "much to know about me."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "Are you one of those?",
+                "You know...who eat humans."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Maybeeee~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Care for an interview?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "No thanks. But I wonder, are you tasty?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Maybeee~",
+                "But let's not find that out."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "If you want to know if something is good or bad,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "you have to try it for yourself."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "It's kinda..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "boring at night.",
+                "Everyone is asleep!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I hate the night."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "If only some weirdo could show up."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Who are you calling a weirdo?"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Ah, here's a weirdo."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "If anything, you are the weirdo."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Why is a weirdo like you holding",
+                "her arms out like that?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Doesn't it look like it says",
+                "the saint has been crucified?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Looks more like you have",
+                "a dominance complex."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Well, as you can see,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "I have more dominance."
+            ]
+        }
+    }
+}

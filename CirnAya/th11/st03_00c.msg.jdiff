@@ -1,0 +1,212 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, you're pretty good."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Dunno who you are, but they say",
+                "a rowdy welcome is best for a rowdy guest!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "I like you!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "We'll have lots more fun, so",
+                "Keep following until you can't take anymore!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Reimu >(Wait...is that...!)"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Uhm...",
+                "Excuse me, but could you go out of my way?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Oh, you're so cold.",
+                "And people from above almost never come down here."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Reimu >(Looks like our dear Tengu",
+                "<l$> is in trouble again.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Huh? A tengu?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I guess you do look the part. Been a while since I saw one."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Ahaha...yeah."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "So?",
+                "What are you doing down here, in these forbidden lands?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "<t$Reimu >(Good luck explaining that.",
+                "<l$> Maybe I'll hear some new stuff too.)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "So...there's spirits coming out of the geyser, so I wanna stop it"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "<t$Reimu >(Stop the geyser?",
+                "<l$> But it's so dang comfy.)"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Spirits...? Admirable goal to fix, and I may know who can help you."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I don't have any gripes against your kind.",
+                "You look like you don't want to fight me."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "<t$Reimu >(Aw, you aren't gonna fight",
+                "<l$> the oni?)"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Hmm, and who are you talking to there?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Seems to be a human,",
+                "by the sounds of it."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Reimu >(Yeah, I'm the shrine maiden.",
+                "<l$> Reimu Hakurei's the name.)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "She should have went down here instead of me,",
+                "but she's so lazy, so I had no choice."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Hoho. Well, since we're such good friends with tengu, I'll",
+                "look over it this time... but on one condition."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I only forgive the strong and the brave!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Well done!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Now, let's see what I can do for you!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Reimu >(That was pretty weak for a oni.",
+                "<l$> As if she didn't even try at all.)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Reimu >(Well, I guess Suika was also",
+                "<l$> not that strong.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Anyways...",
+                "I need to find the source of the spirits."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Ah, hmm..."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Reimu >(What bad do they even do?",
+                "<l$> They just float around and stuff.)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Hmmmm.",
+                "Well, I know where you can go investigate."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Reimu >(Oh boy, the Tengu",
+                "<l$> is going even deeper!)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Not far from here is the palast of the",
+                "earth spirits. Ask the owner for information."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Reimu >(A palast all the way down here?)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Thank you so much for your help!",
+                "And I'm sorry for her behaviour..."
+            ]
+        }
+    }
+}

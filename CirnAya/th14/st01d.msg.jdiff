@@ -1,0 +1,53 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Nice and chilly, just how I like it."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "You there!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Have you come to fight me?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hm? Oh, yeah, why not."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "A mermaid though? Never saw you before."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I'm always being ignored."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "|\tIt's about time \t,\twe all\t,youkai|",
+                "It's about time we all have our time to shine,",
+                "don't you agree?"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Yep, just a mermaid. Weak."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Let's check some other places!"
+            ]
+        }
+    }
+}

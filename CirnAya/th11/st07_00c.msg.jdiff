@@ -1,0 +1,445 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Oh, did you come to visit the shrine",
+                "in this cold weather?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hehe, I've learned how to do the greetings here."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "You can't let yourself be held back by",
+                "common sense in Gensokyo, right!?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Where is Kanako?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "If what Okuu said is true,",
+                "all of this was because of Kanako."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Reimu >(A Moriya Shrine conspiracy!)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "How come I can still hear you?",
+                "And why don't you do this now?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<t$Reimu >(You never got rid of the crows.",
+                "<l$> And the kotatsu is too cozyyyy~.)"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Ah...I see."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh, a tengu?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Do you know where the god of this shrine went?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Huh?",
+                "I was just looking for her, too."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Aw, you didn't see her either?",
+                "What a shame."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "She must be hiding, right?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Reimu >(Who is she...? I can't imagine",
+                "<l$> the other tengu would let a youkai like her onto the mountain.)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "|\tHmmm? Wasn't there anyone \t,\tin the shrine\t,here",
+                "Hmmm? Wasn't there anyone in the shrine?"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "<t$Reimu >(I can't feel a thing coming from her, either.",
+                "<l$> Who on earth...)"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "I'm Koishi Komeiji.",
+                "I came all the way from the underground world to visit."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "The underground?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "I think maybe it's too easy to go",
+                "back and forth between the two now..."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Reimu >(Either way, I was getting bored anyways",
+                "<l$> so how about you go and entertain me.)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "<t$Reimu >(Chase her away!)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Why do I have to do it for you?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I'm getting sick of you",
+                "being so goddamm lazy."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "<t$Reimu >(I've gotten used to",
+                "<l$> watching you do stuff...)"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Well, is the god here or not?"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "I don't know."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Oh, what a pain. I don't want to go home",
+                "without a souvenir after coming all this way."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "Will you play with me?"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "I thought it would be nice to kill some time...",
+                "Won't you?"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "<t$Reimu >(Just what I wanted!",
+                "<l$> Now, go and give me a good show!)"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Oh, perfect!",
+                "I like people with authority."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "I guess there are strong people up here, too...",
+                "My sister was talking about that recently."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Your sister?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "She said she was beaten by someone",
+                "dressed like a reporter."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "And she was getting nagged at by some invisible human."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Sounds like what happened",
+                "when I went into the palace of earth spirits..."
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Ohoho,",
+                "then that's perfect."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "You're the tengu that came down to the underground,",
+                "aren't you?"
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "My sister was talking about you...",
+                "She said your power would be pretty useful."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "Miss Satori is your sister...?"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "If I can take you alive, you'll be a great pet",
+                "who can do the cleaning work of tons of spirits!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wow,",
+                "you're really strong! No way I can take you alive."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Such a strong tengu?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Why thank you."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Reimu >(Don't get too cocky.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Me?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "<t$Reimu >(No, not you.",
+                "<l$> Although you are pretty interesting.)"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Reimu >(I wasn't able to feel",
+                "<l$> a single thing from you.)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Yeah, I control the subconcious."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Reimu >(At least that's not as",
+                "<l$> annoying as reading minds.)"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Oho?",
+                "What happened while I was out?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Ah, there you are!",
+                "I've been looking for you, you know."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You need something from me?",
+                "Well, that's unusual."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I know, mind reading is depressing.",
+                "That's why I closed my third eye."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "<t$Reimu >(Intriguing...",
+                "<l$> I wouln't wanna run into you.)"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Uh, Aya?",
+                "Who's that?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Not entirely sure.",
+                "She's some person from the underground."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Oh, that's right, we were visiting around",
+                "the Palace the other day, Kanako and I."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "We were looking for a high temperature, high pressure",
+                "furnace to revolutionize the kappa's energy production."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "We heard that the Remains of Blazing Hell wasn't",
+                "being used anymore, so we went to go look."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "We heard it was right under a building",
+                "called the Palace of the Earth Spirits."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Hm? Are you the mountain god that came",
+                "to my house and gave Okuu that power?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Well, to be specific, it was Kanako.",
+                "Are you from the Palace of the Earth Spirits?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Sorry for borrowing that hell raven",
+                "without your permission."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "But, it looks like she's helped us",
+                "create our Nuclear Furnace."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Oh, it's okay, it's great that Okuu got",
+                "really strong. Please do it as much as you like."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "What the...?"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Is that the kappa revolution,",
+                "I've been hearing about?"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Reimu >(Kappa revolution?",
+                "<l$> That can't be good.)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Wow, mountain gods, suspicious tengu,",
+                "the above ground world's just full of strong people."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "You're welcome to come to the Palace any time you want.",
+                "We'll welcome you whenever you come."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "The Palace of the Earth Spirits?",
+                "No thanks, once in a lifetime is enough for me."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Oh, you don't like my sister?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Well, she can read minds, you know?",
+                "Not too fond of that..."
+            ]
+        }
+    }
+}

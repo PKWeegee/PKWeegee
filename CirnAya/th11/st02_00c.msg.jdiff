@@ -1,0 +1,119 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "How deep is this thing?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Reimu >(Very, I presume. It DOES go underground afterall.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Reimu >(Not entirely sure what you even want down here.",
+                "<l$> Earthquakes are old news afterall.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Are you worried about above ground because",
+                "of the earthquakes?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "If you came down here to see about that, then you don't",
+                "know anything about the earthquakes."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "No no, it's not earthquakes im worried about,",
+                "the problem are all the spirits."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Really?",
+                "Hmmm, ummmm, well, whatever."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Reimu >(Did something show up?",
+                "<l$> ...Oh, it's that small fry from before.)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Reimu >(Are you going to beat",
+                "<l$> her up again??)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Beat me up?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Why is a above ground tengu acting,",
+                "so cocky?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Wha- no! I don't wanna beat you up.",
+                "I'm already tired of fighting."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "I just want to solve this",
+                "and go back above ground."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "So, you can always go above ground?",
+                "I'm so jealous."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "If that's the case, then you need to let me beat you up",
+                "to relieve my jealousy!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "This would be good material for my newspaper..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Reimu >(It's always about your newspaper, huh?",
+                "<l$> You sure this isn't the main reason you went here?)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "It isn't."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Reimu >(And here I thought tengu hated this.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I DO!"
+            ]
+        }
+    }
+}

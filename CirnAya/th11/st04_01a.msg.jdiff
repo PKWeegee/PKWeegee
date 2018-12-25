@@ -1,0 +1,281 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Is this the final dungeon?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Alice >(That's right, are you prepared for it?)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I'm always prepared."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Alice >(But, it doesn't look like there're any townsfolk here.",
+                "<l$> ...There was a cat, though.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "It's all good. Just means we can go straight",
+                "on through."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...Who is it?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "A fairy...?",
+                "I can't believe a fairy could make it all the way down here."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "It's all good. Beating someone is",
+                "simple enough."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "<t$Alice >(Why don't you listen to what she has to say?)"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Aah, well, something about the hot springs.",
+                "What should I do?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "...What you're saying is the opposite of",
+                "what you're thinking."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Now you're starting to have questions about",
+                "the gushing hot spring."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Whaaat...?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "I'm Satori, the master of the Palace of the Earth Spirits."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "No one can hide anything from me.",
+                "Your heart is in plain sight to me."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "...Eh?",
+                "What?!?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Alice >(...A satori!",
+                "<l$> She's a youkai exiled from the surface.)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "<t$Alice >(She has an extremely dangerous ability,",
+                "<l$> mind reading. There's no way you can win.)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "You can read the mind I don't have?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "<t$Alice >(I can't believe we were led here just by",
+                "<l$> investigating that geyser.)"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "<t$Alice >(Perhaps the oni back there",
+                "<l$> tricked us?)"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Onis don't lie...",
+                "Maybe she knows something?"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "...\"Mind reading, that sounds like a lie.\""
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Oh?!"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "...\"Anyway, everything'll be fine if I beat her, right?\"",
+                "I see."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "...\"What a pain, let's just fight.\"",
+                "I see. How belligerent."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Alice >(Cirno... You....)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Don't worry. Seems like",
+                "understands me though."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Right now, I'm not thinking about anything else",
+                "but fighting her!"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Hm, I can see it.",
+                "My mind-reading third eye will show me your very heart!"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "An image of battle...",
+                "I think I can use this to make you suffer."
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "Now, this is where it really begins!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "|\tGo sleep with a \t,\tmemory of fear\t,trauma",
+                "Go sleep with a memory of fear so frightful",
+                "it'll wake you up!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're pretty strong,",
+                "But you didn't come here to beat me."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "If you can read minds, you should know thats a lie."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh, yeah! I came to discover the secrets of the geyser!",
+                "And then that oni told me to come to this mansion..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You should've said that from the beginning.",
+                "I wouldn't have had to fight you..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...If a geyser's causing you trouble, then",
+                "it's probably my pet's doing."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "<t$Alice >(Pet?",
+                "<l$> Oh, like that cat?)"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "If you want to find out more,",
+                "I'll open the courtyard for you."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "The courtyard?",
+                "Your pet's there, right?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "No, the courtyard has a hole that leads down",
+                "to the depths of the underworld."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "So we aren't",
+                "done yet?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Alice >(We still have a long way to go. Let's go to",
+                "<l$> the depths of the underworld. Hang in there.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "\"Before that, let's beat her again....\" you think."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I won't allow that.",
+                "Please head to the courtyard immediately."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Damn."
+            ]
+        }
+    }
+}

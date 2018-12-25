@@ -1,0 +1,90 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Wow it's fast!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "If I want to catch up to it,",
+                "I'll have to speed up more!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Gensokyo is so cramped and small."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Where are you going in such a hurry?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Hey, get out of my way!",
+                "Ah wait, I've seen you before, little mouse."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I don't have time to interview",
+                "a small animal like you today!"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Really? Too bad."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "The treasure ship is getting away,",
+                "even as we speak..."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Treasure ship?",
+                "You mean <i$that> thing floating in the sky?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ohoho, are you stupid?",
+                "Did you really think that's a treasure ship?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Yeah yeah, whatever,",
+                "now get out of my way!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "If you're looking for treasure, don't look in the sky.",
+                "There's lots packed away in kitchen nooks and crannies."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Hmm, it's gone into the clouds."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Can't let myself get distracted by",
+                "some mouse. Let's go higher!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I hope not too many youkai will hold me up..."
+            ]
+        }
+    }
+}

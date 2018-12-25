@@ -1,0 +1,100 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "This is awesome."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The ship seems to be seeking",
+                "strong people! Like me!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, no.",
+                "It's not looking for you."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "It just brought me here, is all."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Huh?",
+                "A mouse? Oh, wanna fight?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I'm just looking for a little something.",
+                "I came down because I picked up on a treasure response."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Anyway, it looks like it was just reacting to you.",
+                "What a let-down."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "You are from the ship...",
+                "So you must be strong!"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "That's not really a ship.",
+                "Well, maybe it looks like one."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It sure does.",
+                "That's what I just said."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Alright now, little fairy.",
+                "I've got some work to do, so..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "No running away!",
+                "I will fight anyone who is strong!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "I don't really want to fight you, but...",
+                "Oh, well."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Yes!",
+                "Now lead me to the ship!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "...wait, what?",
+                "She ran away..."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "What a fast mouse.",
+                "Well, she's a mouse, after all."
+            ]
+        }
+    }
+}

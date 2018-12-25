@@ -1,0 +1,309 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "You're too late."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "I've sealed all the doors.",
+                "You can't take the princess away now, can you?"
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Looks like we've finally found the culprit."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Oh look, a bunny!",
+                "She's cute."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Huh, some weirdos?",
+                "Don't get me all worked up, geez."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "If you've got no business here, leave.",
+                "We're in the middle of something right now."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "No way.",
+                "This moon incident was caused by you, wasn't it?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "If so, I'll interview you.",
+                "If not, I'll beat you and find the culprit."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Moon incident?",
+                "Ah, you mean the earth-sealing spell?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Do we?",
+                "That sounds strong."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "But not as strong as me.",
+                "Now let's go beat her!"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Ah, yeah."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "What rowdy weirdos.",
+                "Aren't you going to listen to us for even a little bit?"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "My, I thought we had guests,",
+                "but it's just some weirdos?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Well, there shouldn't be any guests arriving anyway."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Another one.",
+                "Beat them both!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "A-ah, which one?"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Oh, look, you shouldn't tease the poor girl like that."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "The business with the Moon is due to my spell.",
+                "But, it was for the sake of the princess and this girl."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Even you weirdos should have at least",
+                "this much kindness in them."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "So you're the culprit?",
+                "I've got one less person to interview, then."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Mmm, but don't get all worked up yet.",
+                "Udonge, I'll leave this to you."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Whatever you do, do not let them take our princess."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Leave it to me. There's no interviewing going on,",
+                "but I won't let a single one of those doors be opened."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Doors?",
+                "So the culprit is in one of those..."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "The underling remains.",
+                "Let's go, let's go."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Yeah, let's do it!"
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "Heh heh heh.",
+                "You've only been thinking of the Moon..."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Don't you see that you've already",
+                "fallen into my trap?"
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "!?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Your sense of direction is starting to go insane.",
+                "You're already unable to fly straight!"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "U-ugh,",
+                "what a strong illusion."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Doesn't work when you don't think alot.",
+                "Remember that."
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Hey, don't tell ignore me!",
+                ""
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "I doubt you'll be able to remain sane",
+                "after gazing into my eyes!"
+            ]
+        }
+    },
+    "3": {
+        "180_0": {
+            "lines": [
+                "Go where Aya says (Final A)",
+                "Go where Cirno says (Final B)"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ohh, my head's spinning.",
+                "I'm starting to feel sick..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Did you get sick,",
+                "just from being shaken around that much?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Well, don't worry.",
+                "Next up is the last one."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I can't believe this.",
+                "You're far stronger than I thought..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Next up, the boss!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Unfortunately, I don't know where to go."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Let's try this door...",
+                "Maybe we get lucky."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Maybe."
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Ohh, my head's spinning.",
+                "I'm starting to feel sick"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "My, my, you got sick",
+                "just from being shaken around that much."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "How about we go through that door over there",
+                "and finish this?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ahh, crap.",
+                "There was a door that I didn't have time to seal yet?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "No, I'm okay.",
+                "Let's hurry ahead and chase that one from before."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "You sure?",
+                "The door that's open is the door to enter."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Now let's go and beat them up!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "And then...",
+                "Hehe..."
+            ]
+        }
+    }
+}

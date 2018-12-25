@@ -1,0 +1,87 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Youkai are acting up this close to the village!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "What a dangerous incident..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "You showed up quick!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "You've come to interview me?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Ah, how collaborative. Really appreciated."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Let's get started!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "...No."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "We youkai need to refuse interviews more..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "If you want to sound cool, don't try."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "...How dare you, filthy tengu..."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "I'll make you have nightmares every time you see a head!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "W-What the heck? Gosh, you're so strong..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "All practice, because everyone attacks me."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Wait, could you be..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "That's right!",
+                "Didn't you see my camera?!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hahah... Well, uh, 'scuse me!"
+            ]
+        }
+    }
+}

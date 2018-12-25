@@ -1,0 +1,202 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Move and I'll shoot!"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "I messed up.",
+                "I mean, shoot and I'll move. Right away."
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "What?",
+                "The thief? What are you doing here?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Well, uh, I'm just hunting some troublesome youkai,",
+                "like usual."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Troublesome? Do you know who's doing all this, then?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Who wouln't know it?",
+                "...oh, me."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Well, I understand. How couldn't I, when the",
+                "ones gathering up this strange air are flying right at me?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Tomorrow's the harvest moon-viewing that we've been",
+                "waiting for. I already got bored of staring at tonight's moon."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Oh, she doesn't get it either."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "That makes two of us."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Yeah, and?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I'll still kick your butts and arrive at the truth."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Hey, you. The black-clothed thief. Don't you feel anything",
+                "when you look at that warped Moon behind you?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Didn't I just say I got bored of lookin' at it?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "You really don't get it."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "While we're arguing like this, that Moon is sinking lower."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Don't you understand that things will get really bad",
+                "if we just leave it be?"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Aah? An endless night will cause far more trouble for sure."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "For instance, the bamboo here will grow",
+                "eternally if the night lasts too long."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Might even reach the Moon, perhaps."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "How does that make sense?",
+                "Hey, let's just beat her and move on."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Yeah, I'll move, alright.",
+                "I'll keep on moving until dawn breaks!"
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "She's fleeing!",
+                "After her!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Let's get her!",
+                "Full speed ahead!"
+            ]
+        }
+    },
+    "3": {
+        "60_0": {
+            "lines": [
+                "Okay. You shot, I moved.",
+                "Now, the real battle starts here."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "You still want to fight?",
+                "Isn't it already decided?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hmph.",
+                "There's two of you, so I get two tries!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "What a waste of time."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "We didn't waste time.",
+                "It's all going to plan."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Dammit.",
+                "What the heck are you two saying?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Everything is instant.",
+                "And our fight was inevitable."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Huh?",
+                "Did that just come out of your mouth?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Look, there's our destination.",
+                ""
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "A mansion,",
+                "right here in the bamboo forest."
+            ]
+        }
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ah,"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "This village was always a tad odd..."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Straying into here means the end!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Black Cat of Evil Omens",
+                "Chen"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "What end?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Well anyways, welcome to Mayohiga."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "So, the end of what?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Once you wander in, you can't leave."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I doubt that."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Oh, I head that the items found in Mayohiga"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "bring great fortune upon the owner."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "That's right."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Could I have some?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "W-what?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "This is our home. ",
+                "Would you mind leaving, tengu?"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Oh, so now I can",
+                "leave?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Now then,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "anything I could grab for some luck?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Is someone in this village?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Here kitty kitty!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I hear the voices calling..."
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "Black Cat of Bad Omens",
+                "Chen"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Haha, there's the kitty!"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "So, what's your purpose here?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Flying around and beating people."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Wanderer, to have arrived at this place,",
+                "you must surely have lost your way?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "M-maybe...but I'll find my way either way!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "The recent snowstorm obscured your vision,",
+                "and the wind's constantly changing."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Wind?",
+                "Guess thats true..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "And now you don't know the way back."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "I have no reason to go back yet."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "I'll beat anyone"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "that wants to be in my way."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "It really should to be spring by now..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Or maybe I'm just going crazy."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "In that case, you'd better ask a human for help!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Black Cat of Evil Omens",
+                "Chen"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "But you're not a human."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Well, I wouldn't have an answer even if you'd asked me."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "In days like this,"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Cats are supposed to docilely curl up",
+                "beneath a kotatsu."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "You shouldn't believe such superstitions!"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "(I didn't know it was just a superstition...)"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "What are stray cats to do, then?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Why not get put to sleep at an animal shelter?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "The Buddhist Paradise is warm, they say."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Humans? Posing a threat to us?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Impossible, impossible, absolutely impossible!",
+                "To think that you would oppose us..."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "I—for one—would like to give it a try."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Amen~"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Paradise should definitely be warm,",
+                "no mistake about it."
+            ]
+        }
+    }
+}

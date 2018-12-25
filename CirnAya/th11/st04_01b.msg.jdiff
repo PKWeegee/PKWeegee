@@ -1,0 +1,332 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What a weird mansion.",
+                "The ground's so shiny, it's weird."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(I wonder...",
+                "<l$> If the person that made the geyser is here.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Oh yeah, what about that?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Pache >(We have to stop it.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Is that so?",
+                "Why?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Besides,",
+                "There was only a cat here."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "...A visitor?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Are you a fairy?",
+                "No, you wouldn't be able to get this far."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Hm, there she is.",
+                "Looks like a strong one."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "<t$Pache >(Uh, hurry up and ask her about the geyser.)"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Um, excuse me?",
+                "I want to ask you about the geyser..."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "...Geyser?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "...You really want to know about that?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Uhm...?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "It seems there's almost no information in your heart",
+                "about the geyser."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "What are you saying?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Pache >(......)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "<t$Pache >(Wait a moment,",
+                "<l$> I have a bad feeling about this.)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "......",
+                "Who are you?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I'm Satori, the master of this household."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "<t$Pache >(Eh!?)"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "You are a fairy,",
+                "what need do you have of me?"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Well, you know, the geyser...",
+                "What do I do now?"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "<t$Pache >(...Ask her how to stop the geyser.)"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "But why...",
+                "Well, is there any way I can?"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "How to stop the geyser, you say...",
+                "I'm sure one of my pets would be able to do that."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "Hm,",
+                "\"I want to meet with her and beat her\"?"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Eh?",
+                "What?"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "\"How did she figure out what I was thinking,\"",
+                "you say..."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "<t$Pache >(Cirno, she's more than you can handle.",
+                "<l$> Hurry up and find her pet.)"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "I didn't give you permission to do that.",
+                "Just how do you intend to go find her?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Huh?",
+                "I'll find her one way or the other."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "\"This sucks, maybe I should have asked booky",
+                "how to beat this creep...\""
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Hey, why do you understand me so well?"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "<t$Pache >(Satori... I've heard of those before. They're said to be",
+                "<l$> the most hated of the youkai underground.)"
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "<t$Pache >(A youkai that can read your heart. They can",
+                "<l$> use their power to control the wordless spirits...)"
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "<t$Pache >(And only wordless animals love them.",
+                "<l$> The animals grow up to become powerful youkai.)"
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "Well, what's the matter?",
+                "Aren't you off to stop the geyser?"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "I don't feel comfortable with someone",
+                "who can read my mind around."
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "I can see it...",
+                "My mind-reading third eye will show me your very heart!"
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "The beautiful danmaku in your heart",
+                "will make you suffer!"
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "Now, this is where it really begins!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "|\tGo sleep with a \t,\tmemory of fear\t,trauma",
+                "Go sleep with a memory of fear so frightful",
+                "it'll wake you up!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Hm, you're quite strong.",
+                "It's good to attack fairies."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Pache >(...Now, I'd like you to",
+                "<l$> take us to that pet you mentioned before.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Very well. However..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I haven't seen this particular pet in quite some time,",
+                "so I don't know what sort of youkai she's grown up to be."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Wow, you are quite the irresponsible",
+                "pet owner."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "My pets take care of themselves by absorbing",
+                "various spirits and youkai."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Letting them run free is the best way to keep",
+                "my stress down."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Pache >(That cat we met before was probably running free...",
+                "<l$> Just like our cat.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Huh, you have a cat?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Pache >(...Maybe that was a human we had.",
+                "<l$> It's within the margin of error.)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Well, I'll take you to the courtyard. There's a hole",
+                "there that leads to the deepest parts of the underground."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Further down!?"
+            ]
+        }
+    }
+}
