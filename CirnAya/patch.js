@@ -1,11 +1,8 @@
 {
 	"dependencies": [
-		"nmlgc/base_tsa",
-		"nmlgc/base_tasofro"
+		"thpatch/lang_en"
 	],
 	"id": "CirnAya",
-	"servers": [
-		"_/CirnAya/"
-	],
+
 	"title": "CirnAya"
 }
