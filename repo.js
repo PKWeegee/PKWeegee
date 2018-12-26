@@ -2,7 +2,7 @@
 	"contact": "PKWeegee#7899",
 	"id": "PKWeegee",
 	"patches": {
-		"CirnAya": "Playable Cirno and Aya"
+		"CirnAya": "CirnAya"
 	},
 	"servers": [
 		"https://thcrap.nmlgc.net/repos/PKWeegee/",
