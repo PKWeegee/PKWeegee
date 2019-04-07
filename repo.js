@@ -5,7 +5,7 @@
 		"CirnAya": "CirnAya"
 	},
 	"servers": [
-		"https://mirrors.thpatch.net/PKWeegee/",
+		"https://mirrors.thpatch.net/PKWeegee/"
 	],
 	"title": "PKWeegee's patches"
 }
