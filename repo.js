@@ -2,7 +2,7 @@
 	"contact": "PKWeegee#7899",
 	"id": "PKWeegee",
 	"patches": {
-		"CirnAya": "CirnAya"
+		"CirnAya": "CirnAya",
 		"UltraStory": "UltraStory"
 	},
 	"servers": [
