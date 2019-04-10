@@ -3,6 +3,7 @@
 	"id": "PKWeegee",
 	"patches": {
 		"CirnAya": "CirnAya"
+		"UltraStory": "UltraStory"
 	},
 	"servers": [
 		"https://mirrors.thpatch.net/PKWeegee/",
