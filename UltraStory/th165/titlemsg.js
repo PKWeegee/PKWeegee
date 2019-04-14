@@ -129,180 +129,180 @@
         "I guess my existence is not welcome..."
     ],
     "8_0": [
-        "Let's see. I started having these strange",
-        "dreams on Sunday night, one week ago."
+        "Another whole week of this madness.",
+        "How do I get outta here?"
     ],
     "8_1": [
-        "So, like, all the dream-world residents are gonna come attack me?",
-        "These dream weirdos are all such loudmouths, honestly."
+        "They are planning to attack Gensokyo?",
+        "B-but...why?"
     ],
     "8_2": [
-        "W-woah, it got way harsher.",
-        "I know I'm just dreaming, but if I hit too many bullets, can I still die?"
+        "She's acting like this is a full blown war.",
+        "Let's hope it never comes to that..."
     ],
     "8_3": [
-        "Noooo, I can't eat another biiite... mumble mumble...",
-        "Guh! It was just a dream?! ...Well, yeah. Figures."
+        "She made a whole factory for her dango...?",
+        "Talk about dedication."
     ],
     "8_4": [
-        "Hmm. Maybe the problem is that it's an insect photo in the first",
-        "place, butterfly or no? In terms of, like, social media etiquette."
+        "Who'd have thought a butterfly could be such a nightmare?",
+        "I really wish I hadn't angered her."
     ],
     "8_5": [
-        "Against my expectations, the jizo photos were",
-        "pretty well-received. Thank you, thank you!"
+        "A full on inferno!",
+        "Guess you should think twice before giving a Jizo a hat."
     ],
     "8_6": [
-        "On closer look, she's not throwing kitchen knives, is she?",
-        "Don't they look more like the little Pop-Up Pirate knives?"
+        "There seem to be two layers of knives here.",
+        "The slower one hides the fast ones...sneaky."
     ],
     "8_7": [
-        "Photos of dogs and cats only ever get nice comments.",
-        "Maybe they have the ability to control humans' brains."
+        "Normally, doggie pics are very popular.",
+        "Not sure how well an angry dog will do..."
     ],
     "9_0": [
-        "Ugh, so depressing.",
-        "I wish there'd never be another Monday."
+        "Back to the moon.",
+        "That clown was never funny."
     ],
     "9_1": [
-        "Where is this...?",
-        "There's these crater-like things in the photos."
+        "Yikes.",
+        "So many lasers and stars...America much?"
     ],
     "9_2": [
-        "I got shot with a laser from a really far-away spot!",
-        "What do you call these? \"Blind-run killers?\" Lousy clown."
+        "Stop with the lasers already!",
+        "It's crazy how just one little change can make it so frustrating."
     ],
     "9_3": [
-        "If I could get a photo of what the laser sources look like,",
-        "I bet I'd get a ton of views!"
+        "Unchanged?",
+        "Someone should give her some ideas, haha."
     ],
     "9_4": [
-        "This would be a lot harder <i$without> the rotating moon...",
-        "Is that, like, her way of being nice?"
+        "The moon is orbiting very close to her...",
+        "Never thought the moon would be a good shield."
     ],
     "10_0": [
-        "If you don't check the TV, you kind",
-        "of lose track of what day it is."
+        "I'd make a joke or something,",
+        "but man, these days are getting quite draining."
     ],
     "10_1": [
-        "That's a really fashionable-looking skirt... um, I think?",
-        "I don't get fashion."
+        "Ah, her again.",
+        "These orbs are really weird, indeed."
     ],
     "10_2": [
-        "When I look closely, there's a whole bunch of orbs",
-        "in these photos like the ones Reimu-cchi has!"
+        "Why does she want to build a wall?",
+        "Doubt that would stop people from attacking the capital."
     ],
     "10_3": [
-        "She looks like she wants me to take her picture,",
-        "but when I do, she goes and counterattacks. Yikes..."
+        "What are these orbs even made of?",
+        "They explode so violently too..."
     ],
     "10_4": [
-        "Geeze, this lady's scary. She just glides right up to you all silently...",
-        "C'mon, at least say 'hi' or something!"
+        "It's weird how just making things faster",
+        "can make them alot harder."
     ],
     "11_0": [
-        "It feels like there's a lot more \"Wednesday such-and-such\"",
-        "names than other days of the week."
+        "Those two dancers were quite annoying.",
+        "Not looking forward to that again."
     ],
     "11_1": [
-        "Her again...",
-        "Is she on my side or not...?"
+        "I'm on my own...",
+        "The only one who could have helped me is also against me..."
     ],
     "11_2": [
-        "The bamboo's glowiiing!",
-        "It's a Princess Kaguya factory up in here!"
+        "Weird, only her second wave is dense.",
+        "Is she like...charging up?"
     ],
     "11_3": [
-        "Weird... I thought whirlpools occured because",
-        "the particles gather towards the center?"
+        "I hate dancing.",
+        "Such a quick dance is impossible with my two left feet."
     ],
     "11_4": [
-        "What?! These movements are total nonsense, but you can't tell from just",
-        "a photo! A video would be better, but I can't erase bullets with that..."
+        "If I didn't have my camera",
+        "I'd be totally screwed here."
     ],
     "11_5": [
-        "This one's pretty tough, but a photo doesn't convey the difficulty...",
-        "This sort of thing really ticks you off just a little bit."
+        "You know this weird feeling of thinking someone is behind you?",
+        "Yeah, that's what I've got right now."
     ],
     "11_6": [
-        "They sure have some weird hats. What were those called?",
-        "They're like those old-style \"delinquent kid\" haircuts... sorta."
+        "Are they sisters?",
+        "They seem to work well together...so...maybe not, haha."
     ],
     "12_0": [
-        "I wonder why the hospitals have",
-        "their day off on Thursday so often."
+        "Time for that weird T-Shirt girl.",
+        "I sorta wanna put a melon on her head."
     ],
     "12_1": [
-        "The flames look like they're frozen in weird shapes...!",
-        "Is this an optical illusion?"
+        "That's alot of fire.",
+        "What, is she like, the hell goddess or something?"
     ],
     "12_2": [
-        "I got a photo of a whole lot of vengeful spirits! Although there's",
-        "so many, it doesn't even look like a spirit photo at this point."
+        "I've just about had it with fire",
+        "coming from the ground."
     ],
     "12_3": [
-        "Huh? Was her hair that color before?",
-        "It looks different from the other photos... is she wearing a wig?"
+        "Reminds me of that experiment where they shoot",
+        "lasers at the moon to measure distance...weird."
     ],
     "12_4": [
-        "So briiight! But it sure is pretty... I wish I could stand",
-        "in the center somehow and take pictures of all the geometric light."
+        "I'm not sure how,",
+        "but I actually survived that."
     ],
     "12_5": [
-        "The moon fell outta the sky! It's a Giant Impact!",
-        "I got a super-crazy photo!!"
+        "Scientists say that the moon was formed when a planet",
+        "crashed into earth a long time ago."
     ],
     "13_0": [
-        "Man, this week was sooo long.",
-        "Friday nights are just the best."
+        "Can't this week just end?",
+        "I'm so afraid of sleeping..."
     ],
     "13_1": [
-        "I got a big circle mark! From some lady dressed like",
-        "one of those smart teachers from a long time ago."
+        "They say that sometimes \"less is more\".",
+        "Guess that's what they meant."
     ],
     "13_2": [
-        "Photos with nice, regular patterns like this get",
-        "received really well. 'Cause everyone's simple-minded."
+        "If you stare at it for too long,",
+        "your head starts to hurt."
     ],
     "13_3": [
-        "P-pretty... um, I think you could call it that.",
-        "There's a fine line between beautiful and bizarre, huh."
+        "I feel like she wants to change it.",
+        "Maybe give her a hand?"
     ],
     "13_4": [
-        "This lady seems like she's got a real harsh personality.",
-        "Kinda hard to approach..."
+        "Is she making fun of my glasses?",
+        "Bet she's just jealous 'cus I look so cute."
     ],
     "13_5": [
-        "She gave me another big circle mark!",
-        "...Wait, if I couldn't teleport, I think I'd be dead right now?"
+        "(I wanna put Perfect Danmaku Hell into this scene.",
+        "I'll need some help for that though.)"
     ],
     "14_0": [
-        "I'm getting pretty used to these nightmares.",
-        "Not like I <i$want> to have them, of course."
+        "Kind of sad, you know.",
+        "Totally alone, nowhere to go..."
     ],
     "14_1": [
-        "Is she having fun throwing needles towards herself?",
-        "What a masochist."
+        "Is she like a star goddess?",
+        "Don't throw them around that carelessly."
     ],
     "14_2": [
-        "Quit aiming at me from below! (I am a girl, let's not forget.)",
-        "What's with this lady? She's got, like, no manners!"
+        "Owowow, that's too hot.",
+        "And from below as well...the nerve of some people!"
     ],
     "14_3": [
-        "She sure seems to be having fun shooting danmaku from the",
-        "comfort of her chair. Bet she doesn't get enough exercise."
+        "Stop sitting around, and actually do something.",
+        "Besides...shooting stuff."
     ],
     "14_4": [
-        "Woah, she seems like she's got a real meticulous personality.",
-        "I feel like danmaku photos can show you someone's personality, too."
+        "That was scary...",
+        "Everything went black, I couln't see a thing."
     ],
     "14_5": [
-        "It's hard to tell from just a photo,",
-        "but this one looked like a biohazard symbol."
+        "The barrier itself seems to be the same.",
+        "Guess she really liked that for some reason."
     ],
     "14_6": [
-        "She taaalked! The haughty chair lady talked!",
-        "That aside, though, I can feel so much power flowing from my back!"
+        "She's on my side!",
+        "Just need to survive a bit longer..."
     ],
     "15_0": [
         "Wonder if I'll have more nightmares this week...?",
