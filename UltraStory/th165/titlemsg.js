@@ -305,219 +305,219 @@
         "Just need to survive a bit longer..."
     ],
     "15_0": [
-        "Wonder if I'll have more nightmares this week...?",
-        "Well, let's see."
+        "Oh no, they are teaming up now, aren't they...?",
+        "This will be...something."
     ],
     "15_1": [
-        "It's a pair of vampire sisters.",
-        "I thought vampires didn't show up in photos, though..."
+        "The vampire sisters.",
+        "A slasher film has nothing on this..."
     ],
     "15_2": [
-        "Why, it's the Taoist and the head priest!",
-        "They're romping around way more than usual."
+        "Miss Hijiri and Miss Miko...",
+        "I wouldn't call this teamwork, tbh."
     ],
     "15_3": [
-        "A vampire and a head priest is a pretty weird combination.",
-        "They're weak to crosses, but I guess they're fine with sutras?"
+        "They both look pretty speedy.",
+        "Only the priest is doing anything fast though."
     ],
     "15_4": [
-        "This light's as bright as the sun,",
-        "but she looks fine. Even though she's a vampire."
+        "I really don't get how the vampire",
+        "survives in this intense light."
     ],
     "15_5": [
-        "Apparently, this vampire is extremely inquisitive, and will try",
-        "anything at least once. I wonder if she's a dojo member too?"
+        "Tight dodging, paired with tight dodging...",
+        "Who designed this junk?"
     ],
     "15_6": [
-        "Miss Hijiri really is something. She even got a shut-in vampire to spend",
-        "time outside. I wish I could get some shots of her in her biker getup, too..."
+        "It almost looks like Miss Hijiri is playing with this vampire.",
+        "Kinda cute, if they weren't trying to kill me..."
     ],
     "16_0": [
-        "I've been thinking about nothing but dreams...",
-        "Who cares about some dumb Monday."
+        "Dreams, dreams, dreams...",
+        "That's everything I'm thinking about."
     ],
     "16_1": [
-        "Let's see, this one is... oh my gosh, the Yama herself?!",
-        "Dang. The Gensokyo Chronicle really does have an article on everything."
+        "The Yama and some ghost.",
+        "Is she gonna carry that ghost into the afterlife?"
     ],
     "16_2": [
-        "These must be the people who Reimu-cchi calls her rivals. If I were",
-        "to compare them... the Hakurei Shrine is, um. Kind of the lame one?"
+        "Let's see, a Snake, and a Frog.",
+        "Shouln't they be like...rivals?"
     ],
     "16_3": [
-        "You can tell just from the photos that these two didn't go well together...",
-        "They're both real 'going my own way' types. Why did they team up?"
+        "These two just don't fit together...",
+        "Like, at all."
     ],
     "16_4": [
-        "Bullets that smash through the beautifully-arranged danmaku as they",
-        "proceed...? Might be a pretty good metaphor for court proceedings, huh."
+        "Turning so many bullets into even more?",
+        "I'm sure there's a metaphor in there somewhere."
     ],
     "16_5": [
-        "You can tell from the photos that they're a pretty similar pair.",
-        "Still, though... the bullet density is preeetty thick..."
+        "They are kinda cute together.",
+        "Different attacks that still feel similar..."
     ],
     "16_6": [
-        "It smashed into the pillar and the pillar vanished?!",
-        "MAYDAY! There's been a terrible accident! I gotta post this right away!"
+        "Why are they smashing pillars into pieces?!",
+        "There's gotta be a better way to attack."
     ],
     "17_0": [
-        "What did I usually do in the",
-        "middle of weekdays, anyway...?"
+        "How long do I need to wander this cursed place?",
+        "Forever...?"
     ],
     "17_1": [
-        "There she is! Gensokyo's secret character!",
-        "Apparently she stays cooped up indoors all the time."
+        "SHEESH!",
+        "That's so rude! Trapping me, and assaulting me!"
     ],
     "17_2": [
-        "Ahh, this pair...! These two were rampaging all over",
-        "during the Perfect Possession thing! I'd better run!"
+        "The cute small one!",
+        "I wish I could take her with me..."
     ],
     "17_3": [
-        "Seems like they're keeping a distance from each other. A Lunarian and",
-        "a celestial... I wonder what their impression of each other is."
+        "I really hate being trapped like this.",
+        "And now you are throwing rocks at me!?"
     ],
     "17_4": [
-        "Behold, the fairy-tale duo! They're as corny as a cell phone commercial,",
-        "and guaranteed to get shared across every social media feed there is!"
+        "Woaaah.",
+        "My whole vision is covered by giant bullets."
     ],
     "17_5": [
-        "I really wanna catch that little one...",
-        "She's not very photogenic. All the bullets around her look way too big..."
+        "So apparently the small one has the miracle mallet.",
+        "Hard to believe, that's just a fairy tale afterall..."
     ],
     "17_6": [
-        "Is it just me, or does this one make it look like the celestial",
-        "is whacking Princess Kaguya on the head over and over...?"
+        "This Lunarian seems kinda interesting.",
+        "I wonder if she plays games...?"
     ],
     "18_0": [
-        "This is weird...",
-        "All I'm thinking about is dreams, dreams, dreams."
+        "Dreams...",
+        "So many dreams..."
     ],
     "18_1": [
-        "Gyaaah, she's reading my mind!",
-        "I'm so embarassed I might die! Better just kill her!"
+        "Stop reading my mind!",
+        "This is so embarassing!"
     ],
     "18_2": [
-        "Oh, Koishi...",
-        "You found a weird animal, didn't you?"
+        "Her tails look really fluffy.",
+        "Probably a really nice pillow."
     ],
     "18_3": [
-        "There's a bunch of hearts getting stolen, hearts getting foisted on me...",
-        "I'm not sure I get it, but animal hearts sure are tasty."
+        "My...mind...",
+        "You can't have it!"
     ],
     "18_4": [
-        "A crow and a fox. Is there anyone who would like these photos...?",
-        "--Woah, speak of the devil! The Fluffy Fur Patrol is eating these pics up!"
+        "Animals! Everyone loves those, right?",
+        "I don't, at least when they are shooting stars at me."
     ],
     "18_5": [
-        "Can Koishi's sister not read the minds of animals?",
-        "She's got a metric ton of hearts jabbed into her, at any rate..."
+        "So Koishi's sister is a mindreader.",
+        "That sounds super annoying..."
     ],
     "18_6": [
-        "This danmaku was really straightforward, kind of at odds",
-        "with their characters. I'd hardly even call it a nightmare..."
+        "Hearts and stars seem like a pretty combo.",
+        "But well...they didn't really get togehter all that well here."
     ],
     "19_0": [
-        "I wonder who",
-        "I'll meet today."
+        "Time for the next four.",
+        "What day is it again?"
     ],
     "19_1": [
-        "These tiny stick figures are super scary, but...",
-        "From here, it just looks like I doodled on the photo."
+        "Reminds me of those long lines at events...",
+        "Stop pushing, and no line cutting!"
     ],
     "19_2": [
-        "T-taiko drums?! And lightning?",
-        "Man, anything goes when it comes to danmaku."
+        "I bet she can make a sick beat with those drums.",
+        "Could they be electrically charged?"
     ],
     "19_3": [
-        "If I had to say one way or another, tanuki are probably a \"percussion\"",
-        "sort of animal. What with the belly drumming and all."
+        "They are both drumming up a storm, I feel.",
+        "Just like those rock concerts. About as crowded as well."
     ],
     "19_4": [
-        "Nooo, not lightning! My phone's gonna get fried!",
-        "And that weird wiggly light seems bad for electronics, too."
+        "Thunderstorms terrify me.",
+        "Although I guess it's more the loud sounds..."
     ],
     "19_5": [
-        "The stick figures will even survive getting hit by lightning.",
-        "Um, seriously, scary much?"
+        "The thought of being struck by lightning is a scary one.",
+        "All this energy inside of your body...*shiver*."
     ],
     "19_6": [
-        "On closer inspection, some of the drums have skull marks drawn on them.",
-        "Is that just how expensive they are?"
+        "Never gave it much thought, but why put skulls on drums?",
+        "This isn't a heavy metal band, is it?"
     ],
     "20_0": [
-        "I can't remember what I used to dream about",
-        "before nightmares any more, but oh well!"
+        "The worst part about this whole mess is...",
+        "I'm getting used to it. That's not good."
     ],
     "20_1": [
-        "Let's see, we've got Mokou, and... an oni? The \"headlong charge\" duo.",
-        "Basic poster children for really thick-headed attacks."
+        "Mokou can explode her body.",
+        "Doesn't that like...hurt?"
     ],
     "20_2": [
-        "A \"harsh teacher and delinquent student\" duo. Although lately,",
-        "the word \"delinquent\" seems to be referring to people like me."
+        "They have a real \"buddy\" mentality going on.",
+        "Must be friends or something."
     ],
     "20_3": [
-        "A weird duo with way-too-unique danmaku.",
-        "But it's perfect for teleportation practice!"
+        "God, why can't I hit the oni?!",
+        "That's like, super annoying."
     ],
     "20_4": [
-        "There's this immortal jellyfish called a \"scarlet jellyfish.\"",
-        "Mokou...? Are immortality and scarlet related to each other...?"
+        "Going to hell seems to be a really scary thing.",
+        "I hope no one ever has to go through that."
     ],
     "20_5": [
-        "Thanks to this mist the oni made, I can't see the lasers at all...",
-        "The Hell duo is awful! Just plain awful!"
+        "Never knew there could be fog on the moon.",
+        "Just shows that science hasn't explained everything yet."
     ],
     "20_6": [
-        "I can feel an angry sort of aura coming off these photos.",
-        "Those two must really have a grudge against something in particular."
+        "These two are really mad.",
+        "Not only at me, someone else too."
     ],
     "21_0": [
-        "So it's been another week...",
-        "It ought to be over soon, yeah."
+        "Shouln't Okina be done by now...?",
+        "Please...please be done."
     ],
     "21_1": [
-        "Danmaku from every direction!",
-        "Now this is what I call danmaku freestyle!"
+        "That dirty liar!",
+        "I thought she was on my side!"
     ],
     "21_2": [
-        "Ah, it's the usual duo~.",
-        "Their attacks are awful, but it's sorta relaxing to see them."
+        "Reimu and Marisa.",
+        "I'm really not feeling safer, when these two are around."
     ],
     "21_3": [
-        "Wait, am I being a sneak photographer right now?",
-        "I'd better be careful not to get flamed for this..."
+        "Calling me an exposer. How rude.",
+        "I never intended it to be like that."
     ],
     "21_4": [
-        "That massive laser is so awesome...",
-        "I bet it's amazing for stress relief."
+        "Master spark, that's what it was called, right?",
+        "It looks awesome, but it also looks really scary."
     ],
     "21_5": [
-        "Quit aiming at me from below already!",
-        "Her lack of common sense infected Marisa-cchi too."
+        "I hate getting shot from behind!",
+        "Even Marisa is getting in on it now."
     ],
     "21_6": [
-        "I got yelled at not to take pictures without permission...",
-        "Interesting photos ought to be shared with people, shouldn't they?"
+        "So Reimu and the other one control the border of Gensokyo?",
+        "That's honestly really cool."
     ],
     "22_0": [
-        "There's still something left...!",
-        "Something that even I forgot about!"
+        "W-what?!",
+        "Something's happening!"
     ],
     "22_1": [
-        "She says she's the ruler of dreams, but her attacks are really gentle...",
-        "Is she an enemy, or an ally...?"
+        "Doremy...",
+        "I really don't get her anymore..."
     ],
     "22_2": [
-        "She sure is throwing my cards really dynamically.",
-        "Zener cards aren't cheap, you know!"
+        "Ok what?",
+        "This whole story is getting so dang confusing!"
     ],
     "22_3": [
-        "Huh...? Wait, I was a dream world resident all along?",
-        "I think I've lost track of what's happening."
+        "I really gotta step up my game.",
+        "Next up is the last showdown."
     ],
     "22_4": [
-        "I snagged a photo of the moment when I finished off the fake me!",
-        "Behold! This is proof that I truly am the real Sumireko Usami!"
+        "This is it!",
+        "Did I save the dream world?!"
     ]
 }

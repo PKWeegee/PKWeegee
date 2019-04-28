@@ -1,0 +1,104 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "You.....",
+                "You again!?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "What the hell are you doing in the dream world?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "This is my realm.",
+                "You are really not doing anything good for anyone."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "What... what's going on?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Well..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You made ME look bad.",
+                "Everyone accused me of doing this, while it was you!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "I'm sick of it!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Wait wait...",
+                "I'm so confused."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "You STILL don't get it?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Your real body is in the dream world.",
+                "It's breaking the balance of everything."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "It was all you!",
+                "Sumireko Usami from the Outside World!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Outside World?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Sheesh, you can't even tell the difference",
+                "between dream and reality anymore?!"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Fine. I'll just have to do this by force."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Time to save the dream world!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Bah...",
+                "Why'd you get so skilled?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I won't give up though!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I have allies!"
+            ]
+        }
+    }
+}
