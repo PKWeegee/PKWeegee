@@ -31,7 +31,7 @@
     "41": "Otherworld \"Hell's Fire of the Past\"",
     "42": "Otherworld \"Hell's Heavy Flame Geyser\"",
     "43": "Moon \"Distance-Measuring Lasers\"",
-    "44": "Otherworld \"Ōmagatoki -Nightmare-\"",
+    "44": "Otherworld \"Omagatoki -Nightmare-\"",
     "45": "\"Catastrophic Planet Sized Meteor-Impact!\"",
     "47": "\"Anxiety Inducing Trauma\"",
     "48": "\"Psychedelic Mandala\"",
