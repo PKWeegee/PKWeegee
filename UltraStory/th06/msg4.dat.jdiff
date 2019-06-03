@@ -1,0 +1,215 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "*cough cough* It's so dusty in here."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Let's hope the bookworm",
+                "doesn't find me."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Hey, leave my library alone!"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "This belongs to me now."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Oh, Patchouli."
+            ]
+        },
+        "95_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Ah great, it's Reimu.",
+                "This could end badly for us."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "So you are a dream dweller too?"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "You guessed correctly."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I suppose trying to reason with you",
+                "won't do much then?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Good guess.",
+                "I just want to sit in my library."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "So I can just go on then?",
+                ""
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...Actually wait,",
+                "why are you even doing this?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Why should I tell you?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Because that's how it always goes."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Usually yes,",
+                "but not this time."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Guess I'll just force it."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "...Get out of here."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "*cough* God, this dust is",
+                "so annoying."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "At least I don't have to worry about",
+                "my asthma."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Good thing I know my way around here."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "...let's get a few books while I'm here."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "It's always the same with you."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Perfection can't be improved upon."
+            ]
+        },
+        "94_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "You know, I just want to spend quiet days",
+                "in the library, but I got orders too..."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Oho?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "As if I would spill information for you."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Aw, why not?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I'm smarter than that."
+            ]
+        },
+        "99_0": {
+            "lines": [
+                "Well fine, guess I'll just do the usual."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Steal?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Well...yes, that too."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Then I'll really have to beat you up."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Good luck."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Let's see, how to easily remove",
+                "the brain..."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Woah, not bad.",
+                "That was some high level magic."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "*sob sob* Even though",
+                "I'm healthy in this state..."
+            ]
+        }
+    }
+}

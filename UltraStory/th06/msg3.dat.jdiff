@@ -1,0 +1,212 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "I won't let you get any further!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Why are you running then?"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Halt! The mansion is ours now!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Huh?!"
+            ]
+        },
+        "62_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Yeah, we took it over",
+                "and kicked the other guys out."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "And you still got pushed into gatekeeping?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "W-well,",
+                "It's still an important job."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Just looks important."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Uh..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Well whatever, I'll be heading inside now."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Hey!",
+                "I can't let you do that!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I'd be failing my job."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Even if you try,",
+                "you will still fail."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Not this time.",
+                "I'm way stronger now!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Thanks to our dear",
+                "\"Master\"..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Just move aside!"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Thank you, now move away."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There is no more.",
+                "This is the demo."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Oh well, that's too bad."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This can't be happening!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Crap, gotta get more serious!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Gonna doubt that."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, you shall not pass."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Hey there."
+            ]
+        },
+        "63_h1_0": {
+            "lines": [
+                "<c$Chinese Girl$Hong Meiling>",
+                "Hong Meiling"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Could you be a bit less",
+                "casual about this?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "But why?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Because this is a tense situation."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Oh really?",
+                "Didn't notice."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Stop making fun of me!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Yeah ok, guard who never guards."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Knock it off."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "In order to bust into somewhere,",
+                "you gotta beat up the useless guard."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "What's wrong with you?"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Just as I thought,",
+                "as useless as ever."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This is ridiculous..."
+            ]
+        }
+    }
+}

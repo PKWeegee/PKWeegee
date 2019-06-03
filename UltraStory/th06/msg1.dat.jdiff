@@ -1,0 +1,182 @@
+{
+    "0": {
+        "60_1": {
+            "lines": [
+                "Well, this sure brings me back.",
+                "Doesn't feel that great out though."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "That baku said something about dream dwellers...",
+                "I guess this could be trouble."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But it's so dark,",
+                "I've got no clue where to go."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "And no..."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "This is definitely not romantic.",
+                "(← annoyed)"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Oh my!",
+                "Don't say that, it feels wonderful out!"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "You seem familiar,",
+                "but uh...I don't seem to recall your name."
+            ]
+        },
+        "135_h1_0": {
+            "lines": [
+                "Terror of the Night",
+                "<c$Rumia$Terror of the Night>"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Rumia! It's Rumia!",
+                "Could you have amnesia?"
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "No, it's just that you weren't",
+                "very memorable."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Oh? Could you perhaps",
+                "be seeking death?"
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "Sorry, but I'm not in the mood for that today.",
+                "Why don't you just go away?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Ohhhh... Is that soooo..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "You know, you're in my way."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "How about you get lost in my darkness?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Not interested.",
+                "You dream dwellers are gonna be a pain I feel."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Hmm..."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "This sure is worrying."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ok let's recap..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "The dream baku said something about",
+                "dream dwellers having escaped?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "And now they are repeating past events?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Whoever came up with that plot is dumb."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "What a horrible night to have a curse!"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Boy I'm glad that I'm curse resistant."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Oh uh, really?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Sure, of course!",
+                "(lie)"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Well, curse or not, I'll have",
+                "you killed right here!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Have you finally learned",
+                "to count to ten?"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Well..."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "She's still weak...but..."
+            ]
+        }
+    }
+}

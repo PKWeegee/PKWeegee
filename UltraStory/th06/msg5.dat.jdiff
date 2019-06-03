@@ -1,0 +1,334 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Crap, its the Shrine Maiden."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "The mistress won't be happy about this!!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Still alive it seems..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Sakuya...",
+                "loyal as ever, huh?"
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Maid of the Scarlet Devil Mansion",
+                "<c$Sakuya Izayoi$Maid of the Scarlet Devil Mansion>"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Of course.",
+                "No one is allowed to harm her."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Well, I will harm her,",
+                "because this is unacceptable."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "You may not pass."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "The mistress is not",
+                "in a mood for this."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Usually she loves to fight though."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "That's besides the point."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Anyways..."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Just let me pass,",
+                "and save yourself the pain."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "But I know that won't be what happens.",
+                "Here's what you will say next..."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I will protect her honor",
+                "with my last dying breath!"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "\"Shut up and let's fight.\"",
+                "...Oh, guess I was a bit off."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Could you not make fun of me?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Why not?"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "...Look,",
+                "just go away."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "You know my answer to that,",
+                "don't you?"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Ok fine, I'm always ready to throw some knifes."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "I'll do whatever it takes",
+                "to protect my mistress."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Your time is mine.",
+                "Your final hour has begun."
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "How's that?!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Why are you so full of yourself, at this level?",
+                "You have a long way to go."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Come back two hours earlier."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "Now then, time to beat up a vampire."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Ugh...",
+                "I'm sorry mistress..."
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Crud, it's Marisa."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "What did you steal this time?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Get out."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Oh hey, miss maid, care to serve some tea?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh and while you are at it,",
+                "send your vampire here.."
+            ]
+        },
+        "65_h1_0": {
+            "lines": [
+                "Maid of the Scarlet Devil Mansion",
+                "<c$Sakuya Izayoi$Maid of the Scarlet Devil Mansion>"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Yeah sure, coming right up.",
+                "Just one second."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Huh, that was easy."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Did you really think I was serious?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Learn to detect sarcasm.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Learn to detect mine~."
+            ]
+        },
+        "70_1": {
+            "lines": [
+                "Whatever.",
+                "Go away."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I can't."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "What do you mean you can't?",
+                "I'll throw you out in a heartbeat."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "...can't be bothered to."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Urgh...",
+                "You are acting like a kid."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "You saying I belong in school?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "As long as you aren't here,",
+                "it's fine."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "But whatever.",
+                "As the chief maid, I'll throw you out."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "So if I beat you,",
+                "I'll just go to the vampire, yes?"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "More people have said that and been killed",
+                "than there are thorium decay products."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "That line has made no sense since back then.",
+                "Speak japanese, we are in Gensokyo."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Your time is also mine...",
+                "An old-fashioned witch doesn't stand a chance."
+            ]
+        }
+    },
+    "13": {
+        "61_0": {
+            "lines": [
+                "Aah, I'm worn out."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Why don't you go home?",
+                "I have a job to do here."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I will."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Really?",
+                "Bye."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Stick your thorium somewhere else.",
+                "I'm going up now."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Always gotta get the last quip in..."
+            ]
+        }
+    }
+}

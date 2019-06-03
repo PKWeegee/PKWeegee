@@ -1,0 +1,145 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Brr, it's so dang cold."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Even colder than normal."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I suppose the Ice fairy has nothing to do with it."
+            ]
+        },
+        "92_h1_0": {
+            "lines": [
+                "Ice Fairy of the Lake",
+                "<c$Cirno$Ice Fairy of the Lake>"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "That's where you are",
+                "dead wrong!"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Oh really?",
+                "I'm sure you are still quite the idiot though."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Hey, don't speak like that about me!",
+                "I've solved just as many incidents as you!"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "First I've heard of that.",
+                "Dumb, and also a liar."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Ok, that's it!"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "I'll show you a new Ice-Age",
+                "that you will never forget!!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "\"I've solved just as many incidents as you\"."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "What did she mean by that?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "I'm headed to the mansion",
+                "on the island..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "But why is it so cold again?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I guess there's that fairy..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "But it was never this cold before.",
+                "What's goin' on here?"
+            ]
+        },
+        "93_h1_0": {
+            "lines": [
+                "Ice Fairy of the Lake",
+                "<c$Cirno$Ice Fairy of the Lake>"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Revenge!!"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Oh, what's a little squirt like you doin' here?"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Last time we called it a draw! Now it's real!"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "What are ya even talkin' about?"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Whatever, let's goooo!!"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Well sure, if you insist."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Phew, I'd be lying if I said I wasn't cold."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ah whatever.",
+                "There's the island."
+            ]
+        }
+    }
+}

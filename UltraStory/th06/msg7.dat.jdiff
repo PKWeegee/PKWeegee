@@ -1,0 +1,669 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "What?",
+                "Don't try and stop us."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "How are you still here?"
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "Our master helped us out.",
+                "This time we will win."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "I'll show you",
+                "my ultimate magic!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I really really don't like"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "where this is going...",
+                "Where is that lunatic?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Here!",
+                "You there, red-white!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "There's the crazy little sister."
+            ]
+        },
+        "247_h1_0": {
+            "lines": [
+                "The Devil's Little Sister",
+                "<c$Flandre Scarlet$The Devil's Little Sister>"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Here I am."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Let's get you back to the",
+                "dream world then..."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Noo, don't!"
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "I fought so much to get to the real world."
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "It's breaking the balance."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "I don't care!"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "We all fought for freedom,",
+                "and we will live that dream."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "I...see."
+            ]
+        },
+        "257_0": {
+            "lines": [
+                "But like, it just isn't right.",
+                "Also, that baku is annoying me."
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "Well..."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "Ah?"
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "...even if you don't know how we feel,",
+                "it doesn't matter."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "Of course it doesn't.",
+                "At least to me."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "I don't care how you feel either."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Huh...?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "I mean, not many people do."
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "I don't care how you feel when I",
+                "rip you to pieces!"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Eugh,",
+                "could've worded that nicer."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "Nah."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "Oh well, anyone who causes trouble"
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "will be swiftly eliminated",
+                "by the power of a shrine maiden."
+            ]
+        },
+        "277_0": {
+            "lines": [
+                "So brace yourself!"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "I know!"
+            ]
+        },
+        "279_0": {
+            "lines": [
+                "How about a game..."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Game?"
+            ]
+        },
+        "281_0": {
+            "lines": [
+                "Yes.",
+                "A small game of fun..."
+            ]
+        },
+        "283_0": {
+            "lines": [
+                "Fun huh?",
+                ""
+            ]
+        },
+        "285_0": {
+            "lines": [
+                "...and death!"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Once you are out of the way,",
+                "we will be free to roam the world."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "A real problem child."
+            ]
+        },
+        "289_0": {
+            "lines": [
+                "Now...be my playtoy."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "I don't want to play."
+            ]
+        },
+        "291_0": {
+            "lines": [
+                "We will play a game of 10 cards!"
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "Oh, classic.",
+                "I'm pretty good at that."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "See?",
+                "This is the power of those who serve gods!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I'm not done yet!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "There's still more!"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "!?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hey, you said 10. That was 10."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Bah...stupid rules."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Now then..."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I'll let you get brought back to the dream world."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "No...",
+                "anything but that."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "If I don't,",
+                "that baku will never get off my back."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "She never got off of ours either."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Not my problem!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Good girls go home quietly",
+                "and go to sleep."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "...This should have been my home."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Just be quiet.",
+                "Like a good girl."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'm going home now."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Bad girls don't need to go home."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "...You need to change your ways.",
+                "Otherwise you will get more beatings."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...Meanie."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "That goes for all of you dream dwellers."
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "What?",
+                "You're here again?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "You?",
+                "Why are you here!?"
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "I don't have time for this."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "We will take over this time.",
+                "Starting with blasting you away!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "What's going on",
+                "around here?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Someone must have brought her back."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Where's this troublemaker then?",
+                "Come on out."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Did someone call me?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Nope, I didn't."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Here I am."
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "I can see that."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "What is it you seek...?"
+            ]
+        },
+        "249_0": {
+            "lines": [
+                "Oh, me?"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Right. I'm Rin Satsuki, here for your checkup."
+            ]
+        },
+        "252_h1_0": {
+            "lines": [
+                "The Devil's Little Sister",
+                "<c$Flandre Scarlet$The Devil's Little Sister>"
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "Marisa,",
+                "you can't fool me when I already know you."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "Never know if you don't try.",
+                "(Should try someone who exists next time.)"
+            ]
+        },
+        "255_0": {
+            "lines": [
+                "You are making a fool of yourself."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "A fool deserves to be",
+                "blown to pieces."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "You are a bigger fool than me."
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "We've been trapped in the dream world..."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "..for such a long time."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "That's sweet, I only go there when I sleep."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "It's a horrible place,",
+                "Gensokyo is so much nicer."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "I doubt you are meant to be here though.",
+                "Probably breaks balance."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "I've always wanted to cause",
+                "destruction everywhere."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Well, ain't you in luck.",
+                "Cus' you ain't gonna be able to."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I'll play with you then."
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Oh boy, what do I get?"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "One coin."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "One coin?",
+                "Cheapass."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "I meant that you can't",
+                "continue!"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Well? Had enough yet?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This can't be true...",
+                "I actually lost..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Yeah, maybe it isn't real."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Whatever, I'm gonna go home now."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I...don't wanna stop."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "I'll be alone again."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Oh right!"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "You gotta go to the dream world again."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Why should I?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Balance and all that."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "The baku said something about that."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "That stupid baku."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "You really hate it there, huh?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Of course we do.",
+                "It's just...horrible."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Doesn't mean you gotta",
+                "freak out like that."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "You will all die"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "and then there will be none."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Sorry to disappoint you.",
+                "But we won't go away that easily."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Well, it doesn't matter.",
+                "I can't die either."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Ah whatever."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I'll be going home now, for real."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "I curse you, you dumb magician."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "I'm curse resistant."
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "And if you come back,",
+                "you will get more beatings..."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "...Meanie."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "You're welcome."
+            ]
+        }
+    }
+}
