@@ -1,0 +1,412 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "So cold..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "And I can't see a thing."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Oh my, could you be night blind, Reimu?"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Seven-Colored Puppeteer",
+                "Alice Margatroid"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "For the last time, I'm not night blind."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "It's been a while, hasn't it?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Not really."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "No, that's not what I meant."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Elaborate then."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "It's been forever, since I got a chance",
+                "to beat you up real nice."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Yeah,",
+                "it's forever since \"never\"."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "You should watch your mouth more."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Same to you, old friend."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Some manners can get you far in life."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Says the rude Shrine Maiden."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Yeah sure, blah blah."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Don't blah blah me!"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Bye."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Hey!"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "You should be more careful around someone out of Makai.",
+                "You may have defeated our goddess in the past..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Oh now you bring up that old story?",
+                "You got a knack for nostalgia?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "...but I have ever since trained hard."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Now taste the power of Makai,",
+                "the land of Demons!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Makai is old news."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I've seen far worse since then."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I see...old friend. We shall meet again."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Will we?"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "It's kinda..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "...comfy here."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "That totally doesn't fit the situation."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Seven-Colored Puppeteer",
+                "Alice Margatroid"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "What situation?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Ah Marisa, are you doing well?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "As well as a magician can be."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "So why aren't you curled up at home?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "When trouble rises, the hero heads out."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Who's the hero then?",
+                ""
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "You are talking to her right now.",
+                "A snowstorm is nothing to be afraid of."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "It's not my doing, you know."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Is that so?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Even so, you are in my way.",
+                "And you seem to be disagreeable as ever."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Well, perhaps I shall partake",
+                "in a small bit of murder in this night?"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "What a busy winter this year."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "You should've stayed indoors."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The weather doesn't bother me."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "My, aren't you weird?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'm normal, you are weird!!"
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "What a waste of time..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I should just go to the netherworld."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Why don't you spend some time",
+                "with me before you leave?"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Seven-Colored Puppeteer",
+                "Alice Margatroid"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Oh no, I musn't waste any more time."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "So, for what reason do you hurry?",
+                "The winter is long, help yourself to some fights."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Because the winter is long,",
+                "I cannot mess around much longer."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Ah, good reason."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "That, and I don't want to run out of knives."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Ah...KNIVES?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Your worries seem to be backwards."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "How rude!"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "I have no worries!"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Well, if you want to put it that way."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "So, you, who has no worries."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Yes?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Would you like a meeting without conflict,",
+                "or perhaps a battle is more your style?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "You know my answer already."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I see..."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "Lowly maid, bow down to a Makai resident!"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "What's Makai?"
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Now then, I'll be on my way."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "You should head back home."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You'll only get hurt...",
+                "...if you go any further."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Somehow, I doubt that very much."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Well, joking aside."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "You'll die,",
+                "the cold will claim you. And then..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "...Alright, see you."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Wait, I haven't said my point yet..."
+            ]
+        }
+    }
+}

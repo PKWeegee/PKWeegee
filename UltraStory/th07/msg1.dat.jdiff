@@ -1,0 +1,239 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Cold..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Really cold..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "These dream jerks are going too far..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "\"Too far?\"",
+                "We haven't even started yet."
+            ]
+        },
+        "113_h1_0": {
+            "lines": [
+                "What Winter Left Behind",
+                "Letty Whiterock"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Oh hey, a weak winter youkai.",
+                "Of course you'd be enjoying this."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Oh absolutely.",
+                "I bet you are freezing though."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "How'd you guess?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Let's speed that up.",
+                "A nice shrine maiden ice cube."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Let's beat you up.",
+                "A nice dream dweller puddle."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "With a temper like yours,",
+                "I'm suprised you are even cold at all."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "If it weren't so cold,",
+                "I wouln't have to be so mad!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "She had some cherry blossoms."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "It really is like that one time..."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "What the hell is this?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "A novice like me shouln't be getting lost."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "But it's so easy to lose your way."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "What Winter Left Behind",
+                "Letty Whiterock"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Cus' of this stupid blizzard."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "That's right. Do you like my work?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Nah."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Poor thing, doesn't know real art."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Clearly, that's the main concern here.",
+                "Look, I gotta hurry somewhere, so..."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Let's have a duel.",
+                "Whoever ends as an ice cube wins."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Doesn't sound like a win to me."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "You aren't an ice cube,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "but you may need some ice for your wounds."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "I'm getting kinda nostalgic here."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Just like the first incident",
+                "I helped solve..."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Ah, it's so fun to cause an incident~"
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "What Winter Left Behind",
+                "Letty Whiterock"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Ahh, the fake mastermind?",
+                "Let me guess, dream dweller?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Indeed!",
+                "Well...to the dream dweller bit."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Don't lie about your place in the world.",
+                "That won't do you any good."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "You may be enjoying this winter,",
+                "but you can't be strong enough to make one."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Oh but it's so lovely out here.",
+                "I can't let anyone revert it back."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I see..."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "So let me show you how we handle things",
+                "back in the dream world, miss maid."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "And I'll show you how we handle things",
+                "here in Gensokyo, miss frostbite."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Well, that's that."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Now let's stop wasting time."
+            ]
+        }
+    }
+}

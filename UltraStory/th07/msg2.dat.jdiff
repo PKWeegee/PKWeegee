@@ -1,0 +1,285 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ah,"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "A village overrun with cats?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "No humans are allowed in here!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Black Cat of Ill Omen",
+                "Chen"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Uh?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Well anyways, welcome to Mayohiga...oh uh, Shrine Maiden."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Yeah, who else would I be?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Well uhm..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Say, where's your master?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Or better yet..."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "...give me your master's master."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Like hell I would!"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Then time to spray the cat!"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Excuse me?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Don't disprespect cats like that!",
+                "I'll scratch you bloody!"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Awe, bad cats don't get",
+                "any catnip."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "So..."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "...since I don't know where Yukari is, I'll just go further."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ahhh..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "The village of animals."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I only saw a cat so far though."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I hear a human calling..."
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "Black Cat of Ill Omen",
+                "Chen"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "\"No humans allowed,\" eh?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "So, what does the magician seek here?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Nothing from you, but your master might be interesting."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "A good shikigami never reveals her master's location,",
+                "no matter how dire the situation."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Even if you get beaten?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "In this kind of weather,",
+                "you shouln't be flying around like an idiot."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Because of this kind of weather,",
+                "I am flying around like an idiot."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "And now you will never return."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Of course."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Of course,"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "at this rate I won't."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Has spring been stolen away by the same culprit..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "or am I thinking too deep?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "The deeper you think the more you get lost!"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Black Cat of Ill Omen",
+                "Chen"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Why don't you get lost instead?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Well, I would if I didn't have orders."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Shouln't cats be asleep"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "during these cold winter days?",
+                "Don't you need a blanket?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Don't treat me like some lowly feline!"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "(I was just being nice...)"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I don't need your help, lowly maid!"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "I may be a lowly maid, but you are the lowest shikigami."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Call your masters, they might cause more."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "You dare talk like that about me?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Impossible, impossible, absolutely impossible!",
+                "To think that you would dare this..."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "I—for one—would like to give it a try."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Goodnight~"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Now to find the warmth,",
+                "which got stolen."
+            ]
+        }
+    }
+}
