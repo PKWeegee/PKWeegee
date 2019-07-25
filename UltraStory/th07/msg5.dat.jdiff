@@ -1,0 +1,636 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Reimu..."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "This doesn't look good."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I may still be able to salvage this."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Hand over your spring!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "This ominous feeling..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Spring is near..."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "By following the trace of spring..."
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "The Half-Phantom Gardener",
+                "Youmu Konpaku"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "...I found you again, Shrine Maiden."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "What is it you are planning this time?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "We are gathering all of the spring."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I can see that.",
+                ""
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Someone without an invitation is not allowed here."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Well..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Are you trying to hold another festival,",
+                "or is this another resurrection attempt?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "I'm sure you know which one it is,",
+                "don't you?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Resurrection it is then."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "How did you even get past the Prismrivers..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Ah nevermind that.",
+                ""
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "It's not all bad.",
+                "I can take the spring inside of you."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "How would a half-phantom achieve that?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "I'll slice it right out of you!"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "But can you do it?"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "At any rate—with just a little more spring—"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "The Saigyou Ayakashi will soon reach full bloom."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "And with that..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Mistress Yuyuko will awaken again."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "I wonder how long these stairs are."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Were you even listening?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "If you disrespect me like that, you will regret it!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Even If I were to die,",
+                "I'd be able to escape from hell."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Being stuck with me is like hell."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh, so this place isn't hell then."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "...The things that cannot be cut by my Roukanken, ",
+                "forged by Youkai..."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Are next to none!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Now I've got your spring as well."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I'll be heading to your tree now."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The young mistress...",
+                "she will awaken."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "She will let the Saigyou Ayakashi bloom.",
+                ""
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Not if I have anything to say about it."
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Marisa..."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "That's bad..."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I may still be able to salvage this."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Hand over your spring!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ah, the warmth of spring."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "There you are..."
+            ]
+        },
+        "101_h1_0": {
+            "lines": [
+                "The Half-Phantom Gardener",
+                "Youmu Konpaku"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Go away, burglar. We got nothing to steal."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "What about the spring?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "No, that's ours."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "We have rightfully taken it,"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "for a good cause."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "What would that be?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "The great festival will soon begin."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "A festival to celebrate the",
+                "resurrection of mistress Yuyuko."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Well, it's warm here, anyway. Nice and warm."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Did you even pay a little bit of attention?",
+                ""
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Once our beloved tree reaches full bloom,",
+                "the resurrection will take place."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Dead bodies being revived.",
+                "How elegant."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Yet we haven't gotten enough spring yet.",
+                "Maybe you..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "You have alot of spring on you."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "I ain't giving you that though."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "With just a little more spring,",
+                "our Saigyou Ayakashi will reach full bloom."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "The spring that you brought here..."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "...will bring us to the full bloom."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I rightfully collected it,",
+                "so I won't hand it to you!"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "We're one step short of full bloom!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "What would happen if",
+                "I were to snatch away all of your spring..."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "...and take it back to Gensokyo?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I will not hand over my spring!"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Me neither."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "The things that cannot be cut by my Roukanken, ",
+                "forged by youkai..."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "...are as good as none!"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Saigyou Ayakashi, here I come!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "The Saigyou Ayakashi will bloom,",
+                "one way or another..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm sorry mistress..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "It won't bloom, as long as I am here."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I just want my spring back."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "The maid..."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "What is she doing here?"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Oh well..."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Hand over your spring!"
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Where is she?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "101_h1_0": {
+            "lines": [
+                "The Half-Phantom Gardener",
+                "Youmu Konpaku"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "Get lost, maid."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Hey Half-Ghost, what is it you are planning?"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "A festival perhaps?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "I shall not tell a simple maid",
+                "what our plan consists of."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Here in Hakugyokurou lies a special tree."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Our Saigyou Ayakashi..."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "We will bring it to bloom,",
+                "and then..."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "I thought you didn't want to tell me."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Just return the spring you stole."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "We won't give it up before the resurrection."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I'll just force it back."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Soon, the Saigyou Ayakashi will",
+                "reach full bloom."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "My master wishes to be resurrected."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "I said I don't care."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "You have gathered enough spring to",
+                "bring the Saigyou Ayakashi to full bloom."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Do I look like I care?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I came here to stop the incident,",
+                "brought upon by you annoying dream dwellers."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "And what gives you the right to resolve this?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "My sheer strengh gives me more than enough rights."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Dream Dwellers should stay where they belong."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Indeed, we should."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "But we will not, as we have been given a special task."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I wonder, can my knives even cut dream ghosts?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "...The things that cannot be cut by my Roukanken, ",
+                "forged by Youkai..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Are close to none!"
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Cool."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Let's cut down the tree."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "D-don't you dare..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "But the mistress ",
+                "will stop you regardless."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "As soon as your spring reaches the tree,",
+                "it will happen."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Be quiet,",
+                "troublesome ghost."
+            ]
+        }
+    }
+}

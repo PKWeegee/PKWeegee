@@ -59,57 +59,57 @@
     ],
     "8": [
         "@",
-        "This is the Stage 4 theme. The style's more Chinese than Japanese. A wonderful place",
-        "above the clouds. As the true beginning of this game, Stage 4 is far longer than the others.",
-        "There's never been such a stratospheric (it's not that high) intrusion",
-        "with violent yet sorrowful music, has there? While I composed it with \"Journey",
-        "to the West\" in mind, it doesn't resemble that."
+        "This is the Stage 4 theme.",
+        "Long stage, and even longer ecl script.",
+        "Kind of funny to compare the lenght to stage 5, it's so short.",
+        "Anyways, this is where it really picks up in terms of density,",
+        "and I think we actually reach the bullet limit?"
     ],
     "9": [
         "@",
         "This is the three Prismriver Sisters' theme.",
-        "I tried to make this theme sound like it was being performed brightly and joyfully.",
-        "A performance by happy-go-lucky sisters who love festivals and anything noisy.",
-        "At the climax, each of them play their violin, trumpet, and keyboard as",
-        "they please. A veritable hodgepodge."
+        "Bring out the trumpets, 'cus I'm gonna doot.",
+        "I tried to insert some kind of refrence to Raiko,",
+        "but it just didn't fit, in the end, sadly.",
+        "Oh well, at least we got some foreshadowing~."
     ],
     "10": [
         "@",
         "This is the Stage 5 theme.",
-        "This theme expresses the nostalgia that's deep within every Japanese and the",
-        "frantic feeling that arises when someone's approaching.",
-        "The sounds of far-off Shinto flutes and bells conjure up images of the Netherworld.",
-        "Or maybe it's just me?"
+        "This stage wasn't really that special, or long for that matter.",
+        "Nice breath of fresh air after the mess that was Stage 4.",
+        "Youmu herself also isnt too bad, except for one or two spells.",
+        ""
     ],
     "11": [
         "@",
-        "This is Youmu Konpaku's theme. I tried to express both \"A Tough Opponent\" and",
-        "\"Childishness\" with this theme. Perhaps this is the most boss-like theme in this game.",
-        "While it uses guitars, I gave up trying to make it sound like rock music almost",
-        "immediately (laugh). The hook's melody resembles the youkai."
+        "This is Youmu Konpaku's theme.",
+        "She's mostly just following orders again, out of fear what Yuyuko may do.",
+        "But don't be too mean to her, afterall,",
+        "sometimes you just gotta kiss a half-ghost."
     ],
     "12": [
         "@",
         "This is the Final Stage theme.",
-        "The Final Stage is all about the final boss, so the mid-stage is only a token effort.",
-        "Because of that, this song's rather short, but it's also refreshing and pleasant (maybe).",
-        "The stage has visual imagery of flying over a sea of cherry blossoms;",
-        "I hope this song will give you the same impression."
+        "Stage 6 spam, oh how we love it. Or not, idk.",
+        "Overall, I found this game to be easier than 6, probably cus of the barrier.",
+        "Yuyuko's fight still packs a punch, but manage your borders,",
+        "and you will be fine."
     ],
     "13": [
         "@",
         "This is Yuyuko Saigyouji's theme.",
-        "I gave this theme an oriental and melodious feeling while making it the \"final\" song.",
-        "Having said that, the style of music is my usual fare. (laugh)",
-        "Vehement yet elegant, powerful but ephemeral; I thought I'd make this theme",
-        "quite emotional."
+        "A dream of being revived, what a humble one.",
+        "But stealing spring, that's just a no go, huh?",
+        "Yuyuko is quite the blabbermouth though, so she spilled some beans.",
+        "Some fun can be had in that, huh?"
     ],
     "14": [
         "@",
         "This is the ??? theme.",
         "An arranged version of Yuyuko's theme.",
-        "I put more emphasis on the mysterious atmosphere in this one.",
-        "However, the melody itself is so harsh that it's almost tiresome. (laugh)"
+        "She almost managed to revive herself.",
+        "But in the end, it wasn't meant to be."
     ],
     "15": [
         "@",
