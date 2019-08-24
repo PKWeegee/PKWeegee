@@ -1,0 +1,77 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Wooaah, what is this place?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I feel this sudden urge to go",
+                "across this river over there."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Hey, you there!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "All the stones we were stacking fell over",
+                "because you were thrashing around!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Stones?",
+                "Isn't the whole fun part to knock them over?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Making a mess is so much fun!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "At least onis have some dignigty to it...",
+                "You're worse than an oni!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You oni!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Argh... You're strong..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "What, that's it?",
+                "Wow you are weak."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Weak...",
+                "I can't help it!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "E-eh?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "...Ah forget it."
+            ]
+        }
+    }
+}
