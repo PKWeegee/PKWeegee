@@ -1,0 +1,966 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Still not giving up?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I may have been weakened..."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I'll still stop you..."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "No one ever held me back."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "I'm growing tired."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Get out here."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Should I emerge, then?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Look, I'm here now."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Took you long enough."
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "Mastermind Behind the Spiriting Away ",
+                "Yukari Yakumo"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "What do you need, Reimu?"
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "I'm not sure why you would want to see me..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "...in such a dangerous spot."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "You know dang well why I'm here."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Well... I suppose so."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "And you..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Yeah?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "You won't go without a fight, yes?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "How'd you guess?"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "So, you want this shard of a gemstone."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Do you know why it was entrused with me?"
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Because you are annoying?",
+                ""
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "No, no, you see, I wasn't involved in the main incident."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "What are you getting at?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "It doesnt matter though..."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "I'll take it, by force.",
+                "That's the power of a human."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Oh, haven't you noticed?"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "The gem shard..."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "gives us dream dwellers so much power."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "You came this far, and were able to",
+                "best everyone else."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Let me cut your speech short."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "It won't be that hard to beat you. ",
+                ""
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Dream dwellers are predictable.  ",
+                ""
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Predictable..."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Hohoho, you really think that?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "And that's that."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ahh, it's not over yet though..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "What are you getting at? Its over."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "This incident, yes. But the grand one isnt."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Obviously."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "One small victory won't bring you anywhere."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Why not give up now?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Giving up doesn't exist in my vocabulary!"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Says the lazy shrine maiden..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Hehe, called you lazy."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "That's all you've been reduced to?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Some small insults. How sad."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "It will get much sadder."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I'll watch from the sides..."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Doing nothing I presume."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Like usual?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I wouln't call it nothing."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Relaxing is more like it."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "I need my beauty sleep."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Dream dweller who needs sleep?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "What's wrong with you?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Not as much as with you~"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Go sleep forever!"
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Why are you still trying?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "You can't get to her."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I'll make sure of that myself."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "You are dedicated, I'll give you that."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Very strange."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Things feel broken."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "What is strange?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "The halting of time?",
+                "Or..."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Yeah, actually."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "What did you do?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "I just thought it'd be cool."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Some supsense is always nice."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Either way, I assume you know why I wanted",
+                "to see you?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Ah yes, of course."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "So?"
+            ]
+        },
+        "111_h1_0": {
+            "lines": [
+                "Mastermind Behind the Spiriting Away",
+                "Yukari Yakumo"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "You think I'll just give it to you?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I was gonna steal it, so..."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "Oh the nerve of the thief magician."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "\"Take it, even if you can't\", that's my motto."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Well, in that case,"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "I shall defend myself."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "So will I."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "You have not yet noticed."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "The shard I hold..."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "gives us dream dwellers immense strengh."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I've always liked breaking boundaries."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "There is one boundary..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "...that you cannot breach."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "This fight shall be your end."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Nice speech, now its my turn!",
+                ""
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Never mind that, it's time to dance~"
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Got it!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ahh, I'm so tired~"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "It was tough, but manageable."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ohh, staying awake so long",
+                "doesn't do me good."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Yeah I can relate to that one.",
+                ""
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Human."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yes?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "You have had a small victory."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "But that's the end of your winning streak."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Why do you think that?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "It will only get worse going forward."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Hmm...",
+                "That just means more fun."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "...or maybe not."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Frankly, I wanted to lose.",
+                "It's more fun to see where this madness goes..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Afterall, I don't really trust this master.",
+                ""
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Why aren't you stopping her then?",
+                "You are strong enough I bet."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Just not my type of thing."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I...see."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "It's more interesting to see them crumble"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "under their weight by themselves."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Oh...",
+                "That's wicked."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "No, not really."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Just basic methods of war."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "At least I think thats how those go.",
+                ""
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "That's really weird."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "So, by the way, isn't time supposed",
+                "to be normal again?"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "I'll fix that soon enough."
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Only this area is affected..."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Ugh, now I am getting tired!"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "You tricked me!"
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "I didn't."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "Don't you ever give up?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I may be weakened,"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "but I'll do what I can to beat you."
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "You can go to sleep soon."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "Who..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "has stopped time?"
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "That would be me."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Just wanted to make things more dramatic."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "That's kinda wrong, isn't it?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "It doesn't harm anyone,",
+                "so I think it's fine."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "So, what's a maid doing here?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Don't you know that already?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Maybe."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Is it necessary to play mindgames?"
+            ]
+        },
+        "110_h1_0": {
+            "lines": [
+                "Mastermind behind the Spiriting Away",
+                "Yukari Yakumo"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Maybe."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Can we cut the long speech?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Ah yes of course, you are here to ",
+                "give me a present."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "That present will be pain."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "After which I'll take this shard you have."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "No problem, just sign this contract here.",
+                ""
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "...Contract?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Your blood will sign it."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "That's oddly barbarric."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "...It's just a matter of form.",
+                ""
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "I studied law you see."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Really?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Sounds pretty sketchy to me."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Well, it was a lie anyways."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "But that's how it goes."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "How I deal with liars...",
+                ""
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "...smashed with knives."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Hahaha..."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "You won't have a choice..."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "...but to cross the border to hell."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Ahh, it's over."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "It was to be expected.",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "What are you saying?",
+                ""
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "You weren't giving it your all?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ah, not really,"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "it was moreso a fun experience."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "What? That's..."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Ah who cares?",
+                "I got the shard, that's what matters."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "It won't matter in the long run."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "The story is already set in stone.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Even if it weren't..."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "What matters is that we do our best,",
+                "no matter the percentage of success."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "I was just being flashy again.",
+                "Nothing is yet set in stone."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "That's not what you just said."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I'm just talking silly things."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Have you gone mad...?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Just bored."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Should've guessed..."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Either way..."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Yes?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Good luck. You will need it~"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "No need for luck when time is on my side."
+            ]
+        }
+    }
+}

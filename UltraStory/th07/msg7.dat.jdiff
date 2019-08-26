@@ -1,0 +1,962 @@
+{
+    "2": {
+        "40_0": {
+            "lines": [
+                "Ahahaha."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Sorry Shrine Maiden..."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "...but you won't reach my master!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "I misplaced my catnip I think."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Back here again,",
+                "now where's that..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "...massive idiot."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Shikigami of the Youkai of Boundaries  ",
+                "Ran Yakumo"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Don't you dare talk like that."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "What do you mean \"like that\"?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Insulting my master.",
+                ""
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "I don't really care about her feelings... ",
+                ""
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Why are you even after her?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Ah, just getting some gem thing."
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Oh?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Who could've told you about that?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "...The ghost."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "So, where's Yukari?",
+                ""
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "She is close."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "But she has no intention of coming out."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "I get it, I get it."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "What do you get?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "She only comes out... ",
+                ""
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "When you get your butt handed to you..."
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "So I guess I'll do the usual,",
+                "as usual."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "No need to say it twice."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "No need to be so annyoing."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "No need to insult me."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "I'll always protect my master",
+                "no matter the costs."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Chen!",
+                "Go and attack her some for me."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "The cat already meowed her last meow..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Huh?",
+                ""
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Uh, I defeated her."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh how cruel."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "So, shall we?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Of course. Afterall, my cat means alot to me!"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Just as I expected."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Defeat a shikigami, and maybe its master will wake up..."
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Master Yukari shall not come out though."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Tell that to someone else.",
+                ""
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "My colors shine so much brighter than yours!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "A shikigami cannot stand up to a",
+                "shrine maiden."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "How did this happen?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You cheated, didn't you?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ah whatever..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I'm alot, but I'm not a cheater."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Either way...",
+                "Time to find Yukari."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Master Yukari is still sleeping."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Even better."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                " I'll ambush her."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Ah, no! ",
+                "That would be bad."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "You mean good..."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "For us it isn't."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "If we were to lose",
+                "the charm she is holding..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Whatever."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "It's getting quite dark."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Her time is soon."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "If she awakes, you are so dead."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "The day when I die,",
+                ""
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "shall never come."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "..."
+            ]
+        }
+    },
+    "12": {
+        "40_0": {
+            "lines": [
+                "Ahahahah."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Sorry Magician!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "But your journey ends here!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Say that again after I beat you."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Ahh,"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "where could she be?"
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Preparing a protection~"
+            ]
+        },
+        "102_h1_0": {
+            "lines": [
+                "Shikigami of the Youkai of Boundaries  ",
+                "Ran Yakumo"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "For Master Yukari~"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Oh what have I heard just now?",
+                ""
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "You haven't heard anything!"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "No, I clearly heard what you said."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Protection for Yukari, hm?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Ok fine, you got me.",
+                ""
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "You should see then, that I won't let you get to her."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "Really now. That's a good joke if I ever heard one."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I see!",
+                "I'll let my Chen take care of you now!"
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "I already caused her some trouble though."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I made the cat lose one of her lives."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "Chen is my shikigami."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "As her master I'll have to take revenge for her."
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "So if I beat you too, Yukari will come out?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Great plan, thank you!"
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "That was your plan though."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Either way, wanna start?",
+                ""
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "I promise that this will be over quickly."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "No way."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "You won't get to my master."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Keep telling yourself that.",
+                ""
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "It won't make it any more true."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I am her guardian."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "And as such, I'm fated to be her barrier.",
+                "Especially now, that she has such a precious gem."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh, I get it."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "I'll get you burned to a crisp."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I don't get what you think you \"get.\""
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Very soon, I will make you too terrible not to just",
+                "look at but to do anything."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "Yukari, I'm coming for ya."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Gee, she's strong."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Don't go any further."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hollow words won't hold me back."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Master Yukari is nearby..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Ahh?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Thats perfect then.",
+                ""
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Time to find her."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "You say that, but she is not somewhere nearby~"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "But you just said she is?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Which is it now?",
+                ""
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "What are you talking about?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "She manipulates boundaries, so of course",
+                "she is here, but also not."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "So finding her will be futile.",
+                ""
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Okay, I understand now.",
+                ""
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "I'll just fly around until I bump into her then."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "You will never."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Its too dangerous for her to come out."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "The sun is setting..."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "That's the perfect time to",
+                "shoot the idiot down!"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "..."
+            ]
+        }
+    },
+    "22": {
+        "40_0": {
+            "lines": [
+                "Ahahaha."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Sorry, Miss Maid!"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "But you will find your end here!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "Awe, cat wants to play.",
+                "How cute."
+            ]
+        }
+    },
+    "20": {
+        "60_0": {
+            "lines": [
+                "It's weird."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "This place is always in such disarray."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I smell a human~"
+            ]
+        },
+        "103_h1_0": {
+            "lines": [
+                "Shikigami of the Sukima Youkai",
+                "Ran Yakumo"
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Oh, its you."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "You got that right."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Apparently you're still alive..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Would you like me to send you to the dead?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "I appreciate the offer, but no thanks."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Would the fox kindly move aside?"
+            ]
+        },
+        "109_0": {
+            "lines": [
+                "Would the dog kindly go away?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "\"The dog chases the fox away\", was it?"
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "I'm not just a simple fox."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "I've been tasked with protecting my master."
+            ]
+        },
+        "113_0": {
+            "lines": [
+                "For the keepsake she has been given",
+                "is very valuable to us..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "So no, I shall not go away."
+            ]
+        },
+        "115_0": {
+            "lines": [
+                "A fox is just a small step above",
+                "a cat."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Cat?"
+            ]
+        },
+        "117_0": {
+            "lines": [
+                "Ah yes, a small little kitty."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "What have you done to my Chen?",
+                ""
+            ]
+        },
+        "119_0": {
+            "lines": [
+                "The ususal."
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Shall I do the usual to you too?"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "...Maybe I should to that to you instead?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "A master always sticks up for her Shikigami."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "So allow me to punish you for her sake."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Too bad for you,"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "but there will be no punishments for me today."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Is that so?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "I'll beg to differ on that fact."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "A fox goes into the hills to die."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "But I suppose the Netherworld will suffice as well."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Let me return those words straight back to you.",
+                ""
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Chen is my shikigami.",
+                "I must take revenge for her."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "A master shall emerge, if her Shikigami is in danger.",
+                "Time to make use of that eternal constant."
+            ]
+        }
+    },
+    "21": {
+        "60_0": {
+            "lines": [
+                "Well then, go back to the hills or wherever."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ouch..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This isn't good.",
+                "But at least Yukari shouln't come out."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Won't come out?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "What do you mean?",
+                "Where is she?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I won't tell~"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I won't tell that she's close..."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Ah?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "If she won't show up herself,"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I'll just find her myself"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Noo."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Yes."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Aah, what a mess I've made.",
+                ""
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I'm very grateful for that..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Even though you are so annoying."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "The master of annoyance must be",
+                "even worse."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...I don't deny that."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I'll be on my way then."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Don't try to stop me."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "You aren't quite making sense."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Just go away."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "*sob sob*"
+            ]
+        }
+    }
+}

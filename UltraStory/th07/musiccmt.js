@@ -114,45 +114,45 @@
     "15": [
         "@",
         "This is the Extra Stage theme.",
-        "A high-paced theme (?) that's unusual for Touhou.",
-        "It's obvious from the stage that the tempo and feel are the keys to this song.",
-        "The tone turns around about 112 degrees in the middle of the song,",
-        "which is where Extra really starts. (laugh)"
+        "Oh my god, this is such a mess.",
+        "This was annoying to test, because there's just so much",
+        "stuff going on, it's insane.",
+        ""
     ],
     "16": [
         "@",
         "This is Ran Yakumo's theme.",
-        "I composed it to be more dazzling than fantastic.",
-        "Hopefully, you'll get the sense of the energetic youkai from the song.",
-        "In my opinion, when there's a long fight in a shooting game, the music should",
-        "repeat and sustain its tempo. That is, it ought to be like this theme."
+        "Wow uhm, her first spell, yeah I apologize.",
+        "Other than that, the fight feels very claustrophobic at times.",
+        "But thats the nature of what I'm doing here I suppose.",
+        "I'd like to touch Ran's tails. So fluffy."
     ],
     "17": [
         "@",
         "This is the ??? theme.",
-        "Another version of \"Youkai Domination.\"",
-        "It's not that different to the original though..."
+        "Not much different to the Extra stage.",
+        "Just harder..."
     ],
     "18": [
         "@",
         "This is Yukari Yakumo's theme.",
-        "Meant to be an arranged version of Ran's theme, it ended up quite different.",
-        "This one has an ominous feeling. Or rather, she's the very embodiment",
-        "of ominous. Even compared with the past characters, she has a devious",
-        "appearance, a dubious character, and thoughtless danmaku.",
-        "The theme's just like her: devious. (laugh)"
+        "Ah, finally done. Yukari's fight wasnt all that bad, tbh.",
+        "I may have overdone it with the resources, but I wanted to give",
+        "more people a shot at seeing the story, and all it can offer.",
+        "And I also wanted to make things less frustrating.",
+        "Hopefully you had fun!"
     ],
     "19": [
         "@",
         "This is the ending theme.",
-        "...It's just, it feels kind of dark.",
+        "...And that's that.",
         "",
-        "It's supposed to represent a peaceful, everyday life, I swear."
+        "Overall, it took a long time, but that's because I took some breaks."
     ],
     "20": [
         "@",
         "This is the credits theme.",
-        "The imagery is based on the familiar song \"Sakura, Sakura.\"",
-        "I think this song is kind of refreshing."
+        "This was a fun game to do, and I'm looking forward to the next one.",
+        "See you then~"
     ]
 }
