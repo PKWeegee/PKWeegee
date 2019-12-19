@@ -1,0 +1,132 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Stooooooooooooop!"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Ah it's a bird.",
+                "No need to worry, mistress."
+            ]
+        },
+        "60_2": {
+            "lines": [
+                "So you won't stop even if I yell?",
+                "I'll just attack then."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I only care for the human though. No bats today."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "How dare you not want me?"
+            ]
+        },
+        "63_1": {
+            "lines": [
+                "Bats aren't very nutritious!",
+                ""
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "So I'll have to pass on you!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "This is the greatest of insults.",
+                "I feel like a duel may be in order?"
+            ]
+        },
+        "66_1": {
+            "lines": [
+                "Woah, didn't expect you to take it so personally!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Milady."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Should we really stoop down to her level?",
+                "It won't do us much good."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Maybe."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Stop taking it lightly!"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Are you really not scared?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "A vampire scared of a bird?",
+                "That would be a first."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Neither am I scared by you.",
+                "So if you would excuse us..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Whatever.",
+                "I'll show you the true terror of darkness!"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Ah...?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "We tortured this poor bird long enough.",
+                "Where to next?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "We should hurry to the bamboo forest.",
+                "Time has already been wasted."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "If only I remembered",
+                "where it was."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "This is so unlike you, Sakuya."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "..."
+            ]
+        }
+    }
+}

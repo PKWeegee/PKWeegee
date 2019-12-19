@@ -1,0 +1,240 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "It seems the trap has worked!",
+                "And I thought it was going to be a dud."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh?",
+                "It seems we've gotten lost in some strange place."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Yeah, where are we...?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "You ghosts may seem oblivious,",
+                "but I know better."
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Crap!",
+                "They are actually strong."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh, how cruel.",
+                "Don't assume strength just from looks alone."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "You still refuse to give up?"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "You started off being aggressive.",
+                "We are just defending."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "You are trapped.",
+                "Just lay down and sleep."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Are we trapped?",
+                ""
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Are you blind?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "No, no, Youmu."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "It's not so much a trap,",
+                "as it is a small distraction."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "No, it certainly is a trap!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Really?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "No, no, Youmu."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "!?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I told you, it's not a trap.",
+                ""
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "You are really weird..."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Well, phantoms are always weird."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I'm only half of a phantom,",
+                "so I'm only half-weird at best."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "No, no—"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Shut up."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...The weirdest people are the most strong.",
+                ""
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I should take you out swiftly."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Hey, hey, Youmu."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Mind if we destroy this space?"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "What are you trying to say?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "Hmph. I'll help myself to all of your history!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Every last bit. Even from before you became phantoms."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "We could just blast this place to pieces."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Lady Yuyuko. Let's cut down the half-beast",
+                "first, and then escape from here."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Now then, lady Yuyuko,",
+                "shall we cut the space down?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "No, no, Youmu."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Look over there!",
+                ""
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There's a door.",
+                "E-X-I-T. Interesting~"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Ugh, I guess without the moon",
+                "I'm not that strong..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Oh, yes, yes.",
+                "The moon, right!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Now we are back on track!",
+                "I can't wait, Youmu."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Lady Yuyuko, you are getting too",
+                "excited over this."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "This is concerning."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Do not heed concern, it fuels worry."
+            ]
+        }
+    }
+}

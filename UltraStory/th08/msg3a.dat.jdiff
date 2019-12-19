@@ -1,0 +1,269 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "It seems the trap has worked!",
+                "And I thought it was going to be a dud."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Wha-! Where are we?!",
+                "How were we pulled away from the path?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I have no need to explain anything."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'll trap you here forever!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "How are you able to stand against my power?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Get back here!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Still at it?"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Of course, we aren't weak."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "What is this place?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "How did you create such an odd space?",
+                ""
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I didn't create it."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Keine Kamishirasawa"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I was just stationed here,",
+                "as a sort of guard."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Reimu, let's just go out of here."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I can just open a gap you know..."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Good point actually."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "But she is annoying me.",
+                "Would feel wrong to not fight her."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Gh..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "How are you so nonchalant?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "If it's a fight you want, I'll give you one."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Hey, hey."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I don't mind a small fight."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "But really, this kind of space is easy",
+                "to get out of."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "She tricked me?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Who is \"she\"?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "None of your concern."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "I think I know."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Your master, right?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "...Yes."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "So it seems like she's just playing games",
+                "with all of you."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "What are you saying?!",
+                "She is helping us fulfill dreams!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Placing you like little figures,",
+                "kind of like a board game."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...Ugh."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I'm not here to listen you talk badly about her."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "I'll eat your history, and make you never exist!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "I doubt that will taste that good.",
+                "Especially hers."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Shut up.",
+                "Do you always have to find one bad thing about me?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Now get us out of here!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Did you already forget that I can do that?",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You really think you can solve this incident?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Yes."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Yes."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Alright,",
+                "here's the exit door."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "This thing has a door?!"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "How convenient."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Really, its moreso strange.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Let's just go forward now."
+            ]
+        }
+    }
+}

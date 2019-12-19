@@ -1,0 +1,108 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Sakuya, could you wait up some?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "What are you saying? I'm simply hurrying."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "It is a dire moment afterall..."
+            ]
+        },
+        "62_1": {
+            "lines": [
+                "The one who hurries runs into bugs!"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "And now, you ran into me!",
+                "How about you surrender quietly now?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Surrender...",
+                "No one would pity you that much, yes?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Bugs are bugs, nothing special or dangerous."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "And they are so small."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Well...some are poisonous!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Are you?"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "She's just a firefly.",
+                "Those are completely harmless."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I guess it's fine to move on then."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "A bug should not bug us.",
+                ""
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "But is that what the bug is thinking?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Aaaaaaarrghhhh!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ahh. I have to say though, they make a good light for us.",
+                "It's beautiful."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Sakuya, our battle scattered them.",
+                "I don't think that will help."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I apologize, Milady."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "It's alright.",
+                "What were you trying to say?"
+            ]
+        }
+    }
+}
