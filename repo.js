@@ -6,8 +6,7 @@
 		"UltraStory": "UltraStory"
 	},
 	"servers": [
-		"https://mirrors.thpatch.net/PKWeegee/",
-		"http://mirrors.thpatch.net/PKWeegee/"
+		"https://mirrors.thpatch.net/PKWeegee/"
 	],
 	"title": "PKWeegee's patches"
 }
