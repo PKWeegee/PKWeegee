@@ -1,0 +1,309 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "It's over."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "The whole place is sealed.",
+                "There's no escape for you now!"
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "Lady Yuyuko, look!"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Ah yes, all these lamp spirits in here...",
+                "I wonder how they got here..."
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Huh, those things?",
+                "Why are you talking about those?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "If you aren't serious about it, just go.",
+                ""
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "No way.",
+                "We are here for the moon."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "You stole it again, so I'll slash you.",
+                ""
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "The moon, you say?",
+                "Ah, don't worry about it."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Oh but we do.",
+                "Who knows what devious things you are doing?"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Youmu, go ahead and slash her now!",
+                ""
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Ah oh, yes of course!"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Hey hey!",
+                "I'm sure we aren't doing anything devious..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "That might not be totally true.",
+                ""
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Afterall, we plan to destroy it."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Youmu, her too.",
+                "Slash her too."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "E-eh? Both at the same time?"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Now now, don't worry about it."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "I may not know what Lady Kaguya's plan is...",
+                ""
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "But she must have her reasons.",
+                ""
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Who cares about reasons?",
+                "You are doing unreasonable things."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Well, I need to finish preparations.",
+                "Udonge, I'll leave this to you."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Have fun with them."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "You won't be able to slash yourself",
+                "out of my illusions!"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "The illusions that my sword can't cut...",
+                "are next to none!"
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "Now that Youmu has gotten riled up...",
+                "we won't lose."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "Eh? Oh yes, certainly."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "Heh heh heh.",
+                "You are already going insane..."
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Your sense of directions is not working anymore!",
+                ""
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "!?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Now, even in your dreams, feel the loss",
+                "of your sense of direction!"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "Slashing all over never failed to work,",
+                "and this won't be the first time..."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I like to spread out my shots as well.",
+                "Remember that."
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "Hey!",
+                "...don't make light of me!"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "I doubt you'll be able to remain sane",
+                "after gazing into my eyes!"
+            ]
+        }
+    },
+    "3": {
+        "180_0": {
+            "lines": [
+                "Go where Lady Yuyuko says (Final A)",
+                "Go where Lady Yuyuko says (Final B)"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ohh, my head's spinning.",
+                "This was not a good idea..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "My, my, don't worry, Youmu.",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Look, let's go to that door over there.",
+                "After that it will be over."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I can't believe this.",
+                "There's an open one..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Even though this is where she wants us to go..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Sometimes you have to decive them."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Lady Yuyuko.",
+                "Do you know something I don't?"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Not at all."
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "Ohh, my head's spinning.",
+                "This is a bad idea..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "My, my, don't worry about it.",
+                "Let's just destroy a wall and finish this."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "This spot looks nice for that.",
+                ""
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Ahh, crap.",
+                "They figured it out?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "No, I didn't.",
+                ""
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "You sure?",
+                "You are such a smart girl though."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "And now we get to return the moon."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Are you excited,",
+                "Youmu?"
+            ]
+        }
+    }
+}

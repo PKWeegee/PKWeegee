@@ -1,0 +1,232 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Stop right there!"
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "Ah!",
+                "Reimu, of course it's you!"
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "What?",
+                "Don't tell me...?"
+            ]
+        },
+        "122_h1_0": {
+            "lines": [
+                "Marisa"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I mean, it's not like its a secret, ya know?",
+                ""
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Oh well.",
+                "Guess I'll have even less remorse about blasting you."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Same to you, old friend.",
+                ""
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Oh it's on!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "My, are you sure you can handle this alone?",
+                "Don't want me to help out some?"
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "It doesn't matter."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "One person, or a million...",
+                "I'll defeat them all with one hit."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "And what if you get hit?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I take damage and declare a spellcard.",
+                "Why are the rules so onesided to the incident resolvers?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Hey, I didn't make them!",
+                "I only approved them!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Indeed.",
+                "My I wonder who made them?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Ahh?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Wasn't that you?",
+                ""
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Hey, talk to me too.",
+                "Startin' to feel left out."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "As if you ever cared about talking."
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Let's let our bullets talk for us..."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "For once I agree with you."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "As much as I hate to admit it,",
+                "I agree with you too."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Some bullets are always the best form of conversation."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "And my bullets are the brightest",
+                "in this dark and scary night."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "We aren't scared."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Reimu, this is your last night!"
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "She's running?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "She can run, but she can't hide."
+            ]
+        }
+    },
+    "3": {
+        "60_0": {
+            "lines": [
+                "Still here?",
+                "Ya got a deathwish?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I'm not planning on biting the dust."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hmpf.",
+                "We'll see about that!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ah, we made it to Eientei.",
+                "Well done, Marisa."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "She was quite the good guiding light.",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Damnit.",
+                "Ya can't fix this incident tho, right?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There's always a way.",
+                ""
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Just beat whoever is in my way.",
+                "That's a shrine maiden's way."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Bah.",
+                "Maybe I'll watch you get ripped to pieces."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Should be fun."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Watch your mouth."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Says you..."
+            ]
+        }
+    }
+}

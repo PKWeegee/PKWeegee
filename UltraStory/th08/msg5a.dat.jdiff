@@ -1,0 +1,286 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Quite impressive."
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "But this is the end for you.",
+                "There's no escape, and also no right door."
+            ]
+        },
+        "121_1": {
+            "lines": [
+                "What is she saying?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Alot of weird cryptic things.",
+                "I know, because I do the same."
+            ]
+        },
+        "123_h1_0": {
+            "lines": [
+                "Reisen"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Oh, it's you guys?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Quite suprising that you haven't died yet.",
+                ""
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Hey, I'm good at this."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Debatable."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "She's actually kinda competent.",
+                "Sometimes at least."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "What?",
+                "Eh whatever, what do you want here?"
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Why do you even ask that?",
+                "It's obvious you completely removed the moon."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "That is impressive though.",
+                ""
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Well, you see...",
+                ""
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "I don't really get it either...",
+                ""
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Great..."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Mm-mm.",
+                "Of course you wouln't get it."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Really, all we are planning on doing is",
+                "destroying the moon on Lady Kaguya's behalf."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Reimu.",
+                "Did you hear that?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Uhm?",
+                "Destroy the moon...?"
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "I don't know if she is bluffing, but",
+                "we will beat her anyways!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "...It's still too early for that.",
+                "We still need to prepare more."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Udonge.",
+                "Have some fun with them."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Good luck."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Leave it to me.",
+                "I won't let you get to Lady Kaguya."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "We will get to her one way or another!",
+                ""
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "That's how we do things around here.",
+                ""
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "You think you can be all cocky with me?",
+                "Heh, that was your big mistake."
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "I'll show you two everything",
+                "of the Moon's insanity!"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Not this again."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Hey, shut it!",
+                "I'll have you turned insane in an instant!"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "This might be a bit dangerous."
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "The Moon drives people insane."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "So, I wonder if you can remain in your right mind",
+                "while gazing into the eyes of this lunar rabbit?"
+            ]
+        }
+    },
+    "3": {
+        "180_0": {
+            "lines": [
+                "Try a door (Final A)",
+                "Use a gap (Final B)"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Alright, where should we go now?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Ah, uhm?",
+                "Maybe one door will work afterall."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I told you, they won't.",
+                ""
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "This door!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Right behind you."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Why does no one listen to me...?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Shush, you rabbit.",
+                "Stop making noise."
+            ]
+        }
+    },
+    "2": {
+        "60_0": {
+            "lines": [
+                "So uh...where now?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Hmmm...",
+                "Oh right, I can use one of my gaps."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Yukari.",
+                "Why didn't we do that from the start...?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Oh no!",
+                "I forgot they can do that."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Don't get caught up in details, Reimu."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Sure, whatever.",
+                "Let's go."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh dangit..."
+            ]
+        }
+    }
+}

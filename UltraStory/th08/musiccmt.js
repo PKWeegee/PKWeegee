@@ -63,81 +63,81 @@
     "8": [
         "@",
         "This is the Stage 4 theme.",
-        "This song's an arrangement of the game's title screen theme.",
-        "It's a nice tune with a very quick tempo.",
-        "For the end, I put in a laughing sound, like that of a youkai.",
-        "However, it's unnatural to hear it where it shouldn't be creepy.",
-        "Altogether, the rhythm is odd. I feel there's a hint of encroaching madness in it."
+        "The bamboo shines when the moon is absent.",
+        "In this stage you will meet with one of two bosses.",
+        "Reimu and Marisa, and oh boy, they are quite messy to fight.",
+        "Apparently there's some better documentation now, but...",
+        "combing through the code again is not fun. Maybe in the future."
     ],
     "9": [
         "@",
         "This is Reimu Hakurei's theme.",
-        "If you're wondering why this theme is nostalgic, it's an arrangement of a song from a few years ago.",
-        "It's an arranged version of Reimu's Stage 4 boss theme from the fourth game, Lotus Land Story.",
-        "The patterns in Stage 4 closely resembles those of Lotus Land Story,",
-        "so I thought I'd do a similar song and give some people déjà vu.",
-        "The other theme for this game is \"An Old Memory Called Fantasy.\""
+        "Reimu, powered up and really pissed.",
+        "Now ur fuuuucked.",
+        "Really makes you think though what would've happened if Reimu",
+        "came over her dream dweller self in this incident.",
+        "On second thought, that'd just be weird."
     ],
     "10": [
         "@",
         "This is Marisa Kirisame's theme.",
-        "At this point, this song isn't all nostalgic or anything. It's an arrange of an old",
-        "tune from the second game, Story of Eastern Wonderland.",
-        "I was wondering if this theme still suited Marisa, and what shocked me is",
-        "that it totally did. It's rare to see someone so unchanged.",
-        "Marisa has 5 themes, but I think this one suits her best."
+        "Marisa, the good old magician/thief.",
+        "Moreso a thief though.",
+        "All of her stars...man, that's so ugly.",
+        "If anyone wants to TAS this, go for it.",
+        "But I wooooont~"
     ],
     "11": [
         "@",
         "This is the Stage 5 theme.",
-        "Asian, Western, old, new; this song isn't one or the other.",
-        "The boss seems that way, too, but the stage itself is based in Japanese horror.",
-        "Each song has a theme, and this one's is based on the song \"Kagome, Kagome.\"",
-        "It's not an arrangement, just composed with a similar theme.",
-        "I didn't want to get caged in on a theme for this one."
+        "Eientei has sure seen better days.",
+        "It's meant to show that a heavy battle took place here.",
+        "Also, there's some lamp spirits here.",
+        "Wanna know what their purpose is?",
+        "They look cool."
     ],
     "12": [
         "@",
         "This is Reisen Udongein Inaba's theme.",
-        "When you think of a boss in the final stages of Touhou,",
-        "this is what comes to mind. Guess some things never change. (laugh)",
-        "After the wild intro, there's a mournful melody in the middle before the hook breaks through.",
-        "Ah, all the characters look like they're having so much fun."
+        "Shame she doesn't have much importance here,",
+        "considering how prevelant she was in AoCF, especially her",
+        "dream dweller. Oh well, maybe a later game can explore that.",
+        "I'm not sure though..."
     ],
     "13": [
         "@",
         "This is the Stage 6 theme.",
-        "The 20th century voyagers.",
-        "The Noah's Ark of the 20th century flew into space, carrying with it hopes and fears.",
-        "However, it seems that just its hopes were left behind on the Moon.",
-        "Here in the \"future,\" in the 21st century, only fears and a handful",
-        "of illusions seem to be all that remain."
+        "Here we are.",
+        "Been a long time coming.",
+        "It wasn't too motivating to work on this stuff lately,",
+        "because the dialouge was a bit tough to write.",
+        ""
     ],
     "14": [
         "@",
         "This is Eirin Yagokoro's theme.",
-        "Impossible courage, ferocity, and vigor.",
-        "This theme combines all of those, making for a ridiculously foolish and energetic song.",
-        "All the energy and foolishness culminates in the final boss (ehh?),",
-        "so the act itself of putting this song in a shmup is lunacy.",
-        "I didn't want to get caged in on a theme for this one."
+        "Eirin, also known as the bad ending here.",
+        "Still, here theme is a freaking banger.",
+        "And I do like her fight more than Kaguyas.",
+        "But that has nothing to do with anything right now.",
+        "I'm hungry."
     ],
     "15": [
         "@",
         "This is Kaguya Houraisan's theme.",
-        "Boy, she really is insane, huh? (laugh) This song brings out a feeling of losing one's cool.",
-        "I don't express emotions through songs, I make songs with emotions.",
-        "And really, the game makes the songs.",
-        "They're not very cool and modern, are they? (Haha)",
-        "I'll admit I'm no pro."
+        "Ah, the true final boss.",
+        "Dropping some more hints here.",
+        "And hey, I'm finally done with the maingame.",
+        "Again, sorry it took so long, motivation'S a bitch.",
+        ""
     ],
     "16": [
         "@",
         "This is the Last Spell theme.",
-        "All it inspires is a frantic feeling. It's seriously fast.",
-        "It's the constant repetition of a short phrase that makes it so fast.",
-        "That doesn't sound like my kind of morning. (laugh)",
-        "Of course, it is fast, but it also has a mysterious kind of nostalgia."
+        "Victory lap?",
+        "Normally yes, but not here.",
+        "If you do cap something here though, good job.",
+        ""
     ],
     "17": [
         "@",
@@ -159,18 +159,18 @@
     "19": [
         "@",
         "This is the ending theme.",
-        "It's still the same. All laid back.",
-        "The ending song is never all that upbeat.",
-        "And this one's no exception."
+        "Finally the maingame is done.",
+        "Took forever.",
+        ""
     ],
     "20": [
         "@",
         "This is the credits theme.",
         "",
-        "I added a little nostalgia to this one.",
-        "\"Maple,\" such an old memory.",
+        "Now then...I'm excited to start working on the extra stage.",
+        "I hope you'll enjoy it too when it comes out.",
         "",
-        "This theme is loaded with old memories. But there's far too few staff."
+        "Won't take as long, I swear"
     ],
     "21": [
         "@",

@@ -1,0 +1,344 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Yes, good."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Keep going this way."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hey, hey!",
+                "Don't stand in our way."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Milady...",
+                "I'm not sure this is the right way."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "This...doesn't feel right.",
+                ""
+            ]
+        },
+        "121_0": {
+            "lines": [
+                "That's enough."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I'm sure you've realized it?"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "Dammit!",
+                "We fell for it, Sakuya."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "It's a trap!"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Did we steer off the right path?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "That's how you usually fall into traps."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Yes, you were led through that fake corridor,",
+                "and got trapped in here."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Now you won't be able to disturb her.",
+                ""
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "She will be able to destroy the moon in peace.",
+                ""
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I'll keep you two occupied for the time being.",
+                ""
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Milady, we need to get out of here.",
+                ""
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Yes, yes."
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "But we can't let this one go away like that.",
+                ""
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "My mistress is correct.",
+                "Time is always on our side afterall."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "They why do you waste it by talking?",
+                ""
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "That aside, what's the purpose of these",
+                "convoluted things you're doing?"
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Why destroy the moon?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I myself do not quite understand her reasoning.",
+                ""
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "But I am confident that she is meaning well.",
+                ""
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "So if you would just let her finish...",
+                ""
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "No.",
+                "Why would we even chance it?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Because it will be safe?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "At least I believe so.",
+                ""
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Who cares?"
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "We won't let you act on your idiocy.",
+                ""
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "And as queen of vampires, I will personally punish you.",
+                ""
+            ]
+        },
+        "147_0": {
+            "lines": [
+                "Sakuya, don't go easy on her!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "I would never go easy on anyone.",
+                ""
+            ]
+        },
+        "149_0": {
+            "lines": [
+                "...so, let's fight to the death."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I won't die."
+            ]
+        },
+        "151_0": {
+            "lines": [
+                "You're quite dumb."
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "You are stuck here in my trap."
+            ]
+        },
+        "153_0": {
+            "lines": [
+                "And yet you speak with such confidence.",
+                ""
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "It's kind of admirable."
+            ]
+        },
+        "155_0": {
+            "lines": [
+                "Milady, are you ready?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "I am ready to restore the full moon."
+            ]
+        },
+        "157_0": {
+            "lines": [
+                "I'm always ready."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "This kind of disrespect,",
+                "I won't allow it."
+            ]
+        },
+        "159_0": {
+            "lines": [
+                "All that matters now is winning."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hmph, what a brat."
+            ]
+        },
+        "161_0": {
+            "lines": [
+                "Not even willing to take a chance,",
+                "every once in a while."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "All of your strength..."
+            ]
+        },
+        "163_0": {
+            "lines": [
+                "Compared to a dream dweller's power...",
+                "It's basically zero."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Milady...",
+                "I shall protect you."
+            ]
+        },
+        "165_0": {
+            "lines": [
+                "I don't need protecting."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Well, are you ready?"
+            ]
+        },
+        "167_0": {
+            "lines": [
+                "I am ready to shield the princess from",
+                "any possible harm..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "We will hit you so hard that the harm goes",
+                "over to her as well."
+            ]
+        },
+        "169_0": {
+            "lines": [
+                "Now then..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "The dreams of the lunar people...",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Face their fears,",
+                "and drown in the vastness of space!"
+            ]
+        }
+    },
+    "3": {
+        "60_0": {
+            "lines": [
+                "Eirin, it's done!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "The moon has been destroyed."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Now quickly..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Chant the spell I taught you!"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "And together, we will end the curse of immortality",
+                "for everyone, once and for all!!"
+            ]
+        }
+    }
+}
