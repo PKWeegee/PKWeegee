@@ -142,19 +142,19 @@
     "17": [
         "@",
         "This is the Extra Stage theme.",
-        "It's kind of relaxed for one, huh?",
-        "It feels like a test of courage that wouldn't scare anybody. (No, it doesn't.)",
-        "I'm actually a little unsure about it, but it's extended.",
-        "I collected E, X, T, E, N, and D and extended it."
+        "Oh boy, Mokou isn't the extra boss?",
+        "Yeah, I wanted to try something a little more unique this time around.",
+        "I hope you like what you see!",
+        "And I actually managed to balance this stage with resources."
     ],
     "18": [
         "@",
-        "This is Fujiwara no Mokou's theme.",
+        "This is Watatsuki no Toyohime's theme.",
         "",
-        "I tried to bring out as much intimidation, power, and coolness I could that some shadiness",
-        "came out. But even if the song isn't shady, the character certainly is.",
+        "A princess from the moon, quite fitting for this plot.",
+        "I'm quite happy with how the fight looks, visually.",
         "",
-        "I always like kicking it old school for the Extra Boss song. This time around I really kicked it."
+        "And with that...this game is finally done. See you next time~"
     ],
     "19": [
         "@",
