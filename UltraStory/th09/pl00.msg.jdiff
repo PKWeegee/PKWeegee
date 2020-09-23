@@ -1,0 +1,1161 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "I wonder what they are up to..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Don't you know?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It's the grand autumn",
+                "celebration!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Suspicious fairy detected."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Heeey!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "They are getting more annoying."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Shrine maidens aren't supposed",
+                "to be wandering around!"
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "So, the harvest is suspciously good this year.",
+                "Really, what are they up to?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "In the grand harvest~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "We reap~",
+                "Ah~ We reaaaap~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "What's this song about?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Are you deaf?"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "I'm not deaf, I wanted",
+                "to know the deeper meaning."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "So many flowers are blooming.",
+                "You lost for not taking the chance to sing!"
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Are the clouds maybe...",
+                "No, that can't be it."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Are you that desperate,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "for an incident,",
+                "to start blaming clouds?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I can blame what I want.",
+                "Leave me alone!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "This is my spot!"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Fine, I'll go somewhere else...",
+                "You are too loud."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Even if I'm alone, it's a piece of cake."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Hmmm...",
+                "Who the heck would be doing such a thing?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Even the Shrine Maiden~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "can't believe her eyes!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "If I have suspicions,"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "something has to be amiss!"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "That's some boldness."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "But that will end here."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "I wonder if I'll find anything",
+                "in this dumb forest."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "The way's gonna be pretty long",
+                "if this is all our Shrine Maiden has."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "They repaired this quickly."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "So I can destroy it again."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Want to watch?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "No thank you."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Then I should start",
+                "with you!"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "How useless."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Now get out of here,",
+                "before Eirin kicks your butt."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Unfortunately, there's no one here",
+                "who knows about the flowers."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Huh?",
+                "Everything's normal here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Of course it is."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "We aren't harvesting."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Since the harvest is so good...",
+                "someone has to be up to something."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You should get out of here.",
+                "If not, I'll slice you!"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "You can't slice like that.",
+                "You need practice."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "What are you doing?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "If you're a Shrine Maiden,",
+                "then hurry up and find out the truth behind this."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "I hate this darn forest."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Well if it ain't you."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Always wanted to do this."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "You mean harvesting?"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Unlike you,",
+                "I am made for this."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "However pretty the flowers are,",
+                "you can't dodge if you keep looking away."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "It smells so good."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "That's true,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "isn't it a nice occurence?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "For what?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Harvesting."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "By the way...",
+                "What are you harvesting?"
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "You shouldn't overboil. The smell will dissipate."
+            ]
+        }
+    },
+    "13": {
+        "140_0": {
+            "lines": [
+                "Hmm."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I'm stumped..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Who would want to do this..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "That's,"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "pretty damned obvious."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "But if you aren't a dream",
+                "dweller, you wouln't get it."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I'll get it eventually,",
+                "so just go away!"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Try me~"
+            ]
+        }
+    },
+    "14": {
+        "50_0": {
+            "lines": [
+                "This isn't getting me anywhere.",
+                "Maybe to the harvest itself..."
+            ]
+        }
+    },
+    "15": {
+        "50_0": {
+            "lines": [
+                "Even the great Reimu is at a loss this time."
+            ]
+        }
+    },
+    "23": {
+        "140_0": {
+            "lines": [
+                "Hmm."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Who would do this..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "I'm really stumped..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "You seem quite troubled."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A pleasant sight."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I really don't know who",
+                "would want to cause this..."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "This has never happened before."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Maybe you should just",
+                "be put to sleep."
+            ]
+        }
+    },
+    "24": {
+        "50_0": {
+            "lines": [
+                "This isn't getting me anywhere.",
+                "Maybe to the harvest..."
+            ]
+        }
+    },
+    "25": {
+        "50_0": {
+            "lines": [
+                "This is hypothetical, but...",
+                "I don't think this one incident needs to be resolved."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "Nothing out of the ordinary?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Strange..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Usually there has to be a point!",
+                "Really, what's going on?"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "So naive."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "I thought the shrine maiden",
+                "would know a threat."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Like back with the endless feasts,",
+                "they didn't hurt anyone."
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "But lo, she came and stomped",
+                "the fun away from us."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Time for a scoop~"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "And lo, annoying reporter arrives."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Now now, I'm just spreading truth.",
+                "About a ignorant shrine maiden."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Uh...",
+                "It's better to be cautious."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "There might be some evil motive",
+                "behind the scenes."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Evil, you say...",
+                "That doesn't sound right."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Why?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You are way too slow..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Just consider that for once,"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "nothing bad is happening?"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "It's just us enjoying the harvest."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Enjoying? More like causing",
+                "loads of trouble."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Well then, I'll be on my",
+                "way now. Just enjoying the harvest."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "You should do the same."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Oh yeah.",
+                "I will."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "By exterminating you!"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "That's how I enjoy myself!",
+                ""
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "Clearly you can't be",
+                "doing anything good."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Hmm.",
+                "I guess I have some info..."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Ah, you do?",
+                "Tell me!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Or else I'll beat you again!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Yes, yes.",
+                "On the prettiest autumn patch,"
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "I saw the yama and her",
+                "shinigami loitering around."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "I see."
+            ]
+        },
+        "57_0": {
+            "lines": [
+                "That's all I know!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Yes, I can finally see my destination.",
+                "By my intuition."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "Fighting with me",
+                "won't give me a news or anything."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "The yama..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "That's right, that was the next incident."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "But in autumn..."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "What do they want?"
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "What is the shrine maiden..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Blabbing on about here!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Your misdeeds of course!"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "A first warning for the human hurrying to their death."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "The fee for crossing the Sanzu River is unreasonable.",
+                "You can't cross with such shrine offerings."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "I won't be crossing.",
+                "I'm here for you."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "What do you want with me,",
+                "of all people?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I'm just resting here beneath",
+                "these beautiful leafes."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "What's wrong with that...?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "You are too stressed.",
+                "Why not relax a bit?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I said I'm here for you!",
+                "You are the culprits."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Whatever already!"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "The harvest abundance, that's",
+                "your doing, isn't it?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Harvest? Abundance?"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Oh that?",
+                "Yeah that is a a thing!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "So you are responsible?",
+                "Confess already!"
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "What are you saying!?",
+                "It's a natural occurence!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Us dream dwellers..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "We just want to enjoy this..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Don't.",
+                "You are nothing but trouble."
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Well, I'll be off here...",
+                "I have work and all, you know."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Could it that...",
+                "You are trying to trick us?"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "To hide the actual incident?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "I said there's nothing going on!",
+                "Now leave me alone!"
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Never!",
+                "You dream dwellers are trouble!"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "I got it.",
+                "If you want to fight..."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "I'll ferry you over with my Titanic.",
+                "50%% off."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Now tell me!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Even if you defeated me...",
+                "it won't change the fact,"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "that nothing is going on~"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Looks like you're a liar.",
+                "Bring me to your boss."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Aah, alright~"
+            ]
+        },
+        "54_1": {
+            "lines": [
+                "You called?"
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "There she is!"
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Excellent."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Seems you can't pay even half the price.",
+                "Do you have money on you in the first place?"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "The shrine maiden of all people,",
+                "causing such a ruckus...."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "And on such a beautiful autumn..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "You really are hopeless."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "But you can still",
+                "redeem yourself."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Why is everyone",
+                "saying there's nothing going on?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Because there isn't.",
+                ""
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Us dream dwellers are just enjoying",
+                "this once-in-a-lifetime event."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "You should do the same.",
+                ""
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Just like back with the flowers.",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Are you saying that, I've been...",
+                "wrong?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Yes, that is so.",
+                ""
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "No one has caused this,"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "except nature itself.",
+                ""
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Do you understand now...?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "I... see."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "But even still,",
+                "you guys can't be here."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "So I'll have to beat you."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "This whole dream thing is",
+                "an incident in itself."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Is it? It does not bother anyone,",
+                "so why fight it now?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "You can get back to",
+                "stopping us once this harvest is done..."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "I do not think it would hurt to leave us",
+                "alone for a while."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "That's not the issue here!"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Who knows what troubles you cause!"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "I can't leave you unchecked,",
+                "for even a minute!"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "I see...",
+                ""
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "So that's what you want to do.",
+                ""
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "I can't stop your wishes.",
+                ""
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "I'll defeat you if you want."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Hm..."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "At this rate, you will lose",
+                "to one of us eventually."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "I never lose!"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "But you have lost in the past.",
+                "And you can lose again."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "You cannot be so overconfident."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "How rude!",
+                "I'll always do my job!"
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Yes, but even in times",
+                "when it is not needed."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "You do too much at times."
+            ]
+        },
+        "205_0": {
+            "lines": [
+                "Now this fight should scar",
+                "you enough."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "All right,",
+                "I'm ready for you!"
+            ]
+        },
+        "207_0": {
+            "lines": [
+                "Under these beautiful leafes,",
+                "you will learn your place."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "May this harvest be your",
+                "wake-up call!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Well? Have you learned yet?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "But your sin is not something as small as this.",
+                "You still must repent much more."
+            ]
+        }
+    }
+}
