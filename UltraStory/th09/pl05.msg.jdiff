@@ -1,0 +1,809 @@
+{
+    "70": {
+        "140_0": {
+            "lines": [
+                "The harvest! The harvest!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "The harvest~ The harvest~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Steal the crops and eat them all~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Look!",
+                "Frozen turkey sounds lovely!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'll use you to freeze the crops."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "I'm not here to freeze the crops!",
+                "I know what I'll have to do!"
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "You came at me pretty coldly. Humans probably",
+                "aren't going to pass through here now."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "It's so cloudy here!",
+                ""
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "At last, here above the skies,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I find a huge annoyance."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I thought that by flying up,",
+                "I could see the bigger picture!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Yet the clouds blocked your view."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "You are right."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I have to stay on the ground,",
+                "If I wanna see anything."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "The skies are cold in the first place,",
+                "so you're pretty useless here."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "I should lay down in this field."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Why exactly,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "would you do that?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Isn't it obvious?",
+                "I'm making a frozen flower bed."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, I knew."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "I suppose a frozen maid will also work,",
+                "for my little nap!"
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "The fairies are extremely lively today... and you're not an exception."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Bamboo forest...I hate it here.",
+                "Why did I even come?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Did you call me~?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You didn't call me.",
+                "Ah, I see."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I wanted to call your awake self!",
+                "I know you wont help me."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Wow a fairy figured that out?",
+                "You think you are real special, huh~?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "It was just intuition!",
+                "At least thats what I'll tell you."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "The bamboo forest is a large trap to capture lost people.",
+                "You got caught in the trap yourself, so stop complaining."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "So far,",
+                "I learned nothing new."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Having fun?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Playing by yourself."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'm not playing."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You are a fairy.",
+                "All you do is play."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "This isn't playtime!"
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Even though we were playing together,",
+                "do you know why I said I was adding that?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "That's because until you lose yourself",
+                "it'll beat the crap out of you."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Someone's here!",
+                ""
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "About that,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "you shouln't worry about me being here,",
+                "since you are just a fairy..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Anyone who impedes on my home,",
+                "deserves a heavy beating."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Sorry to bother you."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I'm going to beat you for that."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "I should do something about this.",
+                ""
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "I see, you're looking into the flowers.",
+                "I'm investigating too, so if you know anything tell me."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "So if I go here..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, idiot sighted."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What are you planning?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Nothing that interests you!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You never learn, do you."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "You are the one who never learns."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "There're no animals or plants that prefer the cold.",
+                "No matter where you go you'll be hated."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Sigh. Even if I wander around here,",
+                "it won't help me."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "this fairy seems very suspicious."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "What did you..!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, I wasn't really saying anything bad about you."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "But a fairy that makes things cold?",
+                "We don't need the winter cold on the harvest."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You look like you could cool down some!"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "There, that should quiet you down."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I guess I should check out the harvest,",
+                "maybe something interesting happens there!"
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Anyone can rip up a flower or two."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "I know I heard about it being abundant.",
+                "But seeing it is something else."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "But now what..."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Exciting."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Ah.",
+                "You've been following me."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'm sorry,",
+                "but an interview with the awake ice fairy..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "What're you saying?",
+                "I won't interview with you."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "But don't you see,",
+                "it's the two of us who started this."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I don't really understand but I didn't start anything!",
+                "That's rude."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Well then, go ahead.",
+                "Fight me. Show me the awake power."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "That's it!",
+                "If you wanna see the strongest, here she is!"
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "How was that! Give up, huh."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I give up, I give up,",
+                "I thought we would be stronger than that."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Screw this place!",
+                "I'll go somewhere quiet!"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Boring."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "Oh dear me, I've accidentally won.",
+                "And I thought I've held back enough too..."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Well this isn't any fun."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Huh? What's going on here?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "It's amazing. I'm used to seeing good harvests.",
+                "But this...its all withered."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "This was all my doing."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "You must be strong, right?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Being repressed since the old days,",
+                "you learn to be extremely agitated."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I still remember that one fight vividly."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Now that you mention it...",
+                "You are the dream version of the sunflower lady."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I am."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I've long since neglected my duties."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Your...duties?",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "It's fine to tell these things to a fairy."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Long ago, we had a similar crisis with dreamers.",
+                "My awake self forced me to work against them."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I don't really get it...",
+                "but I'm getting kinda scared."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I was weaponized,",
+                "how embarrasing is that?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "But now I can roam free again."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "It's why I ruined this field of crops,",
+                "to feel alive again!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "And now, an opponent has come before me,",
+                "so I shall show you my repressed anger."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Hiii~",
+                "Maybe I shouldn't've come here."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "My cute little fairy!",
+                "See what it means to be neglected!"
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Now, I have to run while I can!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I'll hide somewhere quiet!"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "It's not a problem if you run away in the end.",
+                "I will remain here for a while longer."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "You've been entranced by the flowers, haven't you.",
+                "A fairy, but much like an insect."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Phew, I should be able to hide here.",
+                ""
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "—Hey, I heard that!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Eh...don't care right now."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "It is rare for a fairy",
+                "to come here."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Aah! Someone came to bother me again~",
+                "Wait, you are the preachy lady!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Oh, excuse me."
+            ]
+        },
+        "145_0": {
+            "lines": [
+                "Everywhere I go, someone comes to me!",
+                "Why are the dreamers after me?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Maybe because you are half of the reason",
+                "we were able to escape."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "What do you mean?!",
+                ""
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Ah so you don't remember.",
+                "You don't know what your dreamer did..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "You dreamt about so many incidents.",
+                ""
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "And someone was able to see your dreams."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I don't get it, but that makes no sense.",
+                ""
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I'm going home!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Huhuhu, hold on a second."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "You really are a foolish fairy.",
+                ""
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "You'd think we'd let you go,",
+                "knowing that you are part of the key?"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "K-key?",
+                ""
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Indeed."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Since you were one of the first"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "to be seen by our master,",
+                "you subconciously know her weaknesses."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Yes, you must be eliminated."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "We will hunt you down, until you no longer",
+                "exist."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "You can't do that!",
+                "I'm a fairy!"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "Don't worry.",
+                "There certainly is a way."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "A youkai...yes, we can turn you into one.",
+                "And then...your time is over."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "No, you...you cant do that!",
+                "I'll...not let that happen!!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "There are many factors that judge ones life."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "Even fairies can fade away at times.",
+                "But you, you have always been different."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Now be aware",
+                "of the threat you cause to us!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "It is not unexpected that I win.",
+                "But that in itself bears no meaning."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "We shall continue until you understand."
+            ]
+        }
+    }
+}
