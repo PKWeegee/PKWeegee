@@ -1,0 +1,847 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "Today I'll prank some dreamers."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Who's getting pranked~?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I feel honored that you came all the way here."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I just came here to cool off a bit,",
+                "so let me grab onto you real quick."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "There's no way I'll let you do that."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Thanks for the refreshing",
+                "fight."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "A rabbit hopping around above the water;",
+                "there's a limit to weird you know."
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "Tala-tala-tala-ta, where are the birds~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Coming toward me while singing,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What's your deal.",
+                "You wanna mess with me?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Actually, yeah.",
+                "This is a prank, you see."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Don't steal my songs!"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "Looks like your pride only",
+                "comes from singing songs."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Now that it's become quiet, why not sing some songs."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Who would be up here?",
+                "I'm getting really dizzy."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Long ago,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "rabbits came from the sky."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Yeah.",
+                "But I never went there."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, I see.",
+                "Maybe I'll send you to the moon~."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "I don't think the moon would",
+                "appreciate my company."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "The rabbit from the ground is falling into the clouds~."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "What a pretty field!"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Who's jumping around here?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ah, just a rabbit."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I've got a four-leaf clover for you~!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Woah!"
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Sorry, but this clover",
+                "is for me."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Should I take some with me?",
+                "Something lucky might happen."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "The ghostly world~.",
+                "How quaint."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "How did an animal get here?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You seem too alive to be",
+                "coming here yet."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'll be alive for many more",
+                "years, I'll have you know."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I could cut that time short for you...",
+                ""
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "The only thing you'll be cutting",
+                "is tonight's dinner."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "If my lady saw you here,",
+                "there's no doubt she'd turn you into a charm."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "I think I should greet some visitors."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "I'm sure it was around here..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Ah, perfect timing.",
+                "Where's the rare bamboo?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "You gotta run around the forest about 10",
+                "times to make it appear."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Yeah right."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "It would have been funny if you fell for it."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Could've given you some workout."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "I was sure that there was something shining, though."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Is there any more visitors?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, there it is."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Oh, just a rabbit.",
+                "Eh, I can still use your luck."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Is that so~?",
+                "What about if I use it against you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Good luck with that."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Ah, I see.",
+                "If you want my luck,"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "run around the forest a bit."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "It's kind of... there's not a",
+                "difference anywhere I go."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "Let's see, who else will come."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Tewi! There you are!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "This time I'll finally",
+                "get back at you for all the pranks!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Gege!",
+                "It's the crazy dream Reisen~."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'm not crazy!"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Nice try!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "But I'm far more experienced",
+                "than you~."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "I caught you.",
+                "Now let's go home."
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "Uwaaah~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Why is the lily-of-the-valley growing so much?",
+                ""
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "A rabbit?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Lured by the smell of lily-of-the-valley, huh."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nah,",
+                "I just kinda came here~."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "I can tell by looking.",
+                "But it looks like the poison is working."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "There's so much poison here.",
+                "Why is it so much?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I used the abundant harvest,",
+                "and it helped grow many more flowers."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Amazing, amazing."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Ehehe."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "But you know,"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I do think that this is dangerous.",
+                ""
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "It would be better if you ceased production,",
+                "don't you agree?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I see~. So you are also",
+                "against my plans."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "In that case, a battle is in order.",
+                ""
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "I'm not sure about that."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I could easily trick you,",
+                "in any way I want..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "So you are at a disadvantage."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Wouln't you agree with me now?",
+                ""
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "You just became really annoying."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I'm not ceasing production any time soon.",
+                "I need all the poison I can get."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Then I'll just beat you up♪"
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Hah, hah...",
+                "...Ah, it's become harder to breathe."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "That's the poison's work."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Run away as much as you want,",
+                "you have already been affected."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Ah, it's fine.",
+                "I'll just...go somewhere nice."
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "If you fall to my attacks before the poison circulates,",
+                "there's no point."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Haah."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "This poison is really strong..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "At least this place is lovely..."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "I wonder why this harvest is like this...?"
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Who's the suicidal soul here!?"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "What!?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "A rabbit...",
+                "Someone poisoned you?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I guess I was wrong about the suicide,",
+                "my apologies."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Exactly!",
+                "Aaah, it's a strong poison."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Who could've done that to you?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Wait, aren't you that trickster rabbit?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Yeah, but this time I ain't tricking anyone.",
+                ""
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I see.",
+                "But you are still quite energetic."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "It's no use tricking me.",
+                "You really want to die, don't you?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Wait a second, hold it right there.",
+                "I'm not tricking you this tiiime~"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "You really think so?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "Rabbits that trick the river,",
+                "will eventually get eaten alive."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "This has nothing to do with me!"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "That doesn't matter.",
+                ""
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "I can't enjoy a single day in this place,",
+                "without someone coming for me."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "So naturally, I get more and more annoyed.",
+                ""
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "So I'm not falling for any tricks,",
+                "and I'm not gonna humor your jokes."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "Saying all these half-hearted things;",
+                "I was never lying in the first place."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Aahh...I need to lay down..."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "See, you want to die."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Stoooop."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "Hey now, if you collapse here you're really going to die.",
+                "Hurry up and head back home and sleep."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Maybe here..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "It's quiet, I might be able to get some rest here."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "But I am getting some unsettling",
+                "vibe from this..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Poison is a strange thing.",
+                ""
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "It can easily take over the mind."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Yet thats not the case with you,",
+                "is it?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Geez.",
+                "Why does no one believe me?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I've been done in by the lily-of-the-vally",
+                "you know~"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "While that may be true,",
+                "you are clearly overacting it."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Stop being so presumtuous.",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I judge sins after death.",
+                "I can be as high and mighty as I want."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "For a Yama, you certainly",
+                "are acting weird~"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I guess there's no need to keep the act",
+                "going, is there."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I just wanted to prank you dreamers."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "How clever."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Don't say it in such a condescending tone~",
+                ""
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I fooled alot of you today."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Yet you remain unchanged."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Your mischief,",
+                "it shall be your downfall."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "And you aren't welcome here."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "We have had plans today,",
+                "and you have not helped one bit."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "So run off now,",
+                "before you actually get poisoned."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Hehehe, as if I'd run now~",
+                "Let's fight, Yama~"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "If you have even a little bit of will to",
+                "reflect upon what you have done and feel remorse,"
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "this judgement will reach your deep heart."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Heaven or Hell.",
+                "Will you decide in this harvest?"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Your sins will not vanish from just this.",
+                "Of course, you cannot pretend that you have died."
+            ]
+        }
+    }
+}

@@ -36,54 +36,54 @@
     ],
     "5": [
         "Youmu Konpaku's theme.",
-        "It's not the Perfect Cherry Blossom version, but the arranged version recorded in",
-        "Ghostly Field Club. It draws out the coldness of the land of the dead.",
-        "I used the boss themes for other characters, but here, I thought this one fit",
-        "Youmu well, so I used it. Rather, I liked this one."
+        "Youmu, not too interesting of a character to write for.",
+        "Overall, I'm not too happy with her story.",
+        "But thats what happens when your whole character revolves around",
+        "slashing and nothing else."
     ],
     "6": [
         "Reisen Udongein Inaba's theme.",
-        "I made a few tweaks to the original to make it a little more nostalgic.",
-        "I had my reasons for the original, but for this game, it may've been a",
-        "little too much. Almost like \"why's it so serious?\"",
-        "Well, <i$Imperishable Night>'s pieces were all just a little too much.",
-        "Because it was about night and time... Well, maybe that doesn't make any sense.",
-        "Could you say this one's about flowers and idiots... (oops)"
+        "I thought it would be interesting if she went out of the house",
+        "due to her dream dweller just staying there all the time.",
+        "I guess she got annoyed. I would too.",
+        "",
+        "",
+        ""
     ],
     "7": [
         "Cirno's theme.",
-        "The old stupid ^H^H cute song has become cool. It's weird how that worked,",
-        "and it makes you wonder.",
-        "Still, the melody itself seems pretty dumb. I wrote this in an Asian style—",
-        "light and intense—not worrying about whether it fits the image of a little girl.",
-        "Instead of Asian, it feels more Touhou, and I seem to have developed",
-        "a specialty pattern without realizing it."
+        "Cirno, the cute and dumb fairy, who is too strong",
+        "for her own good.",
+        "The plot thickens, as some lore reveals take place.",
+        "What will happen afterwards?",
+        "Find out soon, with the next batch of characters.",
+        "(maybe)"
     ],
     "8": [
         "The three Prismriver Sisters' theme.",
-        "I rearranged this piece to exude a lighter atmosphere than the original.",
-        "Some time later, I want to make a piece that showcases the sisters performing solo.",
-        "Lunasa's on violin, Merlin's on trumpet, and Lyrica's on piano & accordion,",
-        "which makes sense in this piece, but if you think about it,",
-        "who's playing the drums and keeping beat?"
+        "Lyrica is searching for her sisters this time around.",
+        "I wanted to give them a bit more of an important role,",
+        "since their music has become quite famous in Gensokyo.",
+        "It wasnt easy to write for all 3,",
+        "but I think I managed?"
     ],
     "9": [
         "Bird, basis, Mystia Lorelei's theme.",
-        "It's now three strong 30 percent increase.",
-        "It sounds up-tempo enough to drive someone insane, but that's",
-        "its purpose. Mystia is enjoying the flowers herself.",
-        "Mystia's song is said to bewilder people, but if you listen to this,",
-        "it sounds like a pretty harsh song. Of course it'll drive",
-        "people nuts. A punk youkai."
+        "Mystia is moreso a filler character this time.",
+        "She's there, and all she does is annoy",
+        "the main culprits.",
+        "At least it was fun to write for a birdbrain.",
+        "",
+        ""
     ],
     "10": [
         "Tewi Inaba's theme.",
-        "I designed this to be a little playful, sentimental, and Japanese.",
-        "How is it? It came out fairly easygoing and cute, and I think it",
-        "fits this <i$Phantasmagoria of Flower View> to a T.",
-        "Actually, the notes and scales used aren't Japanese.",
-        "If you were to ask me \"where's the Japan in it?\" I really",
-        "couldn't tell you. But doesn't it seem Japanese?"
+        "Tewi is a weird case.",
+        "She is just going around to prank everyone,",
+        "but she does at least seem to have built up some",
+        "kind of poison resistance.",
+        "",
+        ""
     ],
     "11": [
         "Aya Shameimaru's theme.",

@@ -1,0 +1,826 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "Number threeeee~♪",
+                "Harvest day number threeee~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "What do we have here?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "One pretty loud pest."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "A fairy?",
+                "You aren't my audience!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Then why are ya here?!"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Meh, this place sucks.",
+                "I can't sing to anyone."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Everyone's been weird lately.",
+                "It's probably spring's fault."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Tala-tala-tala-ta, lost in the forest~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Tala-tala-tala-ta, fried bird~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A rather cheerful monster bird showed up, huh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Cheerful but lost."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You wanna get out?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "I'll go out if I feel like it."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "I'm not going to spare any good fortune",
+                "with a sparrow!"
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Beautifully dyed cloooouuuds~♪",
+                "In the orange of the fall~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "How strange."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "This bird doesn't belong here."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Huh?",
+                "Did I really fly that high?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I didn't even notice the cold~♪"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You'll freeze before I'm done with you."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "There's nothing for me here, up here."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Ah, a bird falling through the wind sounds",
+                "very surreal and wonderful."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "The ghostly feeling creeps along~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Who's singing here..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Where is that song coming from?",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "From the most loud songbird!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A terrifying monster!"
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "Sleep on this road,",
+                "and the birds will pick you off~"
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Oh, it was just a bird...",
+                "Looks like I rushed too much."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "What are you saying, Mr. Bunny~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Who...?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A weird bird..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "The rabbit is no match for",
+                "the birds of prey."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A bird of prey!?"
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Meh, this rabbit is too chewy..."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Even the monster birds",
+                "around here are going nuts. Is today bird stew?"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "In the land of wonders~",
+                "Everything is covered in life~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "How poetic."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "But it's a little noisy."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Noisiness is my specialty~"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, shut up already!"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "If you want a song to be quiet,",
+                "plug up your dang ears!"
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "And I thought I'd finally get to party out at flower viewing,",
+                "but with someone already here partying it really kills my excitement."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "The time is riiipe!",
+                "Let's kidnap some humaaans♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "How bold."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Such weird youkai."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "A human, a human!",
+                "Time to eat a human!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Too bad, I'm a maid that exterminates youkai."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "A maid huh, too bad.",
+                "Maids aren't that tasty."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Gensokyo covered by these flowers.",
+                "If it's going to be full of these kind of youkai, I'm going to be sick."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "The bird flies alooong~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "What the heck is that."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "How bored do you have to be?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Boredom comes with creativity~♪"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Stop singing."
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "No one can escape my songs."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "The little bird meets its maker~♪",
+                "Whoops, I sang."
+            ]
+        }
+    },
+    "3": {
+        "140_0": {
+            "lines": [
+                "I'm tired of flying around here~♪"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "That's strange."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A bird that's tired of flying around...",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Yeah, because its boring today~"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "If you are so bored....",
+                "Wanna get shot down?!"
+            ]
+        }
+    },
+    "4": {
+        "50_0": {
+            "lines": [
+                "If its boring in the usual places,",
+                "I could go to some other places~."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Might be fun there."
+            ]
+        }
+    },
+    "5": {
+        "50_0": {
+            "lines": [
+                "Nothing around here, huh.",
+                "The culprit of this incident should be..."
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "Stagnant poison lingers~♪"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Lily-of-the-vallies makes you sleepy~♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "You sure are noisy."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Run along, bird.",
+                "I'm busy growing my poison."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'll stay here.",
+                "You can't make me go away."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You can't.",
+                ""
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "If you really want to stay,",
+                "test the poison's strength for me."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Then you can stay here forever.",
+                ""
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Songs are my poison."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Whatever I sing, it fills my heart."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "So if I sing enough,",
+                "it will fill yours too!"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I have no heart. I'm a doll."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Then I'll sing a song to make you energetic again.",
+                "Lily-of-the-vallies poison~♪"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Stop singing!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Circle around to my injured wings~...",
+                "...Eh, ah, aah~..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "The poison is reaching you now."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "How lucky that you have such large wings. Your",
+                "continuous movement and rashness made this happen."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Enjoy your gentle,",
+                "eternal slumber!"
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Ruuuun awaaaay~!",
+                "Too much poisoooon~!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Why did you even come here?",
+                ""
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I don't knoooow~"
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "With the poison flowing into your nerves, even you'll",
+                "start singing transient songs."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "This place decayed, decayed~"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "What monster, monster did this~♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "The bird hunting monster~♪"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Who are you?!",
+                "Don't sing scary stuff like that!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, I'm sorry."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You looked so happy singing,",
+                "so I wanted to join in."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "But not when I get hurt."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "...What happened here?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Uhuhu.",
+                "That's a secret."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "But if you are already here,",
+                "we might as well have some fun."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "What do you say?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "What do you mean?",
+                "You look deadly."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I can look even deadlier."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "But will you survive that...?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I survive anything."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "That's what these crops thought too."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "And look where they ended up..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Uwaa!",
+                "You are serious about this."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Now then, are you ready?",
+                "Your fate is written there."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "This place is bad too~",
+                "I've gotta run or else~!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What did you come here for?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I don't know anymooooore~"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "You should be careful about",
+                "where you sing..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Someday you might die."
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Have a nice day."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Escape~"
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Sunflowers spin and spin, body blow~♪",
+                "And that's where the bird is fried in spices~♪"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Sooo tired~♪"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Wanna just fall asleep~♪"
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Then do not do it here."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I am waiting here for important",
+                "people to arrive."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Your noise just scares them off."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "So begone,",
+                "foolish bird."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "A judge, she judges~♪"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Listen when people are speaking!",
+                "People tend to say good things."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Oh?",
+                "You said good things?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "As I was saying...",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "We are waiting for other people."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Your singing is merely an out of place noise here."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "What the heck.",
+                "Thats so mean."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "It isn't lively at all, so who cares",
+                "if I sing a bit?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You do not understand the power of your songs."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Your songs drive off anyone who hears them."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "So now I'll drive you off."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "If you continue singing without thinking,",
+                "souls will gather around and possess you."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Yes, a very grave sin."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "D-don't threaten me!",
+                "I won't understand anyway!"
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "I thought so.",
+                "You are a bird, and birds have small heads."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Let us have you reprimanded."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "In this harvest, you will sing your last song!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "As the purple cherry blossoms scatter...",
+                "A little at a time, sins are forgiven..."
+            ]
+        }
+    }
+}
