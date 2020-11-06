@@ -87,29 +87,29 @@
     ],
     "11": [
         "Aya Shameimaru's theme.",
-        "This is the short version of the theme to Bohemian Archive in Japanese Red.",
-        "The original piece was a long six minutes, but such long battles in",
-        "this game can't happen, so I took the main section and looped it.",
-        "I imagined a wind god girl looking good playing the trumpet when I made this.",
-        "A world where feelings fly on the winds.",
-        "This is the image I had in mind for Phantasmagoria of Flower View."
+        "Another important storyline here.",
+        "Aya pretty much just goes to report on whatever",
+        "the dreamers are doing at the moment.",
+        "Yet it will land her in quite a heap of trouble down the line.",
+        "",
+        ""
     ],
     "12": [
         "Medicine Melancholy's theme.",
-        "Phantasmagoria of Flower View's most unique composition.",
-        "I wrote it to be a little Western and fairly dark in image.",
-        "This boss-like and strangely uplifting piece hints at older arcade games.",
-        "The sound of bells at the beginning of the song is",
-        "a strangely unsettling sound. This is poison."
+        "This is more of a filler plot again.",
+        "At least Medicine undergoes a bit of character",
+        "development in the end, so that's nice I think.",
+        "",
+        ""
     ],
     "13": [
         "Yuuka Kazami's theme.",
-        "I thought to create a piece bright and fluid, with the",
-        "elegance of a flower. It didn't come out that way.",
-        "The main melody here is done on piano, and particularly as I was",
-        "writing it, it brought back fond memories.",
-        "I thought it'd be better to make the piano part longer, but piano",
-        "doesn't seem to fit the game all that well, so it's shorter."
+        "This one I was very excited about writing.",
+        "I'm not sure if everyone will agree with the plot revelation",
+        "that happens in her story, but in my mind, it does make sense.",
+        "This is all meant as a fun little thing to make you think.",
+        "Don't take it too seriously if you don't agree with it.",
+        "Afterall, we are all here to have fun in the end ^^."
     ],
     "14": [
         "Komachi Onozuka's theme.",

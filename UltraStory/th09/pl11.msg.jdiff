@@ -1,0 +1,850 @@
+{
+    "70": {
+        "140_0": {
+            "lines": [
+                "...Woah, how long was I passed out?",
+                "Who grew Su-san this much?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ahaha~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Stoop the poisoooon~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Done in by the poison?",
+                "Then you should get out of here."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Harahorotia~"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "The poison levels are dangerously high.",
+                "That's going a little overboard, Su-san."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "Gotta run. Gotta run."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "What's going on here?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Let's grab some poison~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "For the road ahead~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hey, don't take it."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh I will~"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Amazing.",
+                "Why is everyone flocking here?"
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Aah, it's dangerous here.",
+                "I'd better get out of here quick."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "I'm not really figuring out anything yet..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Lily-of-the-valley's antidote room~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Could you lend some of it,",
+                "perhaps?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Store is closed today!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Come back another time."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Noo, I want it now~"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "Hey, Su-san.",
+                "Who grew you like this?"
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Aah, I've got to get myself cured.",
+                "Gotta run!"
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "It's quite worrying,",
+                "that it grew without my permission."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Amazing."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "There are so many poisonous flowers,",
+                "Let's grab them."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Hey!",
+                "These lily-of-the-valley are mine!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "They belong to everyone..."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "This is my field,",
+                "so go away!"
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "I've got to hurry and tell master...",
+                "Aah, this poison is strong..."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "It's gotten so strong~"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ooh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "So this is the poison epicenter?",
+                "This is harsh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Sure seems like it.",
+                "Why are you here?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Gonna make a new potion.",
+                ""
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "I doubt a potion out of Su-san",
+                "would be of much use."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Ah, geez! If I stay here my beautiful voice will be ruined.",
+                "I've gotta run!"
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "I don't know.",
+                "This is so weird."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Aah! Geez."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Who's keeping this place in check?",
+                "It's way too much!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, a human? A human.",
+                "And the shrine maiden to boot!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Seriously,",
+                "you are so irresponsible!"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Why are you so weak?",
+                ""
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Uu. This place isn't good for my body.",
+                "I've gotta run!"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "I think I'm starting to figure out",
+                "why Su-san is so abundant."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Wow, this is amazing."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "So much precious poison."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "\"Precious\" poison.",
+                "You're a strange human."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh I'm not gonna consume it."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "I see.",
+                "You want to kill others."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Not at all.",
+                "Someone is interested in poison."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I think I should head out to",
+                "take a look at the state of things."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "A shut-in?"
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Tomorrow's tea shall be made with lily-of-the-valley.",
+                "...Maybe it's about time I leave this place..."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "Huh? This place is totally dead."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "That's extremely worrying.",
+                ""
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Hmm.",
+                "What a cute doll."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Me?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Of course.",
+                "There's nothing else here, afterall."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Did you cause this place to",
+                "become so deserted?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Are you a threat?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Do you know why I did it?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "It's because I was repressed."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Eh?",
+                "Wh-what are you talking about?!"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "The more repressed a dream dweller gets,",
+                "the more chaos they want to cause."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Chaos?",
+                "So that explains it..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Then maybe Su-san..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Tsk, tsk."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "So what now?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "You want me to fight, don't you?",
+                "It can't be helped."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "Phew, that was spicy."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I should look around more."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "It's fine I suppose..."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Don't get caught up in things that",
+                "don't involve you."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Don't they know a walking tool is dangerous..."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "Wow."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Wow, wow!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "So many beautiful flowers~"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "It's incredible!",
+                "I'm really lucky!"
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "A poisonous tool..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Why has this tool wandered",
+                "into here?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "And why is she extruding so much",
+                "poison?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "*giggle*",
+                "It's just who I am."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Yet this abundant poison...",
+                ""
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "I think thats to blame on my dream dweller.",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "That doesnt bother me."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "It's dangerous here so you should leave",
+                "before it gets hectic."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I don't want to."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Let me enjoy this pretty scenery."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Really, you are interested in that?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "...Huh~?",
+                "No, you could scare them away...!"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "...Scare who?"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "We-well. This is a bit unpleasant."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "I'll just lay down somewhere here,",
+                "so you don't have to worry."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Aagh.",
+                "I have to chase you away."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Can't be helped."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "I'm going to chase you out with power,",
+                "so once you're out go home!"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "You are no match for my poison."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "You're a strange doll.",
+                ""
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "And you are a strange reaper.",
+                ""
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "I'll get scolded at if I keep playing with a doll...",
+                "I should keep my breaks short."
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Alright then,"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "this area looks very nice as well.",
+                ""
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Eh? I'm feeling a cold draft...",
+                "This is spooky..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "It is dangerous here."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "If you are not careful,",
+                "our plans..."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "They will fail.",
+                "So leave."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Eeeeeh!?",
+                "Everyone wants me gone~"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "There is no helping it.",
+                "You are just a brainless tool."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "No matter how you think, the ones using you",
+                "are the ones that decide your fate."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "So now allow me to use you.",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "You might be a good weapon,",
+                "now that I think about it."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Like hell I'll let you use me.",
+                "I'm my own person."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Your poison might be a good",
+                "weapon."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "You see, we need to capture",
+                "two awake beings."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "And then eliminate them."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "And my poison..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "It would be strong enough to",
+                "kill them?!"
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "That is correct."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "So why not ally with us dreamers?",
+                ""
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "There will only be",
+                "benefits in it for you."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "You know, I've been thinking for a while."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "This whole war on humans stuff,",
+                "its just a pipedream!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Are you ignoring my offer?",
+                ""
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "And you are disobeying your dream self?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "How foolish of a tool you are.",
+                ""
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "It seems you must be discarded."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "Your heart has been cut in two.",
+                ""
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Once you are out of resonance with your",
+                "dreamer..."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "It will shatter your self,",
+                "once and for all."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "You are the same as other typical humans,",
+                "one who holds a small heart."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "That's clearly a lie!",
+                "You just want me to join you..."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "But I won't be decieved!",
+                "I'll use my power for other things..."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "Without support from others, you will not be able to",
+                "cross the Higan and you will be dropped into the river."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "A soul that does not understand the pain of others",
+                "will never receive support from others."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "And without our support, you will ",
+                "embrace despair at the fact that nobody will aid you."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "As a doll that has lost her purpose,",
+                "let's make this harvest your last!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "Cherry blossoms are...",
+                "Look, the hands that have grasped you have increased."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Ones with poor hearts will join,",
+                "return to the Earth, and eventually be forgotten."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "But you do not have to worry.",
+                "All humans have only small hearts."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "You are that close to a human being.",
+                "What's left is to nurture your plentiful heart, and surpass humans."
+            ]
+        }
+    }
+}

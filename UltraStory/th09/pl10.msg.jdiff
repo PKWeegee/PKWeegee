@@ -1,0 +1,978 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "So around here..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Tengu alert."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Whatcha doing?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'm reporting on the harvest.",
+                "And you dreamers."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Why are you stressing the \"dreamers\"?"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Hmm."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Let's look elsewhere for",
+                "information."
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "I know, write about me!"
+            ]
+        }
+    },
+    "70": {
+        "140_0": {
+            "lines": [
+                "This area is always well travelled."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Crow~, why do you cry~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It's the will of the crow~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, there you are.",
+                "Who is going blind today?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You are~."
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "I see. Well, good luck with",
+                "that."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "It's great that crows are able to cry freely."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "Above the clouds lies this gate.",
+                "They finally fixed it?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh, the reporter tengu."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What are you doing here?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, the youngest of the Prismrivers.",
+                "I'm reporting on all you dreamers."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, that's right.",
+                "You're the pushy one."
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "Yes yes, interesting..."
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "We're going to be doing a live performance soon.",
+                "When that time comes put us on the newspaper. Make it really flashy."
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "That article was...boring...",
+                "This one was...too exaggerated..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What are you mumbling about?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Just scrapping some old stories.",
+                "Have to make room for new stuff."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I've got some news for you."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "That was hardly newsworthy."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Since you're thinking, that means you're trying",
+                "to solve the flower outbreak for your story, right?"
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "These dreamers aren't as interesting as",
+                "I thought there'd be..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Now selling info~ Now selling info~"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Now for your soul~"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "What buisness practice is that?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "A buisness for sleazy tengus."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "If there's someone searching for news material,",
+                "there will be people against it."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "I'm not going to give my soul.",
+                ""
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "That's a real shame.",
+                ""
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "How about for money?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "That's too expensive..."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "It's pointless to attack me~"
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Info~ Info~"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "You?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What are you worrying about?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, to find you here!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "The shrine maiden is always interesting.",
+                "Do something funny."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Am I being made fun of?"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Yes, keep doing that, its hilarious."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Bleh, this isnt funny."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Oh geez, what's with that weak line?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "I'm going somewhere else,",
+                "you are boring."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "That's right, if you're a tengu then you might know something.",
+                "About this flower outbreak too."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "So...",
+                "She should be here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Who's here?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "If you are trying to look for me,",
+                "I'd suggest stopping now."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "So, you wouldn't happen to have any",
+                "newsworthy things for me?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "All I have for you",
+                "is a fight."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "There's certainly something off today."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I'll have to look into that."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Really, can someone carelessly enter someone else's house?"
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "It's been a while since I came to the other world.",
+                "Its as boring as ever."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What is a tengu doing here..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, I'm just looking around,",
+                "don't mind me."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'd rather you don't."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "How pointless.",
+                "Even as a dreamer, you are weak."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "I just said it's quiet and peaceful~"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "Everyone's causing a commotion,",
+                "but thats because of the harvest."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Yo."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Whatcha doin'?",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Ah, Ms. Thief.",
+                "Stealing something today?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Th-thief!?",
+                "Stop calling me that!"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Yes yes,",
+                "so, what are you stealing?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Ok, that's it.",
+                ""
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "None of you are of any help."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "What.",
+                "Why would we help?"
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Just get poisoned or something."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "How rude of you.",
+                ""
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "But actually...",
+                ""
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Not a bad idea.",
+                "Thanks, thief."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Thief, that's harsh.",
+                "Do I look like someone who'd steal?"
+            ]
+        }
+    },
+    "110": {
+        "140_0": {
+            "lines": [
+                "The poison field."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I heard about something troubling."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Where is the culprit?"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Hold it!"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Perfect."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Go away, windy tengu.",
+                "Don't scatter my poison."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You are the poison doll, yes?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I am indeed.",
+                "What are you doing here?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Ah, excuse me.",
+                "I heard about your war plans."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "I'd like to interview you."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "War?",
+                "Plans?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I don't know what you are talking about,",
+                "so scram."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I smell a lie.",
+                ""
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "You aren't fooled, huh?",
+                ""
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I'm not here to stop you,",
+                "I just want a good story."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Fine."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I'm using the abundant harvest to grow",
+                "my poison, to get rid of humans..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Interesting.",
+                "Thank you."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Wait a second!"
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "I can't let you spread that info!",
+                "I need the suprise."
+            ]
+        }
+    },
+    "111": {
+        "50_0": {
+            "lines": [
+                "Your poison would have worked,",
+                ""
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "if I couln't control the winds."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I see, tengu are the wind.",
+                "No wonder my poisonous mist didn't work..."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Be careful from now on",
+                "because this plan won't take off."
+            ]
+        }
+    },
+    "112": {
+        "50_0": {
+            "lines": [
+                "Now, be sure to write cool things about me!"
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "This was a waste of time so far."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "But I think now I have a lead.",
+                ""
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Anyone who is here is bound to be",
+                "related to an incident..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Are you finally here?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "We waited quite a few days for you."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "All attempts to lure you failed."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Yet you came on your own accord.",
+                ""
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Tengus are truly unpredictable.",
+                ""
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "What did you say!?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Oh, I said too much."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Yet you also said too little.",
+                ""
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "You don't have to know everything you know.",
+                ""
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...Wait, what should I do now actually!?"
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "She didn't tell me how to handle you!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Huh?",
+                "What's going on here?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "All I gathered is that I should beat you.",
+                ""
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "What!?",
+                "We-well. This is a bit unpleasant."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "This might be a fine news story."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Is that what you are worried about?",
+                ""
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Do you think you can escape Gensokyo's fastest tengu?"
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "You're very suspicious.",
+                "That the shinigami would do something like this?"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "That's right.",
+                "Since you understand that much let go of me."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I guess it's fine.",
+                "I'll have to see your boss either way."
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "If I don't hurry and go back to my workplace,",
+                "I'll be scolded at~"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "I've gathered a lot of information.",
+                "This will be a great article."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "But there's one interview I have to do.",
+                ""
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "...but, huh?",
+                "Where is she even?"
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "I'm here."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "You tengu of many articles,",
+                "I'm glad you could make it."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "It took quite a while."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Excuse me~, but what is this all about?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Since we are dream dwellers,",
+                "you'd understand why we want you, no?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Don't you remember what your dreams were?",
+                "All that time ago?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "My dreams?",
+                "Dreams get fuzzy when you wake up though..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I am the one who measures the weight of sins;",
+                "yes, the Yama."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I know!",
+                "But why are you here?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I was sent on a secret mission",
+                "alongside my shinigami."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "We had to chase down two important people."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "One already got away..."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "So that's how it is..."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "I wonder who the other one is...",
+                ""
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Anyways, what do you want with me really?",
+                "You talk alot, but there's no substance."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Your dreams were used to give us power."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "It may have been indirectly,",
+                "but your dreams were watched."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "And thus,",
+                "you hold a key to her defeat."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "So now we have to get rid of you."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "Your insistance on covering incidents...",
+                ""
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Its why you dreamt about so many of them,",
+                ""
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "and also why the other person dreamt them as well.",
+                ""
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Your reports were often based on dreams."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "You don't say!",
+                "But now that I know that, I won't back down!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "It is impossible to change fate."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "And your fate is already written.",
+                ""
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "The moment your first dream was seen..."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "You already sealed your entire fate!",
+                ""
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "And in this abundant harvest,",
+                "your fate meets its end!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "The souls in the cherry blossoms here",
+                "wish to be written in an article."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "They wish to realize their sins and be freed."
+            ]
+        }
+    }
+}
