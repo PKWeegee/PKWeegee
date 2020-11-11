@@ -113,48 +113,48 @@
     ],
     "14": [
         "Komachi Onozuka's theme.",
-        "To sweep away everything, and see what remains is the destiny of the mid-boss.",
-        "This one reflects that fate, as well as the feeling of sweeping away.",
-        "Touhou's done this sweeping idea in the past, but I feel like this is the",
-        "first time I've put so much exhilaration and pathos into a piece.",
-        "On the higan retour, that there'd be no regrets as this piece."
+        "The last two characters now.",
+        "Honestly, feels good to be close to done with this game.",
+        "I've pretty much planned out the rest of the series,",
+        "so I can't wait to show you all the rest.",
+        ""
     ],
     "15": [
         "Eiki Shiki, Yamaxanadu's theme.",
-        "Obviously, a theme for a last boss. A melodious last boss theme",
-        "is a Touhou trademark. This time, Japan + rebirth + sakura country",
-        "are the images I mixed together.",
-        "This song full of strength and ephemerality is a song for the as-yet",
-        "unseen most beautiful land of sakura.",
-        "As silly as the whole game may be, this piece alone evokes strong feelings."
+        "The finale...",
+        "Eiki was tough to write for.",
+        "She just talks soooooo much...",
+        "But in the end, I did it.",
+        "And that's all that matters.",
+        ""
     ],
     "16": [
         "The conversation theme.",
-        "Though it's an edit of the title theme, it adds a little to the nervousness",
-        "before a match.",
-        "Maybe it makes it all that much more illusionary.",
-        "If there was a problem, it's that there's no nervousness to speak of before a match.",
-        "Something just seems wrong, from the beginning."
+        "Oh, I get 4 more blocks to write dev commentary.",
+        "Cool.",
+        "So, all in all, this game was really fun to do.",
+        "The ecl was done with very quickly,",
+        "so I could focus on the other things."
     ],
     "17": [
         "The second conversation theme.",
-        "As it's the end of the game, I prepared an element of impatience.",
-        "Exceptionally short, it's not much to speak of.",
-        "Well, at least it's a Touhou-sounding piece."
+        "The visuals were so fun to do, and so nice to see",
+        "spring into motion. Its some of the prettiest",
+        "backgrounds I've made so far, I feel."
     ],
     "18": [
         "The ending theme.",
-        "I don't know... Touhou ending themes, in their entirety, always",
-        "sound like bad endings.",
-        "Could it be that clearing shooting games itself gives",
-        "humanity a bad ending? (nah, no way)"
+        "The writing...",
+        "it was very tough in some spots.",
+        "But also very fun in others. I was able to pull",
+        "some really cool character developments as well."
     ],
     "19": [
         "The staff roll theme.",
-        "I thought about making a lighter staff roll than normal,",
-        "but I regret making it both light and almost empty.",
-        "Like I should've made one of those two stand out.",
-        "Well, I hope it has a sense of closure. But, it also",
-        "feels like a beginning to me. It's not bad, right?"
+        "And thats the end of the road for this game.",
+        "Overall, a very fun experience for me.",
+        "And I hope you guys also enjoyed it.",
+        "Next up...a small little diversion.",
+        "Stay tuned."
     ]
 }

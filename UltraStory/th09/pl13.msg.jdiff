@@ -1,0 +1,904 @@
+{
+    "70": {
+        "140_0": {
+            "lines": [
+                "A noisy song?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Took the head of~♪"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "The Yama's body~♪"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "That is a very inappropriate song."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Eh?",
+                "Who're you again?"
+            ]
+        }
+    },
+    "71": {
+        "50_0": {
+            "lines": [
+                "What a birdbrain."
+            ]
+        }
+    },
+    "72": {
+        "50_0": {
+            "lines": [
+                "You're so cruel to interrupt my song."
+            ]
+        }
+    },
+    "50": {
+        "140_0": {
+            "lines": [
+                "It is a nice lake, I have to say."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ahh!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "The really talkative noisy one came again, huh."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Yes, but this time I'm not",
+                "here to lecture you"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'm callin' your bluff."
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Well, fairies are always the same.",
+                ""
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "I'm not feeling nice right now, so I'll be heading out for a bit."
+            ]
+        }
+    },
+    "60": {
+        "140_0": {
+            "lines": [
+                "So above the clouds..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, you are"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "the yama..."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Yeah, thats me.",
+                "I'm here to round you up."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Why?"
+            ]
+        }
+    },
+    "61": {
+        "50_0": {
+            "lines": [
+                "It's time to put a stop to you guys.",
+                ""
+            ]
+        }
+    },
+    "62": {
+        "50_0": {
+            "lines": [
+                "Ah, was it to hold back on the oils?"
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "So where's the rabbit?"
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, if it isn't the Yama."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Why did you come here?",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Isn't it obvious?",
+                "I'm putting a stop to you all."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Stopping...",
+                "Good luck with that."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Yes."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "I may need luck,",
+                "but thats fine..."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "Well, I am living a diligent life,",
+                "so it's not like I'm troubling you or anything."
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "What a lovely carefree place this is.",
+                ""
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "if it isn't the Yama.",
+                "Did you come to reap my soul?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I don't reap souls.",
+                "That's Komachi's job."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I understand.",
+                "Then I'll stop your judgement instead."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "You are hopeless."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Listen,",
+                "your imbalance is huge."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "You still haven't reached enligthenment."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "At this rate, Nirvana will never come to you."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "With your current judgment, you cannot be allowed",
+                "to enter it."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "That's because that's all that Lady Yuyuko teaches me."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Getting lost here would be bad."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I've seen that face somewhere before."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Oh, the trickster rabbit.",
+                "Good timing."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ah, of course.",
+                "You want to get rid of me."
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "You are as unchanged as ever.",
+                ""
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "Well then, I'll be off on my way here~"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "According to the baku's directions,",
+                "this is the right path."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "the Yama is getting lost?",
+                "Whatever else may happen?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I am not lost.",
+                "This is only a detour."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Yeah right."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "Besides, because of this detour,",
+                "I met you as well."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "But more importantly, I'm worried about whether",
+                "the flowers will return to normal."
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "This is quite the troublesome place.",
+                ""
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Aren't you troublesome too?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "At least ya are for me."
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "There you are.",
+                "The lying witch."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You still goin' on about that?"
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "Learn to fix that tounge of yours."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Otherwise I'll greatly enjoy ",
+                "ripping it out."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "Later, I've got someplace I need to head to."
+            ]
+        }
+    },
+    "100": {
+        "140_0": {
+            "lines": [
+                "I heard there was a tengu around here."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Oh, the Yama."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What a pleasure.",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "You don't have to act all nice.",
+                ""
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Of course.",
+                "You'd see through me anyways."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "That's right."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "So why are you here?"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Well, I was actually hoping to meet"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "your dream dweller.",
+                "I wanna ask her alot of stuff."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "But that's none of your buisness.",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "And besides, there's bigger issues."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Well then, what issues do you mean?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Isn't it obvious?",
+                "The dreamer of your shinigami, and..."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "And...?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Someone very dangerous."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Do tell me more."
+            ]
+        }
+    },
+    "101": {
+        "50_0": {
+            "lines": [
+                "I see."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "To think there was one of those involved",
+                "this time as well."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "And her of all people?"
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "I can't waste any more time.",
+                "Let's finish this."
+            ]
+        }
+    },
+    "102": {
+        "50_0": {
+            "lines": [
+                "I won't write about the Yama.",
+                "I have to respect the privacy of others."
+            ]
+        }
+    },
+    "120": {
+        "140_0": {
+            "lines": [
+                "That Komachi... where is she?"
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "I have to find her quickly.",
+                "There's someone else to hunt as well."
+            ]
+        },
+        "141_1": {
+            "lines": [
+                "Aah, its you!"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I'll uh...be on my way."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Hold it right there.",
+                ""
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "If there's anyone qualified enough to",
+                "take care of my subordinate, its me."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "No, no.",
+                "Just...leave me be."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "I'm uh...not doing anything.",
+                ""
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Could you give the fancy excuses a rest?"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "You've always wanted to take",
+                "the easy way out..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Back with the flowers, and now too."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "No, no, not at all."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "My awake version works harder."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Komachi, I know that."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Excuse me?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "But deep down, you are still a lazy bum,",
+                "aren't you?"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "That's what I see when I look at your",
+                "dream dweller..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "They reflect your deep emotions, amplified.",
+                "So if I beat it out of you..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Ah, no.",
+                "You don't have to do that."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "A shinigami has to hold her values truly.",
+                "And you do not."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "So I should judge you some now."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "Yes, I already understand.",
+                ""
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Then its decided."
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "No, ah, well..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "You need to study more."
+            ]
+        }
+    },
+    "121": {
+        "50_0": {
+            "lines": [
+                "I hope this was a valuable lesson for you.",
+                ""
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Look deep inside yourself,",
+                "and reflect upon your laziness."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "I hope you'll be able to understand",
+                "one of these days."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Yes, I understand.",
+                "I apologize."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Then there's only one thing left to do.",
+                ""
+            ]
+        }
+    },
+    "122": {
+        "50_0": {
+            "lines": [
+                "I'm sorry. I'm sorry."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "So...",
+                ""
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "There's nothing else left to do.",
+                ""
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Except chase down one last roaming dreamer.",
+                "The one who is holding a dangerous tool."
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Yes, you can come out now,",
+                "red-white shrine maiden."
+            ]
+        },
+        "143_1": {
+            "lines": [
+                "Heh, not bad."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "But I don't know what you are talking about.",
+                "What kinda tool am I supposed to hold?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Don't play innocent."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Its in your possesion, no?",
+                "A shard of the lucid gem?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Fine, you win.",
+                "I carried it throughout the whole harvest."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "Yet you never used its power."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Were you waiting for a good moment?",
+                ""
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Or were you scared of its power?",
+                ""
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Isn't it obvious?",
+                ""
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "It might be,",
+                "certainly."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You were one of the first dreamers",
+                "to taste its power, weren't you?"
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "The first one to attack."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "You don't want to blow your chances."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "Close."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "So you certainly know alot about",
+                "this master of yours."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "I'm sure I can get lots of",
+                "knowledge out of you."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "And while I'm at it,",
+                "I'll return the shard as well."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "The more of those we gather,"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "the weaker you all will get.",
+                ""
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "So every incident you cause..."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "It will always backfire.",
+                ""
+            ]
+        },
+        "193_0": {
+            "lines": [
+                "So that's how it is?",
+                "I guess you don't understand everything afterall."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If you have insight, you should see it all."
+            ]
+        },
+        "195_0": {
+            "lines": [
+                "But it doesnt matter now.",
+                ""
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Yeah, it doesn't."
+            ]
+        },
+        "197_0": {
+            "lines": [
+                "You dreamers are a foolish bunch."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Writing your own defeat,",
+                "how tragic."
+            ]
+        },
+        "199_0": {
+            "lines": [
+                "Well, leave that issue to us.",
+                "I'm here to use the shards power."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "...against you."
+            ]
+        },
+        "201_0": {
+            "lines": [
+                "If we dreamers can score this victory,",
+                "you'll be too scared to counter us."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "This harvest may not be anyones doing,",
+                "despite its odd abundance."
+            ]
+        },
+        "203_0": {
+            "lines": [
+                "Yet it will make a perfect finale,",
+                "to face off against the original powerhouse..."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "I don't care about any of that.",
+                "This is for our freedom!"
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Now, hurry and ferry those ghosts to Higan!"
+            ]
+        }
+    }
+}

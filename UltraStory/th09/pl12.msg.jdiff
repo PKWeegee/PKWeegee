@@ -1,0 +1,685 @@
+{
+    "50": {
+        "140_0": {
+            "lines": [
+                "Good thing the dream baku called us."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ah, someone came!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Weird scythe lady!",
+                "Do you wanna cut me?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "I don't have that kind of free time...",
+                "I'll be on my way now."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Oh, you wanna go?"
+            ]
+        }
+    },
+    "51": {
+        "50_0": {
+            "lines": [
+                "Now then,",
+                "where was the place again?"
+            ]
+        }
+    },
+    "52": {
+        "50_0": {
+            "lines": [
+                "Pretty weak.",
+                "I couldn't get into the fight at all."
+            ]
+        }
+    },
+    "40": {
+        "140_0": {
+            "lines": [
+                "I think I got lost."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Are you for real?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Well, uh...yeah."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Then allow me to chase you",
+                "out of a place where you don't belong."
+            ]
+        }
+    },
+    "41": {
+        "50_0": {
+            "lines": [
+                "Alright, I've confirmed that I",
+                "shouln't be here."
+            ]
+        }
+    },
+    "42": {
+        "50_0": {
+            "lines": [
+                "I'm not going to commit suicide,",
+                "so hurry up and go back to work already."
+            ]
+        }
+    },
+    "80": {
+        "140_0": {
+            "lines": [
+                "Oh, a prankster rabbit.",
+                "What a pleasure."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "I ain't a prakster!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You trust me, right?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Of course I do.",
+                "In your dreams."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Wha-?"
+            ]
+        }
+    },
+    "81": {
+        "50_0": {
+            "lines": [
+                "It is wise to never trust a prankster."
+            ]
+        }
+    },
+    "82": {
+        "50_0": {
+            "lines": [
+                "If you're always slacking off your job,",
+                "how are the flowers going to go back to normal?"
+            ]
+        }
+    },
+    "20": {
+        "140_0": {
+            "lines": [
+                "Never thought this would be so...",
+                "...hard to find."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Ahh,"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "your sense of direction is terrible.",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "And what are you doing here?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Enjoying the last harvest day.",
+                "You should too."
+            ]
+        }
+    },
+    "21": {
+        "50_0": {
+            "lines": [
+                "I'll enjoy it once I'm done",
+                "with my mission."
+            ]
+        }
+    },
+    "22": {
+        "50_0": {
+            "lines": [
+                "Are you sure you should be wasting time loafing around here?"
+            ]
+        }
+    },
+    "30": {
+        "140_0": {
+            "lines": [
+                "Wait, this isn't the place..."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Why are you here?",
+                ""
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Well, I'm working hard.",
+                "I'm doing my best."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "That's cool, but do it somewhere else."
+            ]
+        }
+    },
+    "31": {
+        "50_0": {
+            "lines": [
+                "This is bad.",
+                "I can't be wasting time."
+            ]
+        }
+    },
+    "32": {
+        "50_0": {
+            "lines": [
+                "Why did you attack me?",
+                "Do you really have that much free time?"
+            ]
+        }
+    },
+    "10": {
+        "140_0": {
+            "lines": [
+                "I should be on track now.",
+                "Just need to take care of a few things on the way."
+            ]
+        },
+        "140_1": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Hey, Slackmeister.",
+                "What's wrong today?"
+            ]
+        },
+        "171_0": {
+            "lines": [
+                "Could you stop calling me that?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Nah.",
+                "Too funny."
+            ]
+        }
+    },
+    "11": {
+        "50_0": {
+            "lines": [
+                "You shouln't tease people",
+                "because of their bad habits."
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Try to see the good in people."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "But I guess for a dreamer like you,",
+                "its like talking against a wall."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "You are so narrow minded."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Try to increase your horizons.",
+                ""
+            ]
+        },
+        "55_0": {
+            "lines": [
+                "Save the lecture,",
+                "I ain't listening anyway."
+            ]
+        },
+        "56_0": {
+            "lines": [
+                "Whoops.",
+                "Gotta go."
+            ]
+        }
+    },
+    "12": {
+        "50_0": {
+            "lines": [
+                "That's nice.",
+                "It looks fun being a shinigami."
+            ]
+        }
+    },
+    "90": {
+        "140_0": {
+            "lines": [
+                "I heard that this place was",
+                "totally wrecked..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "But actually seeing it is something else."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Oh well, it will work itself out.",
+                ""
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Oh,"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "still slacking off, are you."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "You're here but, the Sanzu River is pretty far away."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I'm not on grim reaper duty today.",
+                "I got tasked to help with you dreamers."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Then why are you here?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I'm just passing through."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "You should've known that this is my",
+                "territory at the moment, yes?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "It's alright.",
+                "Just don't pay me any attention."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "Too bad, I already am paying you attention",
+                "And when I do that, it gets dangerous."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "So you should be prepared."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Oh you wanna go!?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Ah, that's right.",
+                "Time to burn some more energy."
+            ]
+        }
+    },
+    "91": {
+        "50_0": {
+            "lines": [
+                "There, that should quiet you down some.",
+                ""
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "Oh, that's how it is?",
+                "I guess its fine."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "You look kinda tired now.",
+                ""
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "I guess you burned all your energy?",
+                ""
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Pretty much. I'm ready to go back."
+            ]
+        }
+    },
+    "92": {
+        "50_0": {
+            "lines": [
+                "Even for sunflowers, blooming too much is tiring."
+            ]
+        }
+    },
+    "0": {
+        "140_0": {
+            "lines": [
+                "Finally, I'm here."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "Now where is she..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Where...",
+                "Where..."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "You sure are taking it easy."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Even though you are in dangerous",
+                "situations~."
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "Oh? Trying to kill yourself again, huh.",
+                "How many times do I have to say it,"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I won't care if you die."
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "So go away."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "I'm not here for any of that stuff."
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "If you're not then that's good,",
+                "just don't interfere with my work."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "What are you even working on?"
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "I'm here to intercept the yama.",
+                "I heard she would be coming here."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I know what you two are planning,",
+                "so I'll take you both out."
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "Huh, who would've given you that info...",
+                "This is worrying."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Does it matter?",
+                "Now, get ready to be exterminated!"
+            ]
+        }
+    },
+    "1": {
+        "50_0": {
+            "lines": [
+                "Gaah, I'm not done yet!"
+            ]
+        },
+        "51_0": {
+            "lines": [
+                "But I am done with you."
+            ]
+        },
+        "52_0": {
+            "lines": [
+                "Well it's fine.",
+                "I'll be taking care of dream Eiki now."
+            ]
+        },
+        "53_0": {
+            "lines": [
+                "Ugh..."
+            ]
+        }
+    },
+    "2": {
+        "50_0": {
+            "lines": [
+                "Stop playing around and ferry those ghosts back to Higan!"
+            ]
+        }
+    },
+    "130": {
+        "140_0": {
+            "lines": [
+                "Haah."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "This is it."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Time to face her,",
+                "or well, her dreamer."
+            ]
+        },
+        "142_1": {
+            "lines": [
+                "Komachi?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Kyan!"
+            ]
+        },
+        "173_0": {
+            "lines": [
+                "So you came..."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Ah, aah, uh, well.",
+                "Yes, I did!"
+            ]
+        },
+        "175_0": {
+            "lines": [
+                "Go on?"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "So uh...I'll be...",
+                "taking care of you now!"
+            ]
+        },
+        "177_0": {
+            "lines": [
+                "A youkai sage told us your plans."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I know."
+            ]
+        },
+        "179_0": {
+            "lines": [
+                "We have had some insider information,",
+                "so we were prepared for you."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "You took quite some time to get here though.",
+                ""
+            ]
+        },
+        "181_0": {
+            "lines": [
+                "I got lost."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Of course you did.",
+                "That is because you are slacking off."
+            ]
+        },
+        "183_0": {
+            "lines": [
+                "Listen to me,"
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "You have always been, and always will be..."
+            ]
+        },
+        "185_0": {
+            "lines": [
+                "the most lazy shinigami I've ever seen."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "You are full of sin."
+            ]
+        },
+        "187_0": {
+            "lines": [
+                "Aah, here we go!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "At this rate, your laziness will",
+                "be your downfall."
+            ]
+        },
+        "189_0": {
+            "lines": [
+                "So I might as well",
+                "get rid of you now to replace you."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "I'm sorry!",
+                "I'll show you how serious I can be, right now!"
+            ]
+        },
+        "191_0": {
+            "lines": [
+                "So its come to this."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Let us end this harvest the right way!"
+            ]
+        }
+    },
+    "132": {
+        "50_0": {
+            "lines": [
+                "You can also feel the fear of my judgment."
+            ]
+        }
+    }
+}
