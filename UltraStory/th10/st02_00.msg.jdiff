@@ -1,0 +1,103 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "This forest still has this miserable aura..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "And now I'm also really cold..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Might you need some heat?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Your shrine is full of heat, isn't it?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I'll go there once I'm done."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "...Well, I thought that would work.",
+                "Anyways, allow me to chase you away."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "No thank you.",
+                "I need to get to the Moriya shrine."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "And why would a human want to go there?",
+                "It's highly dangerous right now."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "It's more dangerous to leave them alone."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "If you say so.",
+                "But the real danger is in front of you."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I have plenty of tragedies for you!"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It is quite a tragedy to meet you.",
+                "For you, that is."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Really, now!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Aaah, well fought..."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "You are such a pain."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Beyond here it gets even colder."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "It's no place for a human to go...",
+                "You'll regret this."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Sure, whatever.",
+                "Now to follow the river."
+            ]
+        }
+    }
+}

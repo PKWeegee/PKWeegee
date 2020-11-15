@@ -1,0 +1,180 @@
+{
+    "0": {
+        "32_0": {
+            "lines": [
+                "Ack! Reimu?!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Nitori?",
+                "Stop right there!"
+            ]
+        }
+    },
+    "1": {
+        "38_0": {
+            "lines": [
+                "Why do you always break my camo suits?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "...That's camo?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Well anyways,",
+                "there's still preperations to be made."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The way you said that...!",
+                "...What are you hiding?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "See you, shrine maiden!",
+                ""
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Bah, another chase."
+            ]
+        }
+    },
+    "2": {
+        "38_0": {
+            "lines": [
+                "Hey, you are still here.",
+                "You've got some guts."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The youkai that can stop me doesn't exist."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Stop you?",
+                "I was moreso trying to drown you."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Why are you even here?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Gensokyo's faith is being sucked away.",
+                "And its converging on the mountaintop."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh, that?",
+                "Well uh, don't worry about it..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "But I guess you won't listen...",
+                "So it seems I have no choice."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "As the valley's most technologically advanced kappa,",
+                "its my duty to protect the mountaintop."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I got paid a very good commision price to",
+                "help out up there, so I'm not backing down."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Oh I see what's happening...",
+                "This is a Moriya Shrine conspiracy!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I wouln't call it a conspiracy.",
+                "Just a new advancement in technology..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "But if you intend to break something",
+                "that I built, I'll let you drown in this frozen river!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "N-no...",
+                "My inventions..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Well, time to move on."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Human...",
+                "I should tell you something..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Huh?",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "If you really want to destroy my machine..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Defeat the one controlling it...they are linked."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, what a surprising place to get such great information.",
+                "But I was already intending to beat up the operator."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "While usually this is incredibly reckless,",
+                "for once, your intuition is spot on."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Try not to totally scrap it..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I won't make any promises...",
+                "Let's go!"
+            ]
+        }
+    }
+}

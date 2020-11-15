@@ -1,0 +1,168 @@
+{
+    "0": {
+        "32_0": {
+            "lines": [
+                "Ack, Marisa!?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Huh?",
+                "She's fast."
+            ]
+        }
+    },
+    "1": {
+        "38_0": {
+            "lines": [
+                "Could you stop breaking my stuff?!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Stop usin' it against me then.",
+                ""
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I'll never stop using my things.",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Then get ready to pick up scrap",
+                "for a looong time."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Well, whatever!",
+                "Go away now!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Saying that only makes me wanna go further!"
+            ]
+        }
+    },
+    "2": {
+        "38_0": {
+            "lines": [
+                "Still here, huh.",
+                "You are quite persistent."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Aw geez.",
+                "Whaddaya want?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Sorry about that,",
+                "I'm just here to make sure no one bashes my machines."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "And test some on unsuspecting passerbys."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Well, whatever. I'm headin' to the mountaintop,",
+                "'cus apparently Gensokyo's faith is gathering there."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "You don't say?",
+                "So she already started the machine?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "In that case...",
+                "Turn back now."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "You know me well enough to know that ain't happenin'."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Besides, it sounds like you are involved in this.",
+                "So I'll have to beat'cha anyways."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Who said that?!",
+                ""
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I did. Just now. Me.",
+                "If ya still don't get it, here's some bullets."
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Guh...",
+                "My poor machines..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Let's go mountainclimbing now."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Listen...",
+                "To stop the machine, defeat the operator."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Is it like mind controlled, or something?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I can't disclose much more information.",
+                "You'll just have to figure it out yourself."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Just don't totally scrap it."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "What are you saying?",
+                "Why wouln't I scrap it?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I spent the whole autumn on it..."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "I'll see what I can do."
+            ]
+        }
+    }
+}
