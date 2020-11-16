@@ -73,61 +73,61 @@
         "@",
         "　",
         "This is the fourth stage theme.",
-        "When you think of waterfalls, there are two images:",
-        "The powerful, vast waterfall and the meek, trickling one.",
-        "But this time, I opted for the image of the former. Touhou has always, always had a dark feel",
-        "to it, so I tried to express a somewhat refreshing feel. Why is that?",
-        "A falls waterfall. I think the thing waterfalls convey the most is during fall."
+        "The image of rushing up a waterfall at top speeds",
+        "really fascinates me, for some reason.",
+        "Maybe its just the music that makes it so magical.",
+        "Not sure, but it's fantastic either way.",
+        ""
     ],
     "9": [
         "@",
         "　",
         "This is Aya Shameimaru's theme.",
         "",
-        "I made the same Aya's theme, Wind God Girl, with the image of Aya the newspaper reporter,",
-        "but this time I emphasized the image of the youkai \"Tengu\" from ancient Japan.",
-        "If I somehow gave it an old, nostalgic feeling, you too would become one of the youkai.",
-        "Ahh, it feels so nostalgic."
+        "Despite her bigger importance in the grand scheme of things,",
+        "this time, she's just kinda...there?",
+        "Well, there's only so much you can do with the things a game throws at you.",
+        ""
     ],
     "10": [
         "@",
         "　",
         "This is the fifth stage theme.",
-        "This time, the Japanese element is deep throughout. Especially as it gets more Japanese the",
-        "more you progress through the latter half.",
-        "Comparing this tune to the others, the Japanese element is relatively small, but the very dark,",
-        "nostalgic melody, and rapid chorus feel very latter half. ",
-        "Even so, the Moriya Shrine seems even more extravagant than the Hakurei Shrine..."
+        "Now we are at Moriya Shrine.",
+        "You know, they caused alot of incidents, even if only due to a ripple effect.",
+        "So them doing something weird again is never out of the question.",
+        "",
+        ""
     ],
     "11": [
         "@",
         "　",
         "This is Sanae Kochiya's theme.",
-        "It feels like the metal section suddenly got bigger here; I thought I'd give this a heavy feeling,",
-        "but I got careless and overdid it, which is a bad habit of mine. Tee hee.",
-        "Whether it's the melody or something else, it's the heaviest in this game.",
-        "From this point on, it suddenly becomes bright, and at the end it kind of lost its touch...",
-        "The stronger they are, the less the feeling of tension: This is the promise in Gensokyo."
+        "Sanae may be an incident resolver at times as well,",
+        "but her dream dweller doesn't really seem to give a damn.",
+        "I guess deep down she's just lazy.",
+        "Hey, thats something she and Reimu would have in common...",
+        ""
     ],
     "12": [
         "@",
         "　",
         "This is the sixth stage theme.",
-        "Since the stage is short, the tune is also short. The final stage has a drawn out Last Boss battle,",
-        "so if I didn't make the path leading to it shorter, it would lose its potency, which is why it's",
-        "short. I'm not omitting the vital steps.",
-        "I tried expressing the feeling \"hey, something's about to start\" in this tune.",
-        "Of course something is going to start, since it's the final stage after all."
+        "Its a short but brutal stage.",
+        "I wasn't sure how to depict the machine on top of the mountain,",
+        "but I guess what I went with works.",
+        "It's suprisingly hard to find images of weird machines.",
+        "At least in good quality."
     ],
     "13": [
         "@",
         "　",
         "This is Kanako Yasaka's theme.",
-        "This is a strange god who makes all human and youkai her friends with an overwhelming power.",
-        "I composed a part which makes you feel awe toward a god, and a part which makes you feel",
-        "the gravity of history.",
-        "Anyhow, it's a playful tune which possesses ample reckless abandon. There's a huge difference",
-        "compared to Sanae in the melody, but maybe this is the difference between gods and humans."
+        "Her motives are actually quite noble, all things considered.",
+        "Just her actions were totally out of wack.",
+        "It wasnt easy to make her seem reasonable, but also kind of",
+        "maniacal, all the same.",
+        ""
     ],
     "14": [
         "@",
@@ -154,20 +154,20 @@
         "　",
         "This is the ending theme.",
         "",
-        "This time, there're many triple beats that permeate your whole body.",
-        "I feel that things like triple beat match the Japanese-style game nicely.",
-        "It asserts itself modestly without being too dark or too light.",
-        "Made this way, it becomes an atmospheric piece, thus it's suitable for any scene."
+        "So thats the game.",
+        "Overall I'm really happy with how quickly, but yet also",
+        "highly of quality it turned out.",
+        ""
     ],
     "17": [
         "@",
         "　",
         "This is the Staff Credits theme.",
-        "Pray to the gods for rain, and rain will fall. It doesn't have any relevance to the actual story, but",
-        "the simplest thing to understand as a god's blessing is rain, so...",
-        "The wind god doesn't just make the wind blow like a tengu can; there's also a connection",
-        "to the meaning of harvest gods. If you think of farming, you think rain.",
-        "That's why it's rain."
+        "Thank you all so much for showing interest in my patches.",
+        "It really means the world to me when I see people play them...",
+        "This passion project of mine just keeps evolving into bigger proportions,",
+        "and I'm actually quite happy that that is happening.",
+        ""
     ],
     "18": [
         "@",
