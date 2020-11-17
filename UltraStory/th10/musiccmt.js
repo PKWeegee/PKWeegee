@@ -132,22 +132,22 @@
     "14": [
         "@",
         "　",
-        "This is the extra stage theme.",
-        "I thought of writing the most cheerful piece for this game.",
-        "Not especially tasty yakisoba, okonomiyaki, takoyaki, and heavily seasoned",
-        "gesoyaki. And unusually expensive.",
-        "Served as a junk food snack platter—with cans of beer—all the while gazing at the grounds.",
-        "I love that kind of festival day at the shrine. That's one of the ways to enjoy beer."
+        "This is the extra stage theme. Actual Theme: Autoroute Lenfer",
+        "Managed to turn the shrine road into a freaking forest path.",
+        "Its crazy what you can do with some image editing! I always love doing",
+        "the extra stages, as I feel way more creatively free on them.",
+        "The reason its not looking like winter in this stage is because of the shard.",
+        "Its recalling a dream from old times...You may remember it too."
     ],
     "15": [
         "@",
         "　",
-        "This is Suwako Moriya's theme.",
-        "It's a cheerful piece with a rapid feeling. Moreover, I tried to add a Japanese and childish",
-        "feeling to the melody. It fits Suwako perfectly.",
-        "Such a lively tune is on the contrary, actually a piano piece from hell.",
-        "Again, this song has an abundance of chaos, even more so than Kanako. You'd definitely think",
-        "she was playing around with the shrine maiden, what with the particularly high speed piano."
+        "This is Momiji Inubashiri's theme. Actual Theme: Awakening Wolf's Instinct",
+        "I decided to use Momiji as the extra boss, as a homage to the After Extra of MoF.",
+        "Story wise it also makes sense that a trusty guard would be in possesion of the shard.",
+        "It was very fun to write for her, and I'm so glad I have this portrait of her.",
+        "It all fits together so perfectly, you could think it was actually original game material!",
+        "I'm extremely happy with how it all came together ^^"
     ],
     "16": [
         "@",
