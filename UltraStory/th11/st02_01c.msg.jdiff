@@ -1,0 +1,133 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hey look, the fire stopped..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Nitori >(Just a little farther until the Former Capital.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Former Capital? Why we headin' here?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Nitori >(This might be a good place to find info.",
+                "<l$> And we definitely need that right now.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You think so?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Access to the capital is currently restricted."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "No one is allowed in or out."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Oh, uh, well,",
+                "guess we gotta bust in."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Did you get lost?",
+                "I thought the fire was enough of a warning."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I guess some humans are foolish..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Nitori >(She may be foolish,",
+                "<l$> but she's here to solve this.)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "<t$Nitori >(So let us through now.",
+                "<l$> Or she will beat you up.)"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "Well, ah...",
+                "It's not like I mind beating her, but..."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Well, actually there is no but.",
+                "No rear ends either. Let's roll."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "<t$Nitori >(Are you sure you are doing alright?",
+                "<l$> Sounds like you are losing your mind!)"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Thats perfect."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Someone who lost their mind",
+                "is easier to chase away..."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "I have no idea what's going on,",
+                "but we are getting close to the capital!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Nitori >(Okay, exellent!)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "What kind of info are you hoping for?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Nitori >(Just anything that will lead us to the",
+                "<l$> source of the giant flame...)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "<t$Nitori >(They must know something,",
+                "<l$> I hope...)"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Let's hope there's still anyone there even."
+            ]
+        }
+    }
+}

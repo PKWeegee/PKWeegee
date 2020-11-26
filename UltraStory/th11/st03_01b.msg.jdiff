@@ -1,0 +1,227 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Not bad."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "But if you really wanna get further,",
+                "you still have alot to learn!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Now we are talking!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Come on,",
+                "follow me through the burning city!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I don't think that's a good idea..."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Yeesh, can't she stop?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(Apparently not...)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Pache >(But she is the oni who resides down here.",
+                "<l$> So why not ask her?)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh right, uh...",
+                "Yo!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yo?",
+                "What's up?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Pache >(...Good job, Marisa.)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Not like you are better at conversations."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "What's wrong?",
+                "Why did you come down here?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Yeah, well, I'm here to punish whoever",
+                "is behind the huge fire."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Oh, that's something I could help with."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "But I'm not sure if I really",
+                "want to."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "I guess that's the end of our cooperation.",
+                ""
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "<t$Pache >(...",
+                "<l$> Can't you do anything right?)"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "<t$Pache >(Should I do it instead?)"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "You know, I just wanted to hold a festival here."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Oh, really?"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Pache >(This place isn't our destination.",
+                "<l$> If she won't talk, move on.)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "You sure?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Aw, why not stay a while longer?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "I'd be glad to help you out."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If you give me a good fight, that is!",
+                "I shall test your strength!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Outstanding!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Your power is certainly something",
+                "special."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Pache >(...Well, tell us now.",
+                "<l$> What do you know?)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "...Oh yeah, tell us now."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I have no idea where to go."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I saw where the flame came from,",
+                "and it certainly came from the Earth Spirit Palace."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "You beat me.",
+                "You might have a chance against whatever they are doing."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Pache >(...Those people?",
+                "<l$> What could they be doing...?)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "I'm not so sure myself,",
+                "but it certainly seems very dangerous."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "It might be hard for a human...",
+                "Well, it looks like you'll be strong enough."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I may be strong,",
+                "but I ain't heat resistent."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "<t$Pache >(I should've given you some extra",
+                "<l$> sunscreen to block the heat.)"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "<t$Pache >(Well, there's always next time.",
+                "<l$> ...Now where was the sunblock?)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "So we are headin' to the former capital?",
+                "And why's the fire stopped here?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(I'm not sure. But its very strange.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Pache >(But it surely looks like the fire",
+                "<l$> was here earlier. Look how ashy the walls are.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You're right.",
+                "Maybe this wall isnt as flammable?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Access to the capital is currently restricted."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "No one is allowed to go anywhere."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Oh, hey!",
+                "A walking roadblock."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Since everyone always goes",
+                "wherever they want, I'm restricting that now."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "How selfish."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "So what's your problem then?",
+                "Want me to beat ya up?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Pache >(There's an idea...)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Well, I tried to warn you...",
+                "Humans truly are foolish."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Pache >(Well, you're the one that provoked her,",
+                "<l$> deal with her yourself.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Guess I have to.",
+                "She'd just be in the way anyways."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "That was nothin'."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Pache >(...Are you almost at the capital?",
+                "<l$> We should be close.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Yeah, why?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Pache >(This might be the lead we need.",
+                "<l$> I hope.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hmm, I'm not so sure about that.",
+                "Your track record isnt perfect."
+            ]
+        }
+    }
+}

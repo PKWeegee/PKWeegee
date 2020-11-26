@@ -1,0 +1,270 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Not bad."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "But if you really wanna get further,",
+                "you still have alot to learn!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Now we are talking!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Come on,",
+                "follow me through the burning city!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "This has turned troublesome..."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Geez!",
+                "Where are you taking me?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Right here.",
+                "You needed to see the destruction here."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Yukari >(...Reimu, why don't we listen to",
+                "<l$> what she has to say?)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Oh, right.",
+                "You think she knows something?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Obviously I know something."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Then tell us."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh, aren't you forgetting something?",
+                "I'm still a dream dweller, you know."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "I can't just spit out what you want like that."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Whatever!",
+                "It's too hot down here for that!"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "<t$Yukari >(Look, no one is benefiting from this.)",
+                "<l$> "
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "<t$Yukari >(So it would be in our best interest...)"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "<t$Yukari >(...to work together, right?",
+                "<l$> Don't you agree?)"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I know that. I was actually just planning",
+                "on making a dreamer festival down here."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "<t$Yukari >(And then the",
+                "<l$> fire happened?)"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Yes, thats right!",
+                ""
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "The whole city got lit on fire.",
+                "Everyone evacuated..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I'm the only one who stayed.",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Yukari >(So that's what happened.",
+                "<l$> And do you know where it came from?)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Hm, let's see...",
+                "It definitely came from the Earth Spirit Palace."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "So we got our lead!",
+                "What are they doing down there!?"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "So you came here to solve this incident, right?",
+                ""
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Yep, you got it right on."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Yet it already happened.",
+                ""
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "You were powerless to solve it."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "Hmm.",
+                "Then you should work on getting the city fixed."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "<t$Yukari >(Good idea, Reimu.",
+                "<l$> And we punish the culprit.)"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Exactly."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "But hold on a minute.",
+                "I still want my fight with you!"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Because, we oni always want to compare our strength",
+                "to that of the strong people we meet!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Outstanding!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Your powers are something special!",
+                ""
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "You think?",
+                ""
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Uh, yeah?",
+                "But I'm not sure what madness is down there."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "The explosive flame only lasted for a second,",
+                "but the power was unlike anything I've ever seen..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Something big is happening down there..."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Either way, you should be going now.",
+                "I'll take care of things over here."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Yukari >(We appreciate your assistance.",
+                "<l$> Come on Reimu, let's head onwards.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Yukari, do you have any ideas what could be happening?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Yukari >(Only outlandish conspiracies.)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "You are no help at all!"
+            ]
+        }
+    }
+}

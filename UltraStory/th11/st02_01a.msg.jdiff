@@ -1,0 +1,118 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hey look, the fire stopped here."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Alice >(I wonder why that is.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Say, we are headin' to the former",
+                "capital, yea?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Access to the capital is currently restricted."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "No one is allowed to go anywhere."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Huh?",
+                "Why would ya do that?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "<t$Alice >(I'm sure its because she",
+                "<l$> is a dream dweller.)"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Alice >(In other words, an enemy.)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Yeah, yeah, I'll beat her up now."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A human magician who wants to to go to the capital.",
+                "I'm sure you come from above ground."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Yeah, pretty much.",
+                ""
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "And you are just another roadblock?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Alice >(Yes, she's the roadblock.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "I'm so jealous of you awake beings.",
+                ""
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "You have this beautiful world to yourself,",
+                "while I'm stuck in the dream realm."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "What a waste of time.",
+                ""
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Alice >(H-hurry up.",
+                "<l$> We're almost to our destination.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh? Finally...",
+                "Wait, why are we headin' there?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Alice >(The Former Capital might",
+                "<l$> lead us to the cause of this.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hm.",
+                "Maybe."
+            ]
+        }
+    }
+}

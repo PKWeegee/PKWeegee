@@ -1,0 +1,111 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Whew, this wind's pretty hot."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$??? >(...Probably due to the fire.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "...Thanks, bookworm."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Pache >(...Oh, the communicator works again?)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yeah, otherwise I couln't",
+                "respond to you, right?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Pache >(Good, good...)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh?",
+                "Is food back on the menu?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "I thought the fire chased all the",
+                "small fry away."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Pache >(Be careful.",
+                "<l$> The dream dwellers seem to be getting stronger.)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "What?",
+                "They look about the same..."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "We look the same, sure."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "But our power is steadily growing."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Pache >(These dream dwellers are bad news.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Whaat?",
+                "You don't saaay?"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I'm definitely bad news."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Especially now, since I'm so hungry.",
+                "Time for a feast."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wow, you're right.",
+                "She's bad. Bad at danmaku."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Pache >(We don't know how things will be",
+                "<l$> when we head further down. Be careful.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh please,",
+                "what's the worst that could happen?"
+            ]
+        }
+    }
+}

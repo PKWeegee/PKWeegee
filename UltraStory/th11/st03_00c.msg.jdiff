@@ -1,0 +1,212 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Not bad."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "But if you really wanna get further,",
+                "you still have alot to learn!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Now we are talking!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Come on,",
+                "follow me through the burning city!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Aya >(Well, this has gotten a bit out of hand.)"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Geez!",
+                "Where are you taking me?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I wanted you to see all the",
+                "destruction in this city."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Aya >(Ah, hello, hello.",
+                "<l$> Aren't you that oni?)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Huh? Yeah, I am."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "What are you guys even doing here..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I came to punish someone I guess."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Huh?",
+                "You don't even know who to punish?"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "<t$Aya >(The incident just happened.",
+                "<l$> It would be weird if we already knew...)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Yeah."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "<t$Aya >(So we came down here, in hopes",
+                "<l$> of finding some valuable information.)"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "I do have some info for you..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "But at the same time, I don't really",
+                "want to give it to you for free."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "<t$Aya >(Ah, yes yes,",
+                "<l$> we understand.)"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "You know, we wanted to hold a festival here."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "And then the fire started",
+                "happening."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Aya >(I'm so very sorry.",
+                "<l$> I didn't think those were your intentions.)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I'm not sure if I can trust all that.",
+                "But I guess onis are truthful..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Well, in this case...",
+                ""
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Shall we?!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Outstanding!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Your strength is truly admirable."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Aya >(Heheh. Thank you very much.)",
+                "<l$> "
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Aya >(So, what's the info you have for us?)",
+                "<l$> "
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Yeah, let us in on the infos.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I saw the fire come from the Earth Spirit Palace."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Aya >(From there?",
+                "<l$> That's a very good piece of information.)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I'm not sure what's going on down there though.",
+                "You guys should be careful."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Aya >(Of course.",
+                "<l$> We are always very careful...)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Very well. I'll take care of things",
+                "here, so don't worry about that."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Aya >(Hehehe, you're far too kind.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I feel left out of this",
+                "conversation, somehow."
+            ]
+        }
+    }
+}

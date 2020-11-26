@@ -5,5 +5,6 @@
 	"th08": "Touhou Dream Rebellion Episode 4 - Eternal Night of Dreams",
 	"th09": "Touhou Dream Rebellion Episode 5 - Phantasmagoria of Harvest Abundance",
 	"th095": "Touhou Dream Rebellion Episode 5.5 - Dreamful Chronicles",
-	"th10": "Touhou Dream Rebellion Episode 6 - Artificial Faith Machine"
+	"th10": "Touhou Dream Rebellion Episode 6 - Artificial Faith Machine",
+	"th11": "Touhou Dream Rebellion Episode 7 - Subterrestrial Inferno"
 }

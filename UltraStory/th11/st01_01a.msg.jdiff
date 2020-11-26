@@ -1,0 +1,116 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Whew, the wind really",
+                "packs alot of heat..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$??? >(...Marisa?",
+                "<l$> Can you hear me?...)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "If I say no,",
+                "will you stop talkin'?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Alice >(...I see.",
+                "<l$> So you can hear me. Good.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "It was worth a shot.",
+                ""
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Alice >(See any enemies yet?)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh?",
+                "Is food back on the menu?"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "And I thought the big fire",
+                "scared all the small fry away."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Alice >(It did.)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I don't really care about the small fry."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Its mostly just fairies anyway."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "They respawn all the time,",
+                "so who cares?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Alice >(Aren't you forgetting something?)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "<t$Alice >(Like the dream dweller",
+                "<l$> in front of you.)"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Oh so you noticed?"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Would be weird if I didn't."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Then allow me to have my feast."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "So that was pointless."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Alice >(Isn't that always the case?",
+                "<l$> It's just the first one.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I guess it is how it always is."
+            ]
+        }
+    }
+}

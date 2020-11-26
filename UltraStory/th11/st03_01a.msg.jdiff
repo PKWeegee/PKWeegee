@@ -1,0 +1,263 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Not bad."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "But if you really wanna get further,",
+                "you still have alot to learn!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Now we are talking!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Come on,",
+                "follow me through the burning city!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh?",
+                "I dont' really wanna, but..."
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "So uh..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Hm? What's that?",
+                "Tired?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, but, where are we goin'?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "What do you want...?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Huh?",
+                "You just had to see the destruction."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Yeah, I've seen it!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Alice >(Marisa, we've made it to the city,",
+                "<l$> so let's try to get some information.)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Hm, okay, let's talk, then.",
+                "Whaddaya know?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I know a few things about what's happening."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "But I'm not sure if I'm willing",
+                "to part with that info so easily."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "<t$Alice >(Why not?",
+                "<l$> Are you...??)"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Okay, question time is over.",
+                "We know how this is gonna go down."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Pretty straightforward.",
+                ""
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Of course."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "You know, I was actually planning a dreamer festival here."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "But then the fire happened,",
+                "and everyone ran away."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I'm the only one who stayed here.",
+                ""
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Interestin'."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Alice >(And where did the fire come from?)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Ho ho.",
+                "It would be a waste to tell you now."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "If you are strong enough,",
+                "I'll let you know."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "<t$Alice >(Marisa, be careful!",
+                "<l$> A dream dweller of an oni is...)"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Alright, come on and fight me seriously!",
+                "If you don't, you might end up in tears!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Outstanding!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I love how strong you are!",
+                "It's always a blast to fight you."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Alice >(You definitely weren't using",
+                "<l$> all of your strength.)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Alice >(So what do you know...?)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "She wasn't...?",
+                "It certainly was brutal though..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "So, why did you come down here?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Punish some mastermind..."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Alice >(And we need to know where the",
+                "<l$> fire came from, to do that.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Alice >(So if you could tell us",
+                "<l$> what you know now...)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Alice >(We would highly appreciate it.)",
+                "<l$> "
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Oh, that's all you want to know?",
+                "Let's see..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "It came from the Palace of the Earth Spirits."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I'm not sure what they are planning."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Those people, huh?",
+                "But..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "What would have happened down there",
+                "for such a huge flame to burst up?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "<t$Alice >(I'm not sure, but I am getting",
+                "<l$> increasingly worried.)"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "I've come this far,",
+                "no way I'm backing out now!"
+            ]
+        }
+    }
+}
