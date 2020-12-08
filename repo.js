@@ -1,6 +1,6 @@
 {
     "id": "PKWeegee",
-    "title": "PKWeegee#7899",
+    "contact": "PKWeegee#7899",
     "servers": [
         "https://mirrors.thpatch.net/PKWeegee/"
     ],
