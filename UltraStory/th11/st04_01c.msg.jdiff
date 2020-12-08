@@ -1,0 +1,285 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hm, the person behind the fire...",
+                "Will we meet them in this mansion?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Nitori >(There should be more to",
+                "<l$> this mansion than meets the eye.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Nitori >(Maybe we have",
+                "<l$> to go even deeper.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You sure know a lot.",
+                "So where to now?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<t$Nitori >(We need to find a way down.)",
+                "<l$> "
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Nitori >(But where that is,",
+                "<l$> I don't know.)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Hm, do you know something I don't?",
+                "Oh well, as long as no one is here..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "...A visitor?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "The human magician?",
+                "Why are you here?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Ah, so much for being alone.",
+                "Now I'm going to have to silence her!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "<t$Nitori >(Good luck~",
+                "<l$> But this might be dangerous.)"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Are you behind the fire?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "...You're quite belligerent.",
+                "How foolish. I am not behind the fire."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "...Hm?",
+                "You don't believe me?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Huh?",
+                "You readin' my mind?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "You want to go home?",
+                "The kappa is annoying?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "<t$Nitori >(Hah?)"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "......",
+                "Ok, stop."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "You can't hide your thoughts from me."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "My third eye shows me everything.",
+                "Whether I want to or not."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "What?",
+                "That sounds tedious."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "<t$Nitori >(Hey, just beat her up already.)"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Huh, huuh? Well, okay.",
+                "She won't say anything if I don't."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "\"You readin' my mind, still?",
+                "Here's some fun thoughts then.\""
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "\"Woosh, woosh, boom boom.\""
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "\"Yoooooink,",
+                "sprooooink.\""
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Hehe!",
+                ""
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "Now, to beat you."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "<t$Nitori >(What was that about?)"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Just to mess with her..."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "You know, even if you think nonsense",
+                "it still won't help."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Well, it's been a while",
+                "since I had to fight."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "You have such beautiful danmaku in your heart."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Now face the nightmares,",
+                "taken straight from your kappa friend!"
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "This will be your end!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "|\tGo sleep with a \t,\tmemory of fear\t,trauma",
+                "Go sleep with a memory of fear so frightful",
+                "you will never wake up again!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Hm, you're quite strong.",
+                "Especially for a human."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Nitori >(...Oh, those were my danmaku.",
+                "<l$> But they felt...off.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "It was kinda scary to",
+                "fight such nightmarish danmaku..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Now, what was it that you wanted?",
+                "...Oh, yes, the fire."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Well, I'll take you to the courtyard.",
+                "The fire originated from there"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Okay.",
+                "Let's hope I don't burn up."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Nitori >(...You should be fine.",
+                "<l$> According to the energy output, it should be cool.)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Eh?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Nitori >(That's just a theory though.",
+                "<l$> I'm not sure.)"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I just don't get what you're saying.",
+                ""
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "\"This kappa is a total mess.\"",
+                "Hmm, interesting."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Uhyo!",
+                "Moving right along now..."
+            ]
+        }
+    }
+}

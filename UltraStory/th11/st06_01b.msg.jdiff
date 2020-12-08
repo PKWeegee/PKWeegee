@@ -1,0 +1,154 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Wait."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "?"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "|\tIf you die at the bottom \t,\tof hell\t,hereabouts",
+                "If you die at the bottom of hell, you'll be torn",
+                "to shreds so hard, I can't get your soul..."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "So now its time to die!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Patchouli, what is THAT?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(That's...",
+                "<l$> Hold on, let me find a book for that.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Pache >(Hmm,",
+                "<l$> it seems to be a...black hole.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "A black what?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ah, the human magician!"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "What are you doing here?",
+                "It's dangerous!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Here she is!",
+                "Let's beat her!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "<t$Pache >(Don't beat her yet.)"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Which is it now?",
+                ""
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Why can't I beat her yet?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "<t$Pache >(...I want to know what she did",
+                "<l$> first.)"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Pache >(You don't just create a black",
+                "<l$> hole just like that.)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "<t$Pache >(It needs alot of energy,",
+                "<l$> and alot of mass.)"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "I wanted to increase productivity here.",
+                "But I put too much into it."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "The sun collapsed and turned into a black hole.",
+                "And this huge fire shot out..."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "<t$Pache >(That's what I wanted to hear!",
+                "<l$> Marisa, attack.)"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Hmmm.",
+                "You should've told me that from the beginning."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "This was just a waste of time,",
+                "so let's get this show rolling!"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "No.",
+                "You can't possibly fight against a black hole..."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "A black hole absorbs even light itself.",
+                ""
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Its the most dense thing in the universe."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "It will rip your atoms apart,",
+                "and spread you far and wide!"
+            ]
+        }
+    }
+}

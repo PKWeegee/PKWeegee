@@ -1,0 +1,281 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "And here we are at the villian's lair."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Alice >(So, where is the master of the house?)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Good question."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Alice >(This place looks pretty deserted.",
+                "<l$> ...And its unaffected by the fire.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Guess we'll just loot the place.",
+                "Easy pickings."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...Who is it?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "The magician...?",
+                "What are you doing here?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Looting, uh I mean...",
+                "Incident solving."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "<t$Alice >(Should we ask her?)"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Aah, well, I wanna beat the fire's culprit.",
+                "Where should I go?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "...The fire?",
+                "I see."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Now you want to loot the place?",
+                ""
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "What do you mean...?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "You can't hide anything from me."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Your heart is in plain sight to me.",
+                ""
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "...Eh?",
+                "What the heck?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Alice >(...The satori!",
+                "<l$> Why her?)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "<t$Alice >(This is too dangerous,",
+                "<l$> get out of there.)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "I can't go away now."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "<t$Alice >(Then try to quickly",
+                "<l$> get away from her.)"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "<t$Alice >(But then again...",
+                "<l$> We don't know where to go.)"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "So should I beat her, or...",
+                ""
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "...\"This satori is so annoyin'.\""
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Oh?!"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "...\"Readin' my mind, will ya?\"",
+                "I see."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "...\"What a pain, let's just fight.\"",
+                "I see. How belligerent."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Alice >(Marisa... You....)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Don't worry about it.",
+                "I can deal with her."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "The only thing on my mind",
+                "is kicking her butt!"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Hm, I can see it.",
+                "My mind-reading third eye will show me your deep nightmares!"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "An image of battle...",
+                "Now face nightmares coming from your doll friend!"
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "This will be your end!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "|\tGo sleep with a \t,\tmemory of fear\t,trauma",
+                "Go sleep with a memory of fear so frightful",
+                "you will never wake up again!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're pretty strong,",
+                "Especially for a magician."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Alright, now...what was it I wanted?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh, that's right! The fire!",
+                "Where's the origin of that...?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Ah yes.",
+                "Let's see..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...The fire originated from Former Hell.",
+                "One of my pets is in charge down there."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "<t$Alice >(Pet?",
+                "<l$> Oh yeah, the cat and raven?)"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "If you want to find out more,",
+                "I'll open the courtyard for you."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "The courtyard?",
+                "But isn't it super hot down there?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "No, currently it isnt.",
+                ""
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "What's that supposed to mean?",
+                ""
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Alice >(I'm not sure, but at least",
+                "<l$> you won't be fried to a crisp.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "\"Lemme just loot a bit....\" you think."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I won't allow that.",
+                "If you do, I'll kick you out."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Damn."
+            ]
+        }
+    }
+}

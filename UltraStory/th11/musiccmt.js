@@ -74,60 +74,60 @@
         "　",
         "This is the fourth stage theme.",
         "",
-        "I tried not to make it too one-sidedly Japanese.",
-        "The Palace of the Earth Spirits is surprisingly Western.",
-        "The people who live there are probably fancy, too.",
-        "But, it's a cat house. I want to be tamed by the cat."
+        "This stage was tough to get done.",
+        "Alot of ecl to edit, and alot of dialouge to write.",
+        "I may have gone a bit overboard on the 1up drops,",
+        "but I always want people to be able to beat this."
     ],
     "9": [
         "@",
         "　",
         "This is Satori Komeiji's theme.",
         "",
-        "She's the master of the Palace of the Earth Spirits. She's a little fancy and loves animals.",
-        "Actually, she should be the highest ranked enemy in Subterranean Animism,",
-        "but it looks like fighting isn't her specialty.",
-        "I tried to make the song dramatic and otherworldly, too."
+        "One of my favourite characters, and a very interesting one.",
+        "My creative juices certainly ran out on her spellcards,",
+        "but I also was just too lazy to check what I called some spells",
+        "in my earlier games."
     ],
     "10": [
         "@",
         "　",
         "This is the fifth stage theme.",
-        "Since people stopped being condemned to the hellfires, the oni don't visit anymore either,",
-        "so this place has become the playground to spirits and animals.",
-        "Actually, I'm thrilled whenever I see something like a building people have abandoned.",
-        "The grounds of Former Hell must be enveloped in the sort of loneliness that surrounds ruins... is what",
-        "I thought of as I made this."
+        "Former Hell has frozen over,",
+        "bet you weren't expecting that.",
+        "I think this stage contrasts really nicely with the rest of the games",
+        "color schemes, making it pop nicely.",
+        ""
     ],
     "11": [
         "@",
         "　",
         "This is Orin's theme.",
         "",
-        "This is the theme for a cheery, yet bizarre cat.",
-        "Since stages 4 and 5 were pretty heavy, I tried to clear it up in a flash.",
-        "The cart Orin's pushing is a wheelbarrow. What's it carrying, you say?",
-        "Best not to ask such questions, I think."
+        "We are getting close to the core of the matter.",
+        "And Orin is of course nearby.",
+        "Be careful you don't die,",
+        "she will take your soul."
     ],
     "12": [
         "@",
         "　",
         "This is the last stage's theme.",
         "",
-        "I tried to make it feel like an end-of-game song.",
-        "Flying through lava is standard fare for shooting games.",
-        "I guess if there's anything in particular I'm trying to say, it's that it's",
-        "not unusual for shrine maidens to fly above lava like this. Crows, too."
+        "A black hole.",
+        "Isn't that an exciting new thing to see?",
+        "I'm pretty happy with how cool the last shot of the stage looks.",
+        "It's just, neat, I guess."
     ],
     "13": [
         "@",
         "　",
         "This is Utsuho Reiuji's theme.",
         "",
-        "I tried to make it as modern, light, and simply boss-like as I could.",
-        "In fact, she's not that great a youkai, for a last boss. She was originally just a bird.",
-        "She's just really, really powerful. But I understand very well that even a fool that",
-        "possesses great power can't cause too much harm. Ah, even if it's the power of dreams."
+        "Okuu being a birdbrain didn't fully know what she did.",
+        "But at least she knows that she screwed up.",
+        "So you can't really blame her.",
+        "She meant well."
     ],
     "14": [
         "@",
@@ -154,18 +154,18 @@
         "　",
         "This is the ending theme.",
         "",
-        "The theme here's staying up all night drinking and then making your lonely way home.",
-        "The vengeful spirits head back into the depths of the earth, saying to themselves, \"Aw, the festival's",
-        "over,\" and \"I guess we'd better be getting back now.\"",
-        "Those vengeful spirits are such old fogeys."
+        "And thus another maingame comes to a close.",
+        "This was certainly the hardest game in terms of difficulty, so far.",
+        "I may have given a few too many 1ups, but better more than too few.",
+        ""
     ],
     "17": [
         "@",
         "　",
         "This is the staff roll theme.",
         "",
-        "I made it the same as always. Well, for the most part.",
-        "It has that \"This is the end~\" feeling.",
-        "It's the ending, but the song title is Daybreak. It's not Tamiaki."
+        "So this is the end of this game.",
+        "I hope you enjoyed it, as it was quite different from the",
+        "previous ones. But I still like it alot."
     ]
 }
