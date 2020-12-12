@@ -1,0 +1,437 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, it's my dear friend!",
+                "I wonder if I can spook her?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I've gotten really good at that!"
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "Now then...watch out, because I'm...",
+                "Right behiiiind you~!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "So, where's the real mastermind.",
+                "She should be here, according to the raven."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Nitori >(Hmm...",
+                "<l$> I've got a bad feeling.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Huh?",
+                "Why's that?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Nitori >(It's nothing.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hey, Nitori?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You've been acting strange ever since we",
+                "went underground. What's the matter with ya?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Nitori >(I guess it's become a habit.",
+                "<l$> Don't worry about it.)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Oh well, whatever."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "<t$Nitori >(Let's just get this stuff",
+                "<l$> over with quickly.)"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "<t$Nitori >(It's better to finish stuff quickly,",
+                "<l$> instead of dragging it out, right?)"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Um, excuse me...?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Is it really you? Oh it's been so long!"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Nope. It ain't me. Dunno who ya are."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "<t$Nitori >(Oh no...)"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "What's the matter now, Nitori?",
+                "Ya know her?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Nitori? My relative?!"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Oho, I think I just heard somethin'",
+                "really interestin'."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Nitori >(Dammit Mitori...",
+                "<l$> You are blowing my cover.)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "What?",
+                "What do you mean?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Oh, no.",
+                "I'm sorry, my dream sister..."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "What?",
+                "Nitori, what in the world...?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Either way...",
+                "What are you doing here?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Ah, are you the mastermind?"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Huh? I have this shard, if you mean that."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "<t$Nitori >(I guess there's no point hiding it.",
+                "<l$> I switched places with the awake Nitori a while ago.)"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "<t$Nitori >(I wanted to spy on the events.)"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "You what?",
+                "Nitori, I didn't think you were like that."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "But man,",
+                "that was quite cunning."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "You...",
+                "you just betrayed me like that!?"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "<t$Nitori >(In a way, yeah!",
+                "<l$> Take her down, Mitori!)"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Hey, calm down.",
+                "You do know who you are messing with, yeah?"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Hmm, you are the human I once fought in",
+                "your dreams, yeah?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "And now I'll get to fight the",
+                "awake version. How exciting."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "This is confusing."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "I'm a pure dream dweller.",
+                "I have no awake side."
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Nitori's dream dweller is related to me.",
+                ""
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "<t$Nitori >(Hey, Marisa... If you really ",
+                "<l$> want to beat her, I'll lend you some power.)"
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "R-Right..."
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "I don't fully trust you,",
+                "but here goes!"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "I'm the most powerful kappa",
+                "in the dream realm!"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "I can make you stop and go as I please.",
+                ""
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "And now I'll make this battle start!",
+                ""
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "What if I start instead?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wow, you're really strong!",
+                "Even without Nitori's help..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "So she didn't...?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Huh? Didn't you know?",
+                "Why would a dream dweller help you?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I knew it, I got betrayed from the start..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Well anyway,",
+                "you won,"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "so here's the shard.",
+                ""
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Nitori >(So what happened?)"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Our master told me to give the raven some",
+                "info about power increase."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "And then I was supposed to wait here.",
+                ""
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Nitori >(Why wasn't I told anything?)",
+                "<l$> "
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Nitori >(Am I really that unimportant?)",
+                "<l$> "
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "No, that's not it..."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Our master has become way more secretive.",
+                "If you aren't involved, you don't get to know."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "That's pretty interesting."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "So yeah, I won't be able to",
+                "tell you anything about what's next."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hmm. I don't mind I guess..."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "But it could be pretty hard going forward."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Oh, don't worry. ",
+                "Someone as strong as you..."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "You will certainly prevail."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Nitori >(...Wow, everybody's ignoring me.)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Well, you backstabbed someone.",
+                "Not me."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Either way,",
+                "you should take a break."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Hm, so does that mean",
+                "I can take a break too?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "<t$Nitori >(Well, I, uh...)"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Oh, yeah."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "I still need to steal some",
+                "stuff from Nitori."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "<t$Nitori >(Alright, fine, I apologize!",
+                "<l$> Just leave my stuff alone.)"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Heh...",
+                "What a fun pair."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Nope,",
+                "we ain't a pair."
+            ]
+        }
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, it's my dear friend!",
+                "I wonder if I can spook her?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I've gotten really good at that!"
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "Now then...watch out, because I'm...",
+                "Right behiiiind you~!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "So, where's the actual mastermind?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Yukari >(What makes you think they are here? I guess",
+                "<l$>  any excuse to get out of the underground is good.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "If what that hell raven said is true, all",
+                "we need is to find them over here."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "So now we just need to..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh what a happy reunion this is."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "It's been so long, miss shrine maiden."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Huh?",
+                "Do I know you?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Eh? You don't remember me?",
+                "We fought in your dreams, ages ago."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "After the geyser incident."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Who are you?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "I'm Mitori Kawashiro,",
+                "a pure dream dweller with no awake side."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I had an important task in the Blazing Hell,",
+                "and then I was told to wait here..."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Mitori...?",
+                "I think I've heard that name before."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "<t$Yukari >(So you actually fought her",
+                "<l$> in your dreams?)"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "You remember now!?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "It's hazy."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "So, I'm sure you want..."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "This shard, yes?"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "That's the thing!",
+                "But I've got a bad feeling about this."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "You were really strong last time,",
+                "but that was your dream dweller."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Sadly for you,",
+                "I'm the real deal...so I've got way more power."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Really?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I'll have to see for myself."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "I never got the chance to",
+                "fight an actual awake being until now."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Oh boy."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "Guess there's no way around this,",
+                "is there?"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Correct!"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "In the dream realm,",
+                "I was known as a fighting prodigy."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "So now I'll make myself known",
+                "all over Gensokyo as well."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "You may have beat other kappas",
+                "in the past..."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "But I am the most powerful",
+                "kappa to ever exist!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "That was incredible!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Yukari >(Yeah, Reimu is like that sometimes.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "That's another one down."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "How long is this going to go on for?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "That's something I can't tell you.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Our master has become more and more",
+                "secretive about her plans."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Mitori!?",
+                "What the heck do you think you are doing?!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Nitori?",
+                "Wait, are you her dream dweller?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Yeah, I'm the dream dweller."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Nitori?",
+                "What are you doing here?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "You stole all my spotlight!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "What the heck."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Last incident, I also got my",
+                "spotlight stolen by the wolf tengu of all people."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Well, I'm sorry.",
+                ""
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "......",
+                "Alright, I forgive you."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "This is too weird for me.",
+                ""
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "We are related, but only our dream dwellers",
+                "are related. I know it's confusing."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Uhhhh?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "I've just had a really bad track record lately.",
+                "First my faith machine got destroyed."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Then I got shafted in favor of the wolf tengu.",
+                ""
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "I'm just a bit annoyed."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "<t$Yukari >(And now you came too late",
+                "<l$> to do anything of value in this fight.)"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "I just need a break.",
+                ""
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "See you guys."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Ah whatever."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "I've had quite a tiring experience",
+                "down in the Blazing Fires!"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "<t$Yukari >(Hmm... good work, Reimu.",
+                "<l$> You really did well.)"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Yukari >(Let's hope the next incident",
+                "<l$> will be easier.)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Are you done talking?"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Cause I'd like to spend some time",
+                "with my relative now..."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "I couln't care less about what",
+                "you do right now."
+            ]
+        }
+    }
+}

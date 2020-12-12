@@ -1,0 +1,445 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, it's my dear friend!",
+                "I wonder if I can spook her?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I've gotten really good at that!"
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "Now then...watch out, because I'm...",
+                "Right behiiiind you~!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "So, where's the real mastermind?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "If what Okuu said is true, ",
+                "she should be at the Moriya Shrine."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Aya >(*sniff sniff*)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I don't think you can smell",
+                "scoops like that."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<t$Aya >(I know! ",
+                "<l$> But this is very intriguing.)"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Uh-huh."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh, it's been so long!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Do you remember me?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Huh?",
+                "No, I don't."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Eh? Well, I guess it makes sense.",
+                "I fought your dream dweller, long ago."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "After the geyser incident."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Aya >(Who is she...?",
+                "<l$> Do you remember her?)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "|\tHmmm? Was there anyone \t,\tlike that?\t,familiar",
+                "Hmmm? Was there anyone like that?"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "<t$Aya >(I never saw her in Gensokyo before.",
+                "<l$> Who on earth...)"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "I'm Mitori Kawashiro.",
+                "I'm a pure dream dweller with no awake side."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "You what?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "This all is getting so out of",
+                "hand lately..."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Aya >(In any case, the raven said",
+                "<l$> that she's the true mastermind.)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "<t$Aya >(Let's beat her.)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Is there any point to it?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "It's not like she carries",
+                "a shard."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "<t$Aya >(Ah, well, maybe try",
+                "<l$> asking...)"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I do in fact have a shard."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Oh."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Is that enough motivation for you",
+                "to fight now?"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "I've never fought an awake being before."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "May you give me that honor...?",
+                ""
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "<t$Aya >(Just what we wanted!",
+                "<l$> Now, let's fight her the usual way!)"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Oh, perfect!",
+                "At least one of you is ready."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "I wonder who is stronger...",
+                "You or your dreamer."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Me, obviously."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Then let's put that",
+                "to the test."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Ready?"
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Hmm, I'm not really sure,",
+                "if I'm feeling ready."
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Ohoho,",
+                "then that's perfect."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "I'm the strongest kappa in the dream",
+                "realm."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "I can make you stop and go as I please...",
+                ""
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "You can what?"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "So now I'll make this battle start!",
+                ""
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wow,",
+                "you're really strong!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "You are certainly stronger than your dream dweller."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Of course I am."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Aya >(Hey, just a minute, you!)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Me?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "<t$Aya >(You promised us the shard.)",
+                "<l$> "
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "<t$Aya >(Hand it over now.)",
+                "<l$> "
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Oh, right."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "<t$Aya >(There we go!)",
+                "<l$> "
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Oho?",
+                "What's all this commotion?!"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Nitori?!",
+                "Why are you here?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Isn't it obvious?",
+                "I came to scold my relative."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Nitori, why do you want to scold me?",
+                ""
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "<t$Aya >(Those two are...related?",
+                "<l$> That's weird...)"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Well, only us dreamers are",
+                "related. I know, it sounds confusing."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "I don't know anymore.",
+                ""
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "I guess I showed up too late.",
+                "I thought I would get some spotlight too."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "What's that?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "First, my faith machine got destroyed.",
+                ""
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Then, the wolf tengu stole my spot",
+                "as the shard's guardian."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "And now my relative also steals",
+                "my spot."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Hm? You wanted some action too?",
+                "I'm sorry."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Well, to be specific, ",
+                "I wanted revenge for the machine."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "But I guess it doesn't matter now.",
+                ""
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Can't get caught up in old stuff forever.",
+                ""
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "I'm glad that there's no bad blood",
+                "between the two of us."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "I don't really understand what's going on,",
+                "but are you all planning something?"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Aya >(Come to think of it, we don't know their",
+                "<l$> next move at all.)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "I can't tell you anything about that.",
+                "Our master has gotten way more secretive."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "So no one not involved has any idea anymore.",
+                ""
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Eh?",
+                "That's annoying."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "I know, right?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Anyway, I guess all I can do now",
+                "is relax."
+            ]
+        }
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, it's my dear friend!",
+                "I wonder if I can spook her?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I've gotten really good at that!"
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "Now then...watch out, because I'm...",
+                "Right behiiiind you~!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Where's that real mastermind?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Didn't the bird say that she should",
+                "be over here?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Alice >(Well, the small fry stopped.",
+                "<l$> She should appear any moment now. Good luck!)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Geez, who started that, anyway?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Why can't they just pop out as soon",
+                "as I come here?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Makes it harder to retry",
+                "if you mess up!"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Alice >(Don't be so blunt.",
+                "<l$> Look, according to the hell raven,)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "<t$Alice >(she got the idea from some kappa.",
+                "<l$> And that kappa is here now?)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Yeah, that's right.",
+                "So hopefully they are still here."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Um, excuse me..."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "It's really you? It's been ages!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Huh? Who're you?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "You don't remember?"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Nope, never seen ya in my life,",
+                "that's for sure!"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Oh that's a shame. But it makes sense.",
+                "It was your dream dweller I fought, afterall."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Eh?",
+                "You fought who?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "So yer sayin' that I fought ya in my dreams?",
+                "Who won? Better have been me."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "Well, yes. You did in fact win.",
+                "But it was quite close."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "<t$Alice >(What's her deal,",
+                "<l$> anyway?)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Idunno, but it's good that I won back then.",
+                "Means I'll win now too, right?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Will it be that easy to fight a pure dream dweller?",
+                "I never fought an awake being before."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Pure?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "<t$Alice >(Someone who only exists in the dream",
+                "<l$> realm.)"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Oh, I get it.",
+                "...I don't get it."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "It's ok, you don't have to understand.",
+                ""
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "I'm the great magician, Marisa Kirisame.",
+                "I don't have to understand everything!"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Either way, why should I fight you?",
+                "Do you have something I want?"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "I have this precious shard."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "I'm pretty sure you want this."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "I was told to protect it",
+                "as best as I could."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "<t$Alice >(So your master sent you?)"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "What's that?",
+                ""
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Oh? You know of our master?"
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "So you..."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "I've already gathered a good number!"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "I see.",
+                "Then this shouln't be that bad."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "Wha?.."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "<t$Alice >(Watch out.)"
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "I'm Mitori Kawashiro."
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "After I told the hell raven about",
+                "increasing hell's powers, I came here."
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "And now the second part of my misson",
+                "will start."
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "Well, whatever.",
+                "I beat enough of you guys already."
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "And you have another shard,",
+                "so I'll play with you."
+            ]
+        },
+        "438_0": {
+            "lines": [
+                "I'm the strongest kappa in the dream realm."
+            ]
+        },
+        "446_0": {
+            "lines": [
+                "I can make things stop and go as",
+                "I please."
+            ]
+        },
+        "454_0": {
+            "lines": [
+                "Your movement is at my command.",
+                ""
+            ]
+        },
+        "462_0": {
+            "lines": [
+                "And now,",
+                "I'll make this battle start!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're strong!",
+                "I can see why you resolve incidents."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Yep, you were nothin' at all!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "<t$Alice >(Was it really that easy?)"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Well, it was a pleasure!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "So here's the shard.",
+                "It's all yours."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Uh, oh yeah,",
+                "the shard..."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "So, uh,",
+                "do ya know anything about the next plan?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Nope, nothing at all."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Our master has gotten increasingly",
+                "more secretive lately."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Everyone who isn't involved in the next",
+                "plan isn't told anything anymore."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "So I can't tell you anything.",
+                "Even if I wanted to."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "That's annoying."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "<t$Alice >(What a shame.",
+                "<l$> So all we can do is wait.)"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Things aren't looking so fresh in the dream realm.",
+                ""
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Our master doesn't seem to be ",
+                "that right in the mind."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "I'm not sure what's going on,",
+                "but I'll be careful once I return."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Hmm, I see.",
+                "That doesn't tell us anything worthwile sadly."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Guess I'd better be heading home."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Alice >(What?",
+                "<l$> Are we done here already?)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "We got what we came here for,",
+                "and the underground people are working hard."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "They got it all under control there."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "<t$Alice >(You're so easygoing.",
+                "<l$> But I guess that's just how you prefer it?)"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Yep, that's surely me."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "<t$Alice >(...?",
+                "<l$> If you say so?)"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "And I'm still full of energy.",
+                "I might go nab some stuff."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "A thief? How scary."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "——<i$\"As Marisa headed home, just out of her>",
+                "<i$       field of view...\">"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "<i$...a multicolored shard came flying around.>",
+                "<i$      What could that mean?\">"
+            ]
+        }
+    }
+}

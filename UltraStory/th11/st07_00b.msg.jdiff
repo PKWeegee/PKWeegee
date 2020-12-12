@@ -1,0 +1,428 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Hey, it's my dear friend!",
+                "I wonder if I can spook her?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I've gotten really good at that!"
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "Now then...watch out, because I'm...",
+                "Right behiiiind you~!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "So, where's the real mastermind?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "If what that hell raven said is true,",
+                "they should be hanging out at the Moriya Shrine now."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Suika >(Heeey!",
+                "<l$> Find anything yet?)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "And so the oni once again",
+                "starts talking to me."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Oh, it's you."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "It's been so long, do you remember me?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Huh?",
+                "Who the heck are you?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Eh? You don't remember me?",
+                "That's a shame."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "But it was your dream dweller that fought me, so..."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "<t$Suika >(Huh?",
+                "<l$> That voice, that person...)"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "<t$Suika >(I kinda sorta",
+                "<l$> remember a tiny bit about them.)"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "I'm a pure dream dweller."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Huh? Those exist?"
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "<t$Suika >(It would make sense.)",
+                "<l$> "
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Eh?",
+                "I'm...kinda remembering now."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Hmmm, I wonder if you are stronger",
+                "or weaker than your dream dweller?"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "I'm stronger, obviously."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "I actually went to the underground hell a bit ago,",
+                "to give some raven a bit of information."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "I wonder how she's doing."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Have you met her?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "What?! You gave her that idea?",
+                "It's a total mess down there."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Really?",
+                "Well, it doesn't matter."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I did my first job,",
+                "and now I'll do my second job."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Let me guess. You have",
+                "another shard?"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "<t$Suika >(Reimu, be careful.",
+                "<l$> Who knows what powers she has now.)"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "What do you mean?"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "<t$Suika >(A pure dream dweller. We don't know",
+                "<l$> how those react to the shards powers.)"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "Why don't we find out together?"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "I never fought an awake being before.",
+                "So this should be interesting."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "So in the end,",
+                "it's another unavoidable battle?"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Well, then, she's just some dreamer!",
+                "This'll be an easy win."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "If you think it will be easy..."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Let me tell you something good.",
+                "I'm the dream realms most powerful kappa."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "I can make you stop and go as I please.",
+                ""
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "And now...",
+                "I'll make the battle start!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Oh, wow!",
+                "You are truly incredible!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "That was nothing!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I can see how you have come so far,",
+                "in your quest to stop the rebellion."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You survive anything."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "<t$Suika >(Zzzz... Zzzz... oh,",
+                "<l$> hey, it's over?)"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Did you seriously fall asleep?",
+                ""
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "So, here's your shard."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "That's another one.",
+                "I wonder how many more there'll be."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "I can't tell you that!",
+                ""
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Do I have to beat it out of you?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "No! I really do not know what comes next.",
+                "Our master has become extremely secretive."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "<t$Suika >(Interesting.",
+                "<l$> So we'll not know anything?)"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "How gracious!",
+                ""
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Hey, now!",
+                "What are we supposed to do then?!"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Just wait for another disaster?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "<t$Suika >(By the way, Reimu?)"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "<t$Suika >(Did you really fight her",
+                "<l$> in your dreams before?)"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "It certainly feels like",
+                "I've seen her before."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Heeeeey~"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Why'd you shoot me down?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Mm,",
+                "I didn't see you..."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Really?",
+                "Man, even as a dreamer, I'm invisible."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Don't worry about it..",
+                ""
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "So, I missed all the cool stuff?",
+                "That's lame."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Eh?",
+                "Did you want to have a bigger role?"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "Yes, I'd love to!",
+                "But I missed my chance, I guess."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Maybe if someone wants to",
+                "take sneaky pics of me, that'll be fine."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Nothing, hehe.",
+                ""
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Don't worry about things",
+                "that don't affect you."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "I'm going back to the underground.",
+                ""
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Ah whatever,",
+                "this is dumb."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Eh? What is?",
+                ""
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "This whole ordeal was very tiring,",
+                "so I'm going back to have a bath and go to bed!"
+            ]
+        }
+    }
+}

@@ -133,21 +133,21 @@
         "@",
         "　",
         "This is the extra stage theme.",
-        "",
-        "It feels like it's rushing you along for some reason, but there's no real reason",
-        "to hurry, and everyone's acting carefree.",
-        "Even Reimu can't compete with the Moriya Shrine crowd in terms of not having a",
-        "care in the world. The song title has no relation to a certain shooting game."
+        "Actual Theme: Leaf ponders the flower, flower ponders the leaf",
+        "This was a pretty obvious choice for extra stage.",
+        "The setting is the Moriya Shrine though, because I thought it would look nice",
+        "in spring. And it contrasts nicely with the HUD I'd say.",
+        "(And I didn't wanna reuse the underground city)"
     ],
     "15": [
         "@",
         "　",
-        "This is Koishi Komeiji's theme.",
-        "",
-        "I tried to make it eerie and have the aura of a broken girl.",
-        "I think the eeriness is fitting for an extra boss.",
-        "Actually, I think a garden with roses strewn all about where thorns can prick",
-        "you is really fitting for a battle, but for some reason it's the shrine this time."
+        "This is Mitori Kawashira's theme.",
+        "Actual Theme: The Kappa Way as Said ~ One-Way Accelerator",
+        "Mitori was quite interesting to write, and I kinda wanted to rope in the",
+        "fanmade phantasm stage, twisting it into being a dream that happened.",
+        "I hope it was another enjoyable experience,",
+        "and you look forward to our next adventure!"
     ],
     "16": [
         "@",
