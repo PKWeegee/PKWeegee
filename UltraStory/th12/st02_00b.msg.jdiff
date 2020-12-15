@@ -1,0 +1,108 @@
+{
+    "0": {
+        "68_0": {
+            "lines": [
+                "Please wait just a minute.",
+                "What are you doing?"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Nothing that involves you."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Huh...?",
+                "But I'm here now, so it does involve me..."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Uh, I think that's how that works",
+                "at least."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Ok fine.",
+                "What's the matter?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I'm here to spook you..."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "I even came up with some new",
+                "scare tactics..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Hm, it looks like you're not surprised,",
+                "though."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "I've seen too much to be suprised like that."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Why can't it be like the good old days?",
+                "Youkai scaring everyone left and right..."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Times change..."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Some people even got scared by some weird stones,",
+                "I heard."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "T-that's a lie!",
+                "No one would ever..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Alright, here comes my big show,",
+                "ready to be suprised?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Booohoooo~"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Don't you dare tell lies like that."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "*sob sob*",
+                "What was that for?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Just forget about it.",
+                ""
+            ]
+        }
+    }
+}

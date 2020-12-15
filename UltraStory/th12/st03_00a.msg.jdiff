@@ -1,0 +1,201 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "I thought these shards would only attract fairies. ",
+                "But why are you here?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Why is your ship flying again?",
+                "What are you planning...?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in thinking about it!",
+                "You are not allowed in here!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Guh, I'll have to seal the entrance shut!",
+                "Don't you dare follow me!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "If you'd just listen to me,",
+                "all I want to know is what you are..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Ugh..."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Still here?",
+                "There's nothing here for you."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I highly doubt that!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Hmmm.",
+                "That's a shame."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Just tell me, where are you headed?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "I regret to have to tell you",
+                "that I won't tell you."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Excuse me?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Look, no matter what you want to ask,",
+                "I'm not going to tell you..."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "And most of all, I won't let you",
+                "into the ship."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Eeh?",
+                "What if I bust in myself?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Bust in?",
+                "Is that what you want to do?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "There's no point.",
+                "We're going nowhere you'd wanna go."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Hmpf."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "...Eh?",
+                "What are you saying...?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Hmm, I see.",
+                "Alright then."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "What's this about now?"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "If you manage to beat me,",
+                "we'll let you in!"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "If you are strong enough, we might be able to use you.",
+                ""
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "Unzan has a perfect plan!",
+                "How awesome."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "What the heck are you talking about?",
+                "I'm not going to help you!"
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "It's okay.",
+                "Now let's see if you are up for it!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're quite strong!",
+                "I think it will be fine to let you in."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "R-Really?",
+                "Well uh, thats good I guess?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Don't touch anything,",
+                "and don't shoot anything."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Understood?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I won't make any promises.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "At least I'll get to see where this ship",
+                "is going."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I don't like how they will think I'm",
+                "helping them, though."
+            ]
+        }
+    }
+}

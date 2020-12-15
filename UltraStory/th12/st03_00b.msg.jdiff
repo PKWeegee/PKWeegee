@@ -1,0 +1,173 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "I thought these shards would only attract fairies. ",
+                "But why are you here?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Shards?",
+                "You have something to do with that?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in thinking about it!",
+                "You are not allowed in here!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Guh, I'll have to seal the entrance shut!",
+                "Don't you dare follow me!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Wait, what's the deal with those",
+                "shards..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Ugh..."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Why are you still here?",
+                "There's nothing here for you."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "What am I after?",
+                "I want to know what those shards are about!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Hm.",
+                "Don't worry about it."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "They are just a side effect of something",
+                "we would like to do."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "And you, dear shrine maiden,",
+                "are not invited to come with us."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Huh?",
+                "Where are you going this time?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "I'll not tell you more than that."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Not even if I...",
+                "beat it out of you?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Don't count on it.",
+                ""
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Hmm, maybe I'd better beat you",
+                "so I can know for sure."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...Eh?",
+                "Oh, you mean...?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Alright, I'll let you in",
+                "if you can beat me."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Why the sudden mood shift?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Unzan had a perfect plan.",
+                "If you are strong enough, you can be a valuable asset."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "If that means getting on board,",
+                "and figuring out what you are doing, sure."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Ahaha, well, thank you for accepting",
+                "the offer then!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How awesome.",
+                "Welcome on board..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Just so you know, I'll",
+                "not cooperate with you."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "It's fine, we just need you",
+                "with us."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Somehow this worries me.",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But I can't let youkai run around like this."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "We aren't running around."
+            ]
+        }
+    }
+}

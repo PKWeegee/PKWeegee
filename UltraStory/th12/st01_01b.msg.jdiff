@@ -1,0 +1,100 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hey, hey, this ship is really fast!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I gotta be fast,",
+                "if I wanna see where they are goin'!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, no.",
+                "Not here either..."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Oh, what are you doing here?"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "What's this?",
+                "The tiger? Without her precious treasure?"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "I'm currently on the search for it.",
+                "I know you won't help, so go away."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "I need to be quick,",
+                "they need it on the ship."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Oho...?",
+                "So if I find it, I can go wherever you guys are going!"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "No, that's not...",
+                ""
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "It sure does sound like it though.",
+                "Time to search!"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Alright now, human.",
+                "You aren't even allowed on the temple grounds..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Let's make it quick.",
+                "I've got a flight to catch!"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "We aren't an airline!",
+                "Oh, well."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Now!",
+                "Where'd the ship go?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "...Wait, what?",
+                "Oh its all the way over there?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "What a fast ship.",
+                "Gotta go into superspeed."
+            ]
+        }
+    }
+}

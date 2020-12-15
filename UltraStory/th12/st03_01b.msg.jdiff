@@ -1,0 +1,169 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "I thought these shards would only attract fairies. ",
+                "But why are you here?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Ey, where are ya guys goin'?",
+                ""
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in thinking about it!",
+                "You are not allowed in here!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Guh, I'll have to seal the entrance shut!",
+                "Don't you dare follow me!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I wanna get in tho...",
+                ""
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...She ran away."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Why are you still here?",
+                "There's nothing here for you."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I'm sure there's something at least."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "No really, there's nothing."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "We are just going somewhere,",
+                "but that's got nothing to do with you."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "So you are free to leave."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Well, that's too bad.",
+                "However...I'm here for the journey."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "The destination might be more fun",
+                "than some kind of treasure."
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "If you say so.",
+                "But it's no good."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "You aren't welcome here,",
+                "and that's that."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Hm, well, why don't I help you?",
+                "Couln't ya use a  hand?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...Eh?",
+                "You mean...?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "What? What's wrong?",
+                "Did ya figure out I was lyin'?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Unzan got the brilliant idea to",
+                "let you on board if you can beat me."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "So if you'd just..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Oh, uh, it's that easy?",
+                ""
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Thank you for your cooperation!",
+                ""
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How awesome.",
+                "You are free to board now..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "So where are we goin'?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "You will see soon enough.",
+                "Isn't the suspense more intriguing?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Well, I guess..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Don't steal anything inside."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Did ya forget who you are talkin' to...?"
+            ]
+        }
+    }
+}

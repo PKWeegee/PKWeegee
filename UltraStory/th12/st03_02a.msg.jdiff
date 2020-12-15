@@ -1,0 +1,182 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "I thought these shards would only attract fairies. ",
+                "But why are you here?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Eh?",
+                "What are you planning?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in thinking about it!",
+                "You are not allowed in here!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Guh, I'll have to seal the entrance shut!",
+                "Don't you dare follow me!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "No, don't seal it,",
+                "I want to get inside."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Hey, don't run away!"
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "You aren't welcome here."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "But I'm here for an investigation.",
+                "What are you planning?"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Well, nothing, really."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "Alright! Let's fight."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "We are doing peaceful things,",
+                "so can't you leave me alone?"
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "You,",
+                "what good will this do you?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Uuugh.",
+                "I have my mission, and I want to fulfill it."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "You are so selfish."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "And for that reason,",
+                "I won't let you in..."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...Eh?",
+                "You mean...?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Unzan just gave me a good idea. Beat me,",
+                "and I'll let you in."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Eh?",
+                "What changed your mind?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You might be useful for us, down the line."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "But that's only if you are strong enough.",
+                ""
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Eh?",
+                "Uh, yeah, I..."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Thank you for your cooperation!",
+                ""
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How awesome.",
+                "You are free to go inside now..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I'm not sure if its alright to help you.",
+                "But I'll certainly go inside."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Let's hope I can get some good info",
+                "for Lady Kanako."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Don't touch anything inside.",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Also don't shoot anything.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "And don't litter on the floor!"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "What is this,",
+                "an airline?"
+            ]
+        }
+    }
+}

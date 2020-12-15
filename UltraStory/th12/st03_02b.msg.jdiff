@@ -1,0 +1,180 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "I thought these shards would only attract fairies. ",
+                "But why are you here?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Eh?",
+                "I want to know more about the shards."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in thinking about it!",
+                "You are not allowed in here!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Guh, I'll have to seal the entrance shut!",
+                "Don't you dare follow me!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Hey!",
+                "You didn't answer my question."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Wait, don't run off!"
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Why are you still here?",
+                "There's nothing here for you."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I'm just doing an investigation.",
+                "I need to know more about these shards."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Oh those?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "They aren't anything special,",
+                "just a tiny thing to help us."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "...Oh,",
+                "can you tell me more?"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I can't.",
+                ""
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "May I come inside then?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "What part of \"not allowed\" didn't you hear?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "Guess I'll have to get violent..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "That won't do you much good.",
+                ""
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...Eh?",
+                "You mean...?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Unzan had a good idea. If you can beat me,",
+                "I'll let you join us."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Join you?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You might find something out as well."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "If you are strong enough,",
+                "we might find a use for you..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Eh? Eh?",
+                "What's going on?"
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "I appreciate your cooperation!",
+                ""
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How awesome.",
+                "You are free to come in now..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "What just happened...?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Also, is it just me, or am I seeing way more charms with",
+                "\"P\" and \"point\" written on them?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Please, go on inside",
+                "and don't ask such silly questions."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I hope you enjoy your stay."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Huh?",
+                "Can I go inside?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Well, here I go, then."
+            ]
+        }
+    }
+}

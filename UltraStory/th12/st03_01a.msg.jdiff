@@ -1,0 +1,170 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                 "I thought these shards would only attract fairies. ",
+                "But why are you here?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Oh?",
+                "You are behind them?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, no point in thinking about it!",
+                "You are not allowed in here!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Guh, I'll have to seal the entrance shut!",
+                "Don't you dare follow me!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Sounds like the bulk of them",
+                "is inside..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "...Let's roll."
+            ]
+        }
+    },
+    "0": {
+        "68_0": {
+            "lines": [
+                "Still here?",
+                "There's nothing here for you."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "What about those shards?"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "...",
+                "I want 'em."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Why do you want those?!"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "They aren't worth anything."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "You'll just ruin the plan."
+            ]
+        },
+        "116_0": {
+            "lines": [
+                "Ah ha ha! Not worth anything?",
+                "You must be joking!?"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "I can see from a mile away,",
+                "just how much they are worth!"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "So?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Well, I, uh...",
+                "Can I have them?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "...Eh?",
+                "You mean...?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Huh?",
+                "Ya tryin' to find a selling price?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Unzan tells me",
+                "that if you beat me, we should let you in."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "That's an odd change of pace...?",
+                "But I guess I won't complain..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Without further ado..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Let's see if you are worthy!",
+                ""
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How awesome.",
+                "We can definitely make use of you..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "You won't be usin' me."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "It's fine, you just have to be",
+                "with us, to make it work."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "What are ya talkin' about?",
+                ""
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Do not worry about it.",
+                ""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "...What?",
+                "I guess I can go in at least...?"
+            ]
+        }
+    }
+}
