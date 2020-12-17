@@ -74,50 +74,50 @@
         "　",
         "This is the stage 4 theme.",
         "",
-        "Aren't journeys great? I feel the most excited when I'm riding on a vessel.",
-        "Even if it's the ship of the infamous ghost captain who sinks lots of other ships.",
-        "I mixed anticipation and anxiety together as much as I could when making this song,",
-        "trying to give it a sense of excitement."
+        "I wanted to give this stage a bit more of a \"pirate ship interior\" kinda feel.",
+        "Not sure if I fully managed to pull that off, but I think it works.",
+        "",
+        ""
     ],
     "9": [
         "@",
         "　",
         "This is Minamitsu Murasa's theme.",
         "",
-        "Since she sinks lots of ships, she's a well-known ghost captain.",
-        "I tried to give it a \"captain\" atmosphere, so it's a little too cool.",
-        "Everyone calls her Murasa, but \"murasa\" is the name of a youkai,",
-        "so they're not really calling her by name - surprise!"
+        "I kinda found it funny to run along with the whole airline joke.",
+        "It's something that woulnt really work anywhere else,",
+        "but Murasa pretty much fit the bill.",
+        ""
     ],
     "10": [
         "@",
         "　",
         "This is the stage 5 theme.",
         "",
-        "This is a song with irregular rhythms, but it's upbeat. Pretty Makai-ish.",
-        "It gets pretty intense when you're listening to it with the sound effects from gameplay,",
-        "so I hope you'll listen closely while playing.",
-        "The name comes from the song having both a rural and an urban feel."
+        "Since we are in Makai, I wanted to give it a more PC-98 vibe.",
+        "It also makes sense if you think about where exactly it takes place,",
+        "because we are in a very familiar part of Makai.",
+        ""
     ],
     "11": [
         "@",
         "　",
-        "This is Shou Toramaru's theme.",
+        "This is Nazrin's theme.",
         "",
-        "I gave this song a quiet, but strong feel. The second half is awfully boss-ish.",
-        "It's a feeling of dignity rather than terror.",
-        "Still, those lasers coming one after the other are pretty scary.",
-        "They're old-man killers you need really good reflexes to dodge."
+        "Since Shou is the first stage boss, naturally Nazrin takes her spot here.",
+        "This was supposed to be a refrence to the fanmade phantasm stage.",
+        "Nazrin was the boss there, so I wanted to give her a bit more of an important",
+        "role, to play off of that."
     ],
     "12": [
         "@",
         "　",
         "This is the stage 6 theme.",
         "",
-        "A song with too much tension.",
-        "The stage is short and not too hard, so I had to add to the tension.",
+        "The place where the final boss of Mystic Square took place.",
+        "A place which is still totally destroyed from a fierce battle.",
         "",
-        "The heartbeats make you want to hurry, don't they?"
+        "What will go down here now?"
     ],
     "13": [
         "@",
