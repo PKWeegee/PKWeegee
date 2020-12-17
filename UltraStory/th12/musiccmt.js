@@ -124,10 +124,10 @@
         "　",
         "This is Byakuren Hijiri's theme.",
         "",
-        "From the quiet heartbeat, suddenly it feels like the world's opening up.",
-        "This is the theme of a last boss who's hard to tire out, probably.",
-        "It's overall fairly melodiously Japanese, and I tried to make the melody of the",
-        "main part like one of those songs where everyone's singing. Human, bare your feelings and GO!"
+        "Sike, you thought I'd put Shinki here.",
+        "Well, maybe you didn't.",
+        "Either way, dream Byakuren was pretty fun to write, since she was",
+        "already a crazy one in AoCF."
     ],
     "14": [
         "@",
@@ -154,19 +154,19 @@
         "　",
         "This is the ending theme.",
         "",
-        "Usually the ending is for a Shinto shrine, but this time it's for a Buddhist temple.",
+        "Yet another one comes to a close.",
         "",
-        "Temples have a much darker image than shrines.",
-        "Well, calling it \"dark\" is kind of rude. I meant \"boring\" (just kidding)"
+        "This was a very interesting game to do honestly.",
+        "I hope it was interesting to play too."
     ],
     "17": [
         "@",
         "　",
         "This is the staff roll theme.",
         "",
-        "It ended up being an arrangement of Emotional Skyscraper.",
+        "You know, overall...",
         "",
-        "This song has the feel of the quiet trip home after a journey.",
-        "Oh, look up there~, there's a UFO in the night sky."
+        "This was the last game I'm doing for this year.",
+        "Hopefully I'll finish Dream Rebellion next year."
     ]
 }
