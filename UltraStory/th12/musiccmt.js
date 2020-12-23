@@ -133,21 +133,21 @@
         "@",
         "　",
         "This is the extra stage theme.",
-        "",
-        "Aren't UFOs cute?",
-        "The extra is much different than the main stages, and this song is a cute send-off.",
-        "I went for a pop feel for this song.",
-        "UFOs are kind of pop-ish, after all."
+        "Actual Theme: Ridicule Rondo ~ Sneer of Woods",
+        "I may have gone a bit overboard with the resources this time.",
+        "But at the same time, this proves that the gem shards can work for you...",
+        "That is, if their user has no ill intent against you.",
+        "Also, I tried to model this stage after MS stage 2."
     ],
     "15": [
         "@",
         "　",
-        "This is Nue Houjuu's theme.",
-        "",
-        "A vigorously youkai youkai song.",
-        "It's a song with an old-fashioned, Japanese sense of terror and sorrow floating about.",
-        "Isn't it really fitting for an EX boss?",
-        "The mostly one-shot recording full of ad-libbing is also pretty EX-ish."
+        "This is Shinki's theme.",
+        "Actual Theme: Laporte Commencement ~ Yggdrasil",
+        "Suprise, it's Shinki! I've actually thought long and hard about who to give",
+        "the spotlight for the extra stage, and Shinki fit the bill perfectly in the end.",
+        "It's also the first time we made original artwork for this series, so I was really",
+        "excited about that. I think she came out looking fantastic!"
     ],
     "16": [
         "@",
