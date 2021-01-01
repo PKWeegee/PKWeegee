@@ -7,5 +7,6 @@
 	"th095": "Touhou Dream Rebellion Episode 5.5 - Dreamful Chronicles",
 	"th10": "Touhou Dream Rebellion Episode 6 - Artificial Faith Machine",
 	"th11": "Touhou Dream Rebellion Episode 7 - Subterrestrial Inferno",
-	"th12": "Touhou Dream Rebellion Episode 8 - Elegant Moment of Remembrance"
+	"th12": "Touhou Dream Rebellion Episode 8 - Elegant Moment of Remembrance",
+	"th125": "Touhou Dream Rebellion Episode 8.5 - Eastern Dreamer Newspaper"
 }
