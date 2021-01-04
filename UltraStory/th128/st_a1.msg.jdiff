@@ -1,0 +1,87 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Woah!",
+                "What's going on here?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Everything's so...colorful!",
+                "Who did this...?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "What do you want here?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Are you here for that...?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "What's that?!",
+                "You are hiding something!"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Oh!",
+                "You haven't heard, then..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Then I wanna hear it now!",
+                "Tell me!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "And if you don't...",
+                "Prepare yourself!"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "...I guess that's ok.",
+                "I can use some training."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "But you don't look strong,",
+                "what a shame."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "When I get serious, you will regret it!",
+                "I'll freeze ya to death with my seriousness!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Hmph!",
+                "Where'd she go?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I should look elsewhere!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "I'm sure the other two are somewhere too,",
+                "and I think I know where!"
+            ]
+        }
+    }
+}
