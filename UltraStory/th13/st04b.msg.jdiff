@@ -1,0 +1,155 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Ooh, a hidden pathway..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "No choice but to go in!"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Welcome.",
+                "You found the hidden cave too?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Yeah, sure did.",
+                "Had to kill a zombie though."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "It seems you took care of my",
+                "cute underling just now..."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Oh right, you are the zombie mom."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Dont'cha think its time to let her rest?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Rest?",
+                "No, no, she's still good to go!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "You called?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Once you've become a corpse,",
+                "getting tired is no longer a concept for you."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Whuuuh, you again?",
+                "Isn't it night?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "...Sure is."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "A night owl!",
+                "Good girl, good girl!"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "Now, can you handle another round? ",
+                "With two immortal girls?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "Guess there's no choice."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Let's shoot the horse, then kill the general!",
+                "Prepare yourself!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How splendid.",
+                "You are sure about going further?"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I'm always sure."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Then it would be good to know",
+                "that we are here for a good reason."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Okay, then, tell me more."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Are you familiar with nature?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Ummm, whaddaya mean?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Could it be that you are",
+                "tryin' to destroy nature?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "If that's the case, I'll stop you",
+                "with no mercy."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Destroy?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Quite the opposite.",
+                "You'll see soon enough."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Hm?"
+            ]
+        }
+    }
+}

@@ -74,60 +74,60 @@
         "　",
         "The fourth stage theme.",
         "",
-        "I made it a flowing song to completely switch away from the first half of the game.",
-        "It feels nice to rush through a narrow space at high speed.",
-        "This is okay in caves, but don't run in halls in school or in the work office.",
-        "Caves are nice. (You shouldn't run in a limestone cavern, either.)"
+        "Not that much you can do with a cave that has lots of rocks.",
+        "So I decided to make it more sparkly.",
+        "Came out looking quite nice.",
+        "Could be a place to relax in, if it weren't for the bullets."
     ],
     "9": [
         "@",
         "　",
         "Seiga Kaku's theme.",
         "",
-        "She's a wicked hermit. Kind of like a magician that does a large assortment of tricks.",
-        "So, I aimed for a suspicious song where you never know what's going to fly out at you next.",
-        "Being able to pass through walls would be useful for running away,",
-        "but it's not too useful for fighting, is it? It'd be a critical hit to a nurikabe, though."
+        "Seiga, she only really serves as a gate guard.",
+        "There wasn't much I wanted to do with her, either.",
+        "I guess some people might be happy about that,",
+        "but what do I know?"
     ],
     "10": [
         "@",
         "　",
         "The fifth stage theme.",
         "",
-        "Since we just came barreling through a narrow cave, I decided to write a nice,",
-        "expansive song to contrast it.",
-        "It's so stimulating to find such enormous spaces underground, isn't it?",
-        "I wanted to compose something that'd make you feel that kind of excitement."
+        "This might be my new favourite stage background.",
+        "I just love how the cracks occasionally shine through.",
+        "To think that such a huge tree is below Gensokyo...",
+        "Makes you wonder what else might be down there."
     ],
     "11": [
         "@",
         "　",
         "Mononobe no Futo's theme.",
         "",
-        "Since it's Ms. Mononobe, the title is pronounced \"Oomiwa Shinwaden.\"",
-        "I get the feeling there aren't many games that are themed around the time between the",
-        "Tumulus periods and Asuka periods. Maybe people just can't picture an image of them?",
-        "This song was written with only the sound of Asuka in mind. Asukaaaaa!"
+        "God, Futo's dialouge was sooooo hard.",
+        "The way she talks is just so weird and hard to get right.",
+        "In the end, I just kinda winged it,",
+        "and I guess it worked."
     ],
     "12": [
         "@",
         "　",
         "The sixth stage theme.",
         "",
-        "You're usually pretty exhausted by the time you reach stage 6, so this song's just a connector.",
+        "Once again, I managed to make something quite pretty, I think.",
         "",
-        "It's not really clear where this is, but it's probably inside the",
-        "Hall of Dreams' Great Mausoleum. That mystery space."
+        "I only learned how this stage background was built, once I started",
+        "messing around with the graphic for it, and I was suprised."
     ],
     "13": [
         "@",
         "　",
         "Toyosatomimi no Miko's theme.",
         "",
-        "The motif's based on a historical figure everyone knows.",
-        "I figured it'd be rude if it wasn't a powerful, cool song, so it turned out like this.",
-        "He's suddenly been made into a fictional character recently, so I used the opportunity",
-        "to move him to Gensokyo. Many thanks~"
+        "Religious leaders are kinda very much lunatics.",
+        "And well, Miko isn't any different, with her dream dweller.",
+        "Even if the message is a good one,",
+        "they always go to way to great extremes."
     ],
     "14": [
         "@",
@@ -154,19 +154,19 @@
         "　",
         "The ending theme.",
         "",
-        "It's a liiiiiiiight ending.",
+        "It's another end in sight.",
         "",
         "",
-        "You know, Reimu and company haven't been doing much incident solving lately."
+        "Still have extra to do though."
     ],
     "17": [
         "@",
         "　",
         "The staff roll theme.",
         "",
-        "This is a different version of \"Desire Drive.\"",
-        "The sense of speed has mostly been lost, but maybe it has a floating feeling now instead.",
+        "This was incredibly fun, even though I started with no concepts.",
+        "It all just kinda came to me, and it all clicked perfectly.",
         "",
-        "Lately I've been wondering if there's a real point to the staff roll."
+        "From here on, I have a very clear plan."
     ]
 }
