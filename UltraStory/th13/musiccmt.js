@@ -133,21 +133,21 @@
         "@",
         "　",
         "The extra stage theme.",
-        "",
-        "You never know what kind of retro youkai might pop onto the road with this song.",
-        "Youkai always seem to have such fun no matter the circumstances.",
-        "That's probably because they're enlightened by knowing exactly what their purpose in life is.",
-        "In that case, there's one way to be sure to enjoy life. Accept whatever you've got now."
+        "Actual Theme: Divine Spirit's Evening Bell Road",
+        "I actually had to nerf the bossfight in two spells, because it just crashed.",
+        "The animal bullets are enemies, so it totally overloads the game.",
+        "Other than that, it all works fine, and the music fits.",
+        ""
     ],
     "15": [
         "@",
         "　",
-        "Mamizou Futatsuiwa's theme.",
-        "",
-        "It's full of that old tanuki feeling.",
-        "Both foxes and tanuki are seen as tricksters, but of the two, tanuki seem more laid-back, right?",
-        "So, they're probably not well suited toward danmaku battles, but",
-        "as expected, the danmaku morphed into something else and..."
+        "Kasen Ibaraki's theme.",
+        "Actual Theme: Rumble Temple",
+        "Kasen was the After Extra boss, in another fanmade video.",
+        "Which is why I gave her the spotlight this time.",
+        "She's a fun character, and actually on your side.",
+        "But onis do live to fight..."
     ],
     "16": [
         "@",

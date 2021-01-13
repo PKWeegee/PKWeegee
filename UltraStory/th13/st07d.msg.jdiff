@@ -1,0 +1,261 @@
+{
+    "2": {
+        "34_0": {
+            "lines": [
+                "Ahhh, how nice to see you here!",
+                "It's quite a chaotic time right now."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I was just about to go back home."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "But I can grant you a few duels!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Someone's there...",
+                "Show yourself."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Hello, there!"
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "What might you be?",
+                "A half-ghost?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Ummm, well, I'm here to resolve the incident..."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Hm, alright."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "But don't think you'll get much more",
+                "glory after this."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "The dream realm won't accept you."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Oh, I'm good."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Oh, that's suprising.",
+                "You seem like a lazy ghost."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Why are you even here then?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I'm half-human, half-phantom.",
+                "And I'm just here to find a shard..."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Hm, I believe I can help with that."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "But I won't give it to someone",
+                "who can't prove their power."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Ah, thank you."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "If you aren't up to speed,",
+                "be sure to send Reimu my way."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Don't expect to make it through these times",
+                "alive with such a calm mindset!"
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "Us dreamers are dangerous,",
+                "so you need to be prepared!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "*cough*, *cough*"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Uh, hmm, I suppose that'll do."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "You are strong enough.",
+                "Be sure to bring this safely to Reimu!"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Oh, alright."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Still, if you have that much strength,",
+                "why don't you want to fight?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "It's a work obligation, really."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Mostly Lady Yuyuko just tells me what to do."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Oh, really?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Ah, before I forget,",
+                "I have to tell you one more thing."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Hm?",
+                "A message to relay?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Yes, they won't be able to enter the dream realm,",
+                "even with all the shards..."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Hm? What's stopping them now?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "They need someone with permission."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "|\tThey will find them \t,\tvery soon\t,next Incident",
+                "They will find them very soon I think..."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "They need to gain her help."
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Alright,",
+                "I'll let them know."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Do you know what kind of Incident will happen?",
+                "Anything at all?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Ho! Ho! Ho!",
+                "I wish I could tell you."
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "But sadly, I told you all I know."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Oh, nevermind, then."
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "We are getting close to the finale..."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "So be prepared,",
+                "and watch out that you don't get hit with crossfire."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "Congratulations!",
+                "You have cleared the Extra Stage!"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "By the way, if you clear the game holding 3 or more bombs",
+                "using a character that has already obtained the good ending"
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "you'll be able to see a different ending from usual.",
+                "(Only limited to 1cc's and for Normal difficulty or higher)"
+            ]
+        }
+    }
+}

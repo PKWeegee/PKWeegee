@@ -1,0 +1,232 @@
+{
+    "2": {
+        "34_0": {
+            "lines": [
+                "Ahhh, how nice to see you here!",
+                "It's quite a chaotic time right now."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I was just about to go back home."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "But I can grant you a few duels!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Will I find a real mastermind now?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I wonder if it's a dream dweller?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Hey, I'm not like those others."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Who might you be?",
+                "The Moriya shrine maiden?"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "Yes, that's me.",
+                "And I have a name. It's Sanae, thank you."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Oh, my sincerest apologies.",
+                "I don't remember you, so..."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Are you the mastermind",
+                "behind this whole incident?"
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "I wouln't say that.",
+                "I'm just barely involved, if anything."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "I'm here to give this last shard to the",
+                "important players of \"her\" game."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "You don't look like one of them."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "Huh, are you kidding?",
+                "You mean I won't be in the final fight?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I'm always doing a good job,",
+                "so why can't I join?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "My, aren't you an odd one?",
+                "Well, it's not my choice."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "But I can give you a fight, if you want one."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "I was just thinking the same thing,",
+                "Ms. Kasen."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Ho! Ho! Ho!",
+                "Be sure to bring Reimu if you can't handle me."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "This grand hermit will offer you a fight!",
+                "Shall we begin?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "*cough*, *cough*"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "So that's what you are capaable of?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Yes, and I can do even more."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I must say, you are quite strong."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I am, right?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "But still, you won't be able",
+                "to infiltrate the dream realm."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "So do me a favor and deliver this shard to Reimu.",
+                "Oh, and tell her this..."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "They will need a special person to enter,",
+                "so they'll need to get her on their side..."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "......"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Ummm...",
+                "Is that all I can do?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Oh, are you dissapointed?",
+                "I'm sure you will get your spotlight again."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "I sure hope so,",
+                "I don't like sitting out."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "But sometimes Lady Kanako tells me to!"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "It does annoy me,",
+                "but I can't really disobey her."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "So I'll cheer from the sidelines!"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Uh, well, in that case..."
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Cheer them on.",
+                "And deliver my message."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Congratulations!",
+                "You have cleared the Extra Stage!"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "By the way, if you clear the game holding 3 or more bombs",
+                "using a character that has already obtained the good ending"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "you'll be able to see a different ending from usual.",
+                "(Only limited to 1cc's and for Normal difficulty or higher)"
+            ]
+        }
+    }
+}
