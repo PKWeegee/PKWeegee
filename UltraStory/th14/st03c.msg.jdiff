@@ -1,0 +1,115 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "You've come to exterminate us, yes?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Ah, well, if you say so..."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "But do you want to, I wonder?"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Yeah.",
+                "Probably."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "If you are in my way,",
+                "I'll just burn ya away."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Huh? What?"
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "Like, you won't step aside,",
+                "so what choice do I have?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Hoho...",
+                "I was just trying to talk to you!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "But you'll regret fighting me",
+                "in this place cursed by an inverted moon!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "How pointless, huh..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "What was the point of that?"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Huh?",
+                "I wanted to tell you a lead..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Eh?",
+                "Whaddaya mean?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Yes, well...",
+                "There's this giant tornado..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Eh? Why didn't I see that?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Eh, whatever."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "I'll still take care of it."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Please be quick..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I'm always quick!"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Or at least I say that...",
+                "Well... probably?"
+            ]
+        }
+    }
+}

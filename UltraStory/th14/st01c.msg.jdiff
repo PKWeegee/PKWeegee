@@ -1,0 +1,62 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What the heck?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Magician!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "Do you know of the impending doom?"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hm?",
+                "Sure, if ya say so."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Are ya serious though?",
+                "I dunno..."
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Alright! I'll beat you and",
+                "show you that I'm serious!"
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Soon enough, we youkai",
+                "will have to prove ourselves!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Yep, she was bluffing.",
+                "No big deal at all."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "But what if...",
+                "She wasn't..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, no, never mind that."
+            ]
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "0": {
+        "64_0": {
+            "lines": [
+                "You've come to exterminate us, yes?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Ah, well, if you say so..."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "But do you want to, I wonder?"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "What's your deal?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Are ya trickin' me?"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Hoho... That's the last thing I would want..."
+            ]
+        },
+        "112_0": {
+            "lines": [
+                "What are you talking about?"
+            ]
+        },
+        "120_0": {
+            "lines": [
+                "Ah!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Are you related to the incident?",
+                "Feels like that can't be good."
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "Not at all."
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "But you are already preparing a spellcard,",
+                "this is really unfortunate."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "So, uh..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "I guess you weren't involved,",
+                "afterall."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "But that makes me wonder,",
+                "why are ya here?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Well...",
+                "Don't you see this tornado?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Wha-?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "I think that's",
+                "where the inversion comes from."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Although I could be wrong."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Hmm, I see. Like I thought,",
+                "it's gonna be a long day, hm?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Into a tornado... ",
+                "Upside down..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "What are you talking about...?",
+                "Are you sure you're not crazy?"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Well, either way...",
+                "Shouln't you be on your way?"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I'm not sure how long it will take,",
+                "until the inversion is complete."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "Mhm. Good idea."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "I see...",
+                "This should be where the mastermind is."
+            ]
+        }
+    }
+}

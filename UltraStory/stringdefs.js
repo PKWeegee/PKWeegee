@@ -10,5 +10,6 @@
 	"th12": "Touhou Dream Rebellion Episode 8 - Elegant Moment of Remembrance",
 	"th125": "Touhou Dream Rebellion Episode 8.5 - Eastern Dreamer Newspaper",
 	"th128": "Touhou Dream Rebellion Episode 8.9 - Fantastical Shard War",
-	"th13": "Touhou Dream Rebellion Episode 9 - Essence of Nature"
+	"th13": "Touhou Dream Rebellion Episode 9 - Essence of Nature",
+	"th14": "Touhou Dream Rebellion Episode 10 - Inverted Wonderland"
 }
