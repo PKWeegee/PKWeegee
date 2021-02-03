@@ -74,60 +74,60 @@
         "　",
         "The stage 4 theme.",
         "",
-        "It's not quite \"eerie,\" and not quite \"bright.\"",
-        "It gives more of a feeling of \"floatiness.\"",
-        "Even though it's a storm, you float around calmly...",
-        "As the word implies, it gives a feeling of your feet not being on the ground."
+        "Inverting the tornado's colors didn't have that big of an effect.",
+        "It's different, but not that noticeable.",
+        "I guess that's fitting though...",
+        ""
     ],
     "9": [
         "@",
         "　",
         "Benben Tsukumo's & Yatsuhashi Tsukumo's theme.",
-        "I had wanted to make it a more clichéd kind of traditional Japanese song,",
-        "but if you let the songs be too artsy, the atmosphere of the game is ruined.",
-        "So I resisted.",
-        "Though I did make it sort of like that, but I didn't have a sample for a biwa,",
-        "so I'm a bit depressed about that."
+        "The last characters in this game that don't have that much",
+        "story importance.",
+        "From now on, things will get very spicy.",
+        "",
+        ""
     ],
     "10": [
         "@",
         "　",
         "The stage 5 theme.",
         "",
-        "I made it a song with no real meaning besides giving a lonely feeling.",
-        "",
-        "It has a lonely melody, but a light-hearted rhythm.",
-        "I feel like when this sort of song starts playing, you've entered the final part of the game."
+        "Staying in this castle for too long might hurt",
+        "your head.",
+        "It's a strange feeling, when you die,",
+        "you return to the roots for just a second."
     ],
     "11": [
         "@",
         "　",
         "Seija Kijin's theme.",
         "",
-        "I wrote this while thinking of the image of a little, lazy youkai.",
-        "The result is pretty mischievous... well, the mood's pretty boss-like, so I'm happy.",
-        "This is a little boss that would take the initiative in disliking others.",
-        "Even so, she's the villain this round."
+        "Seija has been a bit of a mystery after ISC,",
+        "and still, only her dream dweller has been seen.",
+        "So in a sense, it's still unkown",
+        "where she is."
     ],
     "12": [
         "@",
         "　",
         "The stage 6 theme.",
         "",
-        "This song feels like you're being rushed.",
-        "Together with the last boss after this and the ending themes,",
-        "there are 3 songs with the same melody.",
-        "Since I tried doing that this time around, it gives them all a sense of togetherness."
+        "It's more of the same, visually.",
+        "I guess it makes sense, it's still the same castle.",
+        "The song isn't that eventful either.",
+        "At least it's thematically fitting."
     ],
     "13": [
         "@",
         "　",
         "Shinmyoumaru Sukuna's theme.",
         "",
-        "I made it a cool song fit for a small body.",
-        "It's not very heavy, but since it's a last boss, I gave it a",
-        "nice expansion, and I think it feels good as a result.",
-        "Huh? She's not small? Well, then please beat the game."
+        "In AoCF she switched places with her awake side.",
+        "I wanted to implement that plot-point somehow.",
+        "I wonder what the awake Shimmy is doing right now...",
+        ""
     ],
     "14": [
         "@",
@@ -154,18 +154,18 @@
         "　",
         "The ending theme.",
         "",
-        "I tried adding in parts of the last boss theme to the end.",
+        "Certainly the most interesting game so far, artistically.",
         "",
-        "Doesn't it give a different impression for each ending?"
+        "But what else is in store for us?"
     ],
     "17": [
         "@",
         "　",
         "The staff roll theme.",
         "",
-        "A different version of the title song.",
-        "To be honest, I was thinking it wouldn't be",
-        "the title, but a song for the ending.",
-        "If you look closely, the credits and the song match up perfectly."
+        "And here we are, once again.",
+        "We are getting closer and closer",
+        "to the meatiest parts of my story.",
+        "I'm really excited."
     ]
 }
