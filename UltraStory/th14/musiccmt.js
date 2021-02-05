@@ -133,21 +133,21 @@
         "@",
         "　",
         "The extra stage theme.",
-        "",
-        "A straightforward, free-flowing theme for traveling.",
-        "",
-        "Actually, a very Touhou-ish \"essence\" is scattered here and there,",
-        "but there's no deep meaning to it."
+        "Actual Theme: Cave of Contrition ~ Regret and Confession",
+        "Balancing this stage was weird. The last spell especially caused",
+        "some issues, until I decided to cut the HP in half.",
+        "Also, I know the boss looks tall, but that's cus I had to put her",
+        "face high. She's actually roughly Reimu's height."
     ],
     "15": [
         "@",
         "　",
-        "Raiko Horikawa's theme.",
-        "I wanted to make the song feature drums prominently, but",
-        "in the end I just didn't have the courage. In terms of the game's image.",
-        "The drums play a main part in a little bit of the song.",
-        "On a side note, her shoes are probably structured so she can tap her feet",
-        "to hit the bass drum."
+        "Kusanagi no Kusachi's theme.",
+        "Actual Theme: Beacon of Treason ~ Revolutionary War",
+        "Yes, an original character! I'm really happy with how it all came",
+        "together! She looks fantastic, fits right in, and the animations work",
+        "so well! Aah, I'm sorry, I just really love it all!",
+        "And I hope you do as well ^^."
     ],
     "16": [
         "@",
