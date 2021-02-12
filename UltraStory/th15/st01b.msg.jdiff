@@ -1,0 +1,75 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "The small fry's bein' oddly",
+                "orderly this time. Like an army."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Halt!",
+                "You won't get any further!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "<i$This is Seiran.>",
+                "<i$They are advancing towards the portal.>"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "<i$Now engaging killing mode.>"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "What's up with you?",
+                "Why do ya think that you are a hotshot?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "It doesn't matter."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Gensokyo will become our new home!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Man,",
+                "this was really bad luck..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I guess I can't stop you",
+                "from advancing further now."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Another dream dweller...Hey, say,",
+                "are there any others around here?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "That's right.",
+                "One more will await you at the portal."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hmm, this sure is troublesome.",
+                "Ah well, nothin' I can't handle."
+            ]
+        }
+    }
+}

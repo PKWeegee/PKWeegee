@@ -1,0 +1,109 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Yep, there's the portal.",
+                "Time to jump in."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "...is what I would be sayin',",
+                "but I know you are waiting to ambush me."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I've been waiting for you!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "I heard about you from Seiran.",
+                "I'll not let you enter the portal..."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Yer' a dream dweller too, yea?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "Looks like you'll be my last",
+                "obstacle before I can let loose in the dream realm."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "Guess so.",
+                "We won't let our struggle end."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "We will do as much as we can."
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Well, whatever.",
+                "Talking won't help us."
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "Awake beings, whose sins are endless,",
+                "are not allowed to find peace."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "It's over...?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Woah, I remembered you totally differently.",
+                "But I won, that's the important thing."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Will you go in now?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Huh?",
+                "Of course."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "We know our fun times will be up soon,",
+                "but still..."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "You knew...woah."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "If you're that strong,",
+                "there's no reason to resist."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "To the crazed Dream Land,",
+                "|\t\t,\tthe Dream Realm\t,Final Grave",
+                "the Dream Realm."
+            ]
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I really shouln't be bothering",
+                "with any of the small fry..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Commencing",
+                "immediate attack!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "<i$This is Seiran.>",
+                "<i$They are approaching the portal.>"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "<i$Now engaging in killing mode.>"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "Hm.",
+                "Wait, are you a dream dweller?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "We will not let you go any further."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "The awake world will be our new home soon!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Man,",
+                "why are you so dang strong?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Now there's nothing stopping you",
+                "from advancing to the portal!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "A dream dweller...",
+                "I'm guessing you aren't alone?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You know about her?",
+                "My friend at the portal?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Wait...ah, drat.",
+                "I guess you know now."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I see, I see. That should make things easier,",
+                "if I can prepare in advance. I hope..."
+            ]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "What the...?",
+                "Are they doing something fruitless again?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "No matter who you are,",
+                "I'll shoot!"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "<i$This is Seiran.>",
+                "<i$They are trying to advance towards the portal.>"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "<i$Now engaging in killing mode.>"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Kill me?",
+                "Good luck."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Too bad for you,",
+                "filthy awake being."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "|\t\t,\tThe awake world\t,This place",
+                "The awake world is about",
+                "to become our new home land!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Ghhh...",
+                "How can you be so strong?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Wait, I thought Doremy",
+                "captured all the dream dwellers?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Trying to barricade the portal...",
+                "I have a really bad feeling about this."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Are there any others on the way?!",
+                "Tell me now!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Please, spare me!",
+                "There's one more dream dweller here!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "She's right at the portal,",
+                "but she will surely kill you!"
+            ]
+        }
+    }
+}

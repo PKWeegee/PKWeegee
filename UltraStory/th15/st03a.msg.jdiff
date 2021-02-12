@@ -1,0 +1,132 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "This place is a mess..."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Who's there?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Are you Gensokyo's shrine maiden?"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Why are you here?",
+                "...Wait."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Are you finally putting a stop to this?!",
+                "Am I finally free?!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Uh...",
+                "Are you alright?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "No, not at all!",
+                "I'm so overworked..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...ever since I had to fill the gap left by Doremy."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Wait, what?",
+                "So Doremy...that's why she stayed at my shrine."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "At your shrine...",
+                "Aha. I see."
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "So you are in cahoots with her!",
+                "Then I have no choice!"
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "I know you are busy.",
+                "But I need some stress relief."
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "I've done my best to keep things",
+                "as stable as possible here."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "As someone who controls the deep dream realm,",
+                "this is a bit out of my comfort zone."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Can you lead me deeper then?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I most certainly can.",
+                "But I won't."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Gensokyo has had its fair share of troubles, yes?",
+                "The dream realm is no different."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Some dream dweller, struck by",
+                "madness is heading towards something important."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "She's threatening to destroy the very",
+                "fabric of dreams itself."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Take care of her first,",
+                "then I'll let you into the deep dreams."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "...I don't really get it, but..."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "...If that's what it takes,",
+                "who am I to disagree?"
+            ]
+        }
+    }
+}

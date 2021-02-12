@@ -1,0 +1,74 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "I'm finally ready to return."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Halt!"
+            ]
+        },
+        "144_0": {
+            "lines": [
+                "The dream baku!",
+                "You aren't wanted anymore!"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "Hm? Did I miss a dream dweller?"
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You will never catch us all.",
+                "So why even bother?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "The awake world will be our new home,",
+                "and there's nothing you can do about it!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Huh?",
+                "Why did I lose?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Is there any other stragglers",
+                "out there?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "It won't matter...",
+                "I'm only interested in the portal right now."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<i$Ringo, Ringo!>",
+                "<i$She's heading for the portal!>"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ah, another one is at the portal,",
+                "I see."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Shouln't be too bad though."
+            ]
+        }
+    }
+}

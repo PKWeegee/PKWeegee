@@ -12,5 +12,6 @@
 	"th128": "Touhou Dream Rebellion Episode 8.9 - Fantastical Shard War",
 	"th13": "Touhou Dream Rebellion Episode 9 - Essence of Nature",
 	"th14": "Touhou Dream Rebellion Episode 10 - Inverted Wonderland",
-	"th143": "Touhou Dream Rebellion Episode 10.5 - Doremy's Dreamer Detainment"
+	"th143": "Touhou Dream Rebellion Episode 10.5 - Doremy's Dreamer Detainment",
+	"th15": "Touhou Dream Rebellion Episode 11 - Forbidden Genesis of Dreams"
 }
