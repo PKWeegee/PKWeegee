@@ -63,71 +63,71 @@
         "　",
         "Lucy Dream's theme.",
         "Actual Theme: Empress of Light ~ Lustrous Butterfly",
-        "It gives off a strong sense of foreboding.",
-        "I wrote this with thoughts of \"I want you to be wary from here on out,\"",
-        "\"I want you to have a nightmare,\" and so on.",
+        "Introducing Lucy Dream, our second original character!",
+        "She's designed to give off the comforting vibe of a bed,",
+        "making you feel safe and ready to sleep.",
         "",
-        "Even if you have a nightmare, it'll be fine if you pray to change it. Pray to Doremy."
+        "Yet she's anything but comfy right now."
     ],
     "8": [
         "@",
         "",
         "The fourth stage theme.",
         "",
-        "It's the Lunar Capital. For a particular reason, however, it's now a ghost town.",
-        "It's a song with a calm atmosphere, but on the contrary, it evokes an image of madness.",
+        "The elusive dream village.",
+        "You may think that it's a ghost town, and you might be right.",
         "",
-        "It's music more befitting the endgame of an RPG than a shooting game. Well, it is the endgame."
+        "But one dreamer has remained here."
     ],
     "9": [
         "@",
         "　",
         "Kishin Sagume's theme.",
         "",
-        "A theme song for a mysterious person who's not quite an enemy or an ally, a god or an oni.",
-        "Hence, I composed it with a rather mysterious mood.",
+        "Sagume is the only dream dweller who stayed behind.",
+        "I think it's fitting, with her shut-in attitude.",
         "",
-        "Actually, she's a type of amanojaku too so that makes her the second one."
+        "But she's still willing to help you out, if needed."
     ],
     "10": [
         "@",
         "　",
         "The fifth stage theme.",
         "",
-        "Some minor variations to the mood make this a fast-paced, romantic tune.",
-        "It's a stage where you can move forward (and rack up a huge score) at a good pace.",
-        "Feels real nice.",
-        "I hope you feel a sense of flight, and the resolve to travel far."
+        "I'm not completely satisfied with the stage background.",
+        "But if I had to choose between this and weird cutoffs, I chose this.",
+        "Oh well, do be like that.",
+        ""
     ],
     "11": [
         "@",
         "　",
         "Clownpiece's theme.",
         "",
-        "She's the most crazy-strong fairy seen yet. Although she's pretty ordinary in the head.",
-        "Having made it gothic, Japanese, and spacey at the same time, this is a pretty odd song.",
-        "The fear of clowns is pretty widespread these days.",
-        "But this fairy clown isn't all that scary... right?"
+        "I dreaded this moment. I do not like Clownpiece, one bit.",
+        "But I still tried to do her justice, somehow.",
+        "A sort of redemption, if you will.",
+        "Do I like her more now? No."
     ],
     "12": [
         "@",
         "　",
         "The sixth stage theme.",
         "",
-        "It's the seaaa. It's summeeerr.",
-        "",
-        "This song is a subset of the final boss' theme.",
-        "I want to go to the seaaa. I want to drink beer in a beach huuut."
+        "I always love giving stages a visual \"wow\" factor.",
+        "And this might be my favourite one yet.",
+        "The Lucid Tree came out looking absolutely marvelous.",
+        "Just, stunning."
     ],
     "13": [
         "@",
         "　",
         "Junko's theme.",
         "",
-        "I think this song says, \"now this is unmistakably the final boss!\"",
-        "I did not try to make it too complicated, or to add cool parts, or just overthink it in general.",
+        "The destroyer of the Lucid Tree, who else, but crazy pure mom.",
+        "Junko is just insane, honestly.",
         "",
-        "I hope you can enjoy her danmaku simply and purely."
+        "But we wouln't want her any other way."
     ],
     "14": [
         "@",
@@ -154,18 +154,18 @@
         "　",
         "The ending theme.",
         "",
-        "Well, it's the usual theme.",
+        "Well, another one done.",
         "",
-        "Because I usually write songs that are always upbeat,",
-        "I feel like novel game music and such must be a real challenge."
+        "I'm getting a bit sad now,",
+        "since it's over soon."
     ],
     "17": [
         "@",
         "　",
         "The staff roll theme.",
         "",
-        "It's an alternate version of the title screen song.",
+        "Thank you all so much for the increasing support.",
         "",
-        "I gave it an even spacier mood than before."
+        "Especially the love for our own characters <3"
     ]
 }
