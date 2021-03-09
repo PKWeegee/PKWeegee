@@ -133,21 +133,21 @@
         "@",
         "　",
         "The Extra Stage theme.",
-        "",
-        "First the eerie intro, then it flows into the simple and usual Touhou style.",
-        "It really does have that Extra feel.",
-        "Nonetheless, is Doremy your foe this time?",
-        "Or is she your friend?"
+        "Actual Theme: Dream Neil Express",
+        "I commited a grave sin, and made the last spell bombable.",
+        "Felt like it would've been too stupid to clear otherwise.",
+        "I hope that's not too big of an issue?",
+        "Either way, enjoy!"
     ],
     "15": [
         "@",
         "　",
-        "Hecatia Lapislazuli's theme.",
-        "",
-        "This is quite a demonic piece of music.",
-        "I actually thought about making a metal song, but I'm not well-versed in that area",
-        "and it felt like it wouldn't fit the setting, so I made it like this in the end.",
-        "My thought process was Hell -> Shinigami -> Death -> Death Metal. Pretty poor idea."
+        "Chang'e's theme.",
+        "Actual Theme: Guilt of Impurities ~ Sin of Immortality",
+        "She was an obvious choice for this game, I'd say.",
+        "I like to imagine that Junko just shoves into the fight to attack her.",
+        "Kind of like a little nuisance.",
+        "Also, I'm really happy with the theme I chose for this, it sounds awesome!"
     ],
     "16": [
         "@",
