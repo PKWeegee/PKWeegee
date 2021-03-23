@@ -1,0 +1,95 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Finally...we are here."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It's probably for the better to stay low for now."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Intruder detected!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "A-aah, the shrine maiden of all people!",
+                "Oh this is bad, super duper bad!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Well, I've got the protection of the gem!",
+                "No need to be scared! Let's fight!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "What are you? A fairy? You don't feel like a dream dweller.",
+                "Are you some kind of drone? You better not alert anyone!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "But that gem...another shard?",
+                "How could that be?"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "That's classified information!",
+                "For intruding in the deep dream realm, you will be chased right out!"
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Power of the Lucid Gem,",
+                "show this intruder what she is messing with!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "P-please, have mercy."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The Lucid Gem again...What's going on here?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "O-oh dear, did I accidentally say it?",
+                "Ohhh...I'll be put through the wringer for sure..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I uh...I need to head back!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Don't dare to head towards that citadel in the distance.",
+                "Oh...wait...crud! Did it again!!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Hmmm..."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "It seems she buffed up everyone here...",
+                "Good thing Doremy gave us some dream powers as well."
+            ]
+        }
+    }
+}

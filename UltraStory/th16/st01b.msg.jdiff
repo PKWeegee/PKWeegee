@@ -1,0 +1,80 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Oh wow!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "This is incredible! Almost like a dream!"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Well actually...",
+                "it is a dream."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Oh my, an ice fairy! Wait, it's her!",
+                "The fairy of legend my lady talked about!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Heck yeah I am! My legends spread far and wide it seems!",
+                "Even the dreams have heard of my power!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Eh, did you alread lose your mind in this place?",
+                "Oh well...I guess there's no harm in this..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Ice Powerr!!            Dream Powerrr!!!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "I win!",
+                "This place belongs to me now!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "How...?",
+                "I can't let her get to my lady...!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Hey, where's this lady",
+                "of yours? I wanna meet her!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Come on, tell me, tell me!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Sure...",
+                "Head towards that weird murky forest on the horizon!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Sure thing, right away!",
+                "*proceeds to go the completely opposite way*"
+            ]
+        }
+    }
+}

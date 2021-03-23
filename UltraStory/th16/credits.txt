@@ -1,0 +1,10 @@
+title: TCL Opening Theme - Jewel Box of Festivals Eve
+
+st1:TCL Stage 1 Theme Heavenly Stars River Crossing
+boss1: TCL San's Theme: The Spirit Butterfly Dances in Midair
+
+st2:TCL Stage 2 Theme Illusionary Light Town
+boss2: TCL Seki's Theme: Explosive Ice World Stone ~ Oxygen Conversion
+
+st3:TCL Stage 3 Theme Stage 3 Theme Deep Aquamarine
+boss3:TCL TCL Himeka's Theme: Taisui Xingjun
