@@ -1,0 +1,480 @@
+{
+    "2": {
+        "184_0": {
+            "lines": [
+                "You're awake so soon!?"
+            ]
+        },
+        "308_0": {
+            "lines": [
+                "It's good that you are back so quickly.",
+                "She has regained her own mind!"
+            ]
+        },
+        "432_0": {
+            "lines": [
+                "We have to keep a promise though!"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "Where are you?!"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Don't worry...",
+                "I'm here..."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "I'm glad you are unharmed.",
+                "I feel like I should apologize."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "But at the same time, I need to thank you,",
+                "for severing the connection to the gem temporarily."
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Blaming it on the gem,",
+                "are you?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "What?",
+                "You don't trust me, huh..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I suppose I can see why..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "I let the Lucid Gem sap away at my sanity,",
+                "to the point where I wasn't myself anymore, and now..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "I was so foolish, as to take this other power again,",
+                "just so I could stand up to it's madness."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "Other power?",
+                "What kind of power is that?"
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "It's hard to explain...",
+                "And we don't have the time..."
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Soon the gem will take over again,",
+                "so before that happens...end me, I beg you."
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "What...",
+                "What is it you are planning?"
+            ]
+        },
+        "236_0": {
+            "lines": [
+                "I don't condone your incident one bit,",
+                "but...I also cannot see your own destruction as a happy ending."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "As the Shrine Maiden of Paradise,",
+                "I protect everyone..."
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Even if they cause incidents.",
+                "There's good in everyone, I fully believe that!"
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "You..."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "There's sadly no chance for me to be redeemed or saved.",
+                "I am willing to accept death with open arms..."
+            ]
+        },
+        "276_0": {
+            "lines": [
+                "Hahaha."
+            ]
+        },
+        "284_0": {
+            "lines": [
+                "Huh!?",
+                "What's the matter with you?"
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "You forget who I am.",
+                "A shrine maiden always saves a victim!"
+            ]
+        },
+        "300_0": {
+            "lines": [
+                "W-what!?"
+            ]
+        },
+        "308_0": {
+            "lines": [
+                "I've come to the conclusion..."
+            ]
+        },
+        "316_0": {
+            "lines": [
+                "That the true culprit is that gem on your neck!",
+                "A parasite, feasting on your and everyone's dreams!"
+            ]
+        },
+        "324_0": {
+            "lines": [
+                "By destroying it,",
+                "everything will return to normal!"
+            ]
+        },
+        "332_0": {
+            "lines": [
+                "You can't destroy it!"
+            ]
+        },
+        "340_0": {
+            "lines": [
+                "Shattering the Lucid Gem...",
+                "No one would be able to dream anymore!"
+            ]
+        },
+        "348_0": {
+            "lines": [
+                "I suppose...even if it has hurt me so much...",
+                "I need to protect it from destruction..."
+            ]
+        },
+        "356_0": {
+            "lines": [
+                "Even if I die in the process...",
+                "saving everyone's dreams...that's what I wish for in the end."
+            ]
+        },
+        "364_0": {
+            "lines": [
+                "According to the spellcard rules, set in place by the Sages,",
+                "no deaths are allowed to take place during a duel!"
+            ]
+        },
+        "372_0": {
+            "lines": [
+                "That rule...allow us to break it tonight."
+            ]
+        },
+        "380_0": {
+            "lines": [
+                "Reimu Hakurei, Shrine Maiden of the Hakurei Shrine",
+                "and guard of the Hakurei Border,"
+            ]
+        },
+        "388_0": {
+            "lines": [
+                "Today...on this dreamful night..."
+            ]
+        },
+        "396_0": {
+            "lines": [
+                "I shall stake my life,",
+                "for the sake of everyone, who has stood behind me,"
+            ]
+        },
+        "404_0": {
+            "lines": [
+                "In this long and winding war! My fellow Dream Dweller friends,",
+                "I am fighting this battle, for your eternal dreams!"
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "Lend me your dreams, and together,",
+                "this night shall be my last!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "What happened?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "It's...over!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I-i...I'm still...",
+                "alive...!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I told you."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "No one dies on my watch!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Is this...the end of the rebellion?"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Ohhh...",
+                "I can't believe I've done all this..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "All this damage I caused.",
+                "What to do..."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Come back to Gensokyo,",
+                "with us."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Let's talk it over with a cup of tea."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "Would...would that be alright?",
+                "I'm an outsider afterall."
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "One who threatened the balance of dreams.",
+                "That's pretty...severe."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "At the very least, I can applaud you,",
+                "because this was the longest incident ever."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "And your tactical skills",
+                "were nothing to sneeze at either."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "I've been doing my research very diligently!"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "By the way..."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "If you take me to your shrine,",
+                "let me take my friends with me..."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "They were so good to me, even as I started to lose my mind."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "How about a festival?",
+                "I uh...can help prepare, if you want."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "...Well, why not."
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "And afterwards I gotta kick out Doremy."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "My shrine is not her summer vacation home.",
+                "But at least she should go home without a big fuss."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "I have to say,",
+                "all this dream stuff kinda opened my eyes."
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Dreams are a very complex thing."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "I would love to hold this festival",
+                "in honor of dreams, and our dream dwellers."
+            ]
+        },
+        "234_0": {
+            "lines": [
+                "Can't guarantee that they will come so easily."
+            ]
+        },
+        "242_0": {
+            "lines": [
+                "...",
+                "Well...I'll just pour everyone some tea."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Yeah, whatever.",
+                "Let's go."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "...Uh, how do we get out?"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "Good question...",
+                "Try that portal over there, maybe?"
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "Thanks.",
+                "Go fix the castle, and then follow me."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "So this is it...",
+                "Should I leave the gem here...?"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "May be for the better...",
+                "It can't do anything on its own."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "Reimu is such a good soul.",
+                "So many good deeds...even in her dreams..."
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "Its incredible to think,",
+                "that her core is so pure of love..."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "If only I had such a core..."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Um..."
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "That portal wasn't it,",
+                "do you have any other leads?"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "This place is a mess."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "Oh, sorry about that."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "Uhm, let's see...",
+                "Hmmm..."
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "We should go together. The castle can wait."
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Maybe for the better..."
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "I'd like to apologize and thank you again,",
+                "dear shrine maiden."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "Finally some rest..."
+            ]
+        }
+    }
+}

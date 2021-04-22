@@ -8,3 +8,24 @@ boss2: TCL Seki's Theme: Explosive Ice World Stone ~ Oxygen Conversion
 
 st3:TCL Stage 3 Theme Stage 3 Theme Deep Aquamarine
 boss3:TCL TCL Himeka's Theme: Taisui Xingjun
+
+st4:TCL Stage 4 Theme Esmeralda Cavern
+boss4:TCL Tsumugi's Theme: Edge of the Helix ~ Red Marriage
+
+st5:TCL Stage 5B Theme - Academia Dance Moon Token
+boss5:TCL Shinya's Theme: Sound of a Nightmare
+
+st6:TCL Shinya's Theme: Sound of a Nightmare
+boss6:[Touhou Style Original] Being of Discord ~ the World Barrier by Kana Kasagi https://youtu.be/iRhEy1FrbGg
+
+stex:The Dream where Regrets Are Carried, Even in Afterlife (Original) by Ricky Rister https://www.youtube.com/watch?v=fw6Maiq-OOM
+bossex:How to make a passable Touhou-style final boss theme in 9 steps by Ricky Rister https://www.youtube.com/watch?v=M6t_dhtUB88
+
+ending:TCL Ending Theme: Leaves of Ancient Words
+staff:TCL Staff Roll Theme: Longevity of the Yellow River ~ Ancient Dreams...
+
+
+Definitely check out the Treasure Castle Labyrinth Fangame!
+The music from this fan project has impacted this game so much, and has given me so many inspirations.
+Get the game from here:
+https://www.bulletforge.org/u/naudiz/p/dong-fang-bao-tian-jing-treasure-castle-labyrinth
