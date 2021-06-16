@@ -1,0 +1,113 @@
+{
+    "2": {
+        "104_0": {
+            "lines": [
+                "Are you hungry yet?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Too bad! There's nothing here!"
+            ]
+        }
+    },
+    "0": {
+        "214_0": {
+            "lines": [
+                "You're quite determined."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "But that won't last."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "A desert..."
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "What have you done to this place?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "This was a beautiful oasis.",
+                "As far as I knew, at least."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "You know that much?",
+                "Then you should get outta here."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Your hunger will soon get the better of you.",
+                "If you want to add to my bone collection, be my guest."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I'm not hungry at all.",
+                "Let's get this started!"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Having a big mouth won't get you",
+                "any closer to the nightmare realm!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "H-how?!"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "You should've been too weak to fight.",
+                "This has never happened before."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I've had a good meal.",
+                "So now get out of my way!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "How arrogant."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "I have one warning for you."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "The poles will claim you for sure.",
+                "Their harsh enviroment will be your end."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "If you keep overestimating your power,",
+                "you won't even reach the nightmare realm."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "That actually sounds fun.",
+                "Maybe I'll watch from afar..."
+            ]
+        }
+    }
+}

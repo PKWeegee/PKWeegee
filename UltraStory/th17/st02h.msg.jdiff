@@ -1,0 +1,91 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Ugh, this river stinks so much...",
+                "What's going on...?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Oh don't you know...?"
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "This is where all plagues reside."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "Plagues...? Oh dear, I didn't bring any face masks!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "But if I beat you,",
+                "I'll be immune forever!"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "If only that were how it works...",
+                "So uh, how's life?"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "You aren't shaken by me?",
+                "My my..."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "...Maybe the fear will befall you..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "If I infect you until you can't",
+                "get out of bed anymore!?"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Guh, you've got quite the",
+                "strong immune system."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Only because I get sick all the time.",
+                "It's really annoying..."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Ugh, I gotta get outta here..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "This stench is going to",
+                "make me vomit soon..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Ew, I don't need to see that.",
+                "Move along."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Let's hope the next area",
+                "has a janitor..."
+            ]
+        }
+    }
+}

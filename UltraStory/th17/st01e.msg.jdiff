@@ -1,0 +1,84 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "A graveyard, huh?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Wonder who made this,",
+                "but I'm sure they are trouble."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "If I'm ever!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "You are causing quite the ruckus",
+                "in my lovely crafted cemetary!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Huh?",
+                "You...?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Yes, me!",
+                "I'm the embodiment of death..."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "I'll kill you if you want!"
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Well, this is a problem...",
+                "I'm not plannin' on dyin' today..."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Too bad! Now die!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Argh... You conquered death..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Sorry about that,",
+                "but I wanna be immortal."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "You will never be immortal..."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Humans are unable to grasp",
+                "the infinity of immortality..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "W-well, I'm sure I'll be able to...",
+                "For now...I should just move on."
+            ]
+        }
+    }
+}

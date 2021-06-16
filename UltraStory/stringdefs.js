@@ -14,5 +14,6 @@
 	"th14": "Touhou Dream Rebellion Episode 10 - Inverted Wonderland",
 	"th143": "Touhou Dream Rebellion Episode 10.5 - Doremy's Dreamer Detainment",
 	"th15": "Touhou Dream Rebellion Episode 11 - Forbidden Genesis of Dreams",
-	"th16": "Touhou Dream Rebellion Episode 12 - The Deep Dream Citadel"
+	"th16": "Touhou Dream Rebellion Episode 12 - The Deep Dream Citadel",
+	"th17": "Touhou Dream Rebellion Final Episode - Nightmarish Coronation"
 }

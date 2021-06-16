@@ -1,0 +1,131 @@
+{
+    "2": {
+        "104_0": {
+            "lines": [
+                "Are you hungry yet?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Too bad! There's nothing here!"
+            ]
+        }
+    },
+    "0": {
+        "214_0": {
+            "lines": [
+                "You're quite determined."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "But that will end here."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "What is this place...?"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "This is a lovely desert",
+                "which I created out of a lush oasis."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "So you're some sort of... evil person again?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I mean, I have no idea about the dream realm.",
+                "But this does seem pretty bad."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "All my hard work really paid off..."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "You are already spouting nonsense."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "What?",
+                "That's not true!"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Then again, I'm not entirely sure",
+                "how far it is to the nightmare realm..."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "A weak-minded awake being like you",
+                "would starve before she got there."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "The only option you have is to waste",
+                "all your energy now, and starve!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Y-You seem frail...",
+                "Yet you are strong..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I don't have any intentions of stopping.",
+                "No matter how tired I get."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "...Like, what choice do I have?",
+                "It's part of my job."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "I don't think you'll have much trouble",
+                "judging by the power you have..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "But only before you reach the poles."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "The enviroment there is as harsh as",
+                "it gets."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Really, that will be your last stop,",
+                "before you succumb to death..."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "If you want to live longer,",
+                "go back now."
+            ]
+        }
+    }
+}

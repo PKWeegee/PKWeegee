@@ -1,0 +1,72 @@
+{
+    "0": {
+        "110_0": {
+            "lines": [
+                "That's because I just made it!"
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "A graveyard? Here?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I've not heard anything about such a place",
+                "during my research...!"
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "It wasn't easy to kill so many dreams",
+                "to build such a lovely cemetary!"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Kill? You? I kind of doubt that.",
+                "Where's your proof?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "H-hey! Be scared!",
+                "I'm the embodiment of death, and I can claim you at any time!"
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Actually, let me do that now!"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "Argh... You conquered death..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Death is no big deal for me!",
+                "Been suicidal since I was a little kid!"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Since I don't care about my life,",
+                "why should I care about death?!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You are scary!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "You definitely belong here!"
+            ]
+        }
+    }
+}

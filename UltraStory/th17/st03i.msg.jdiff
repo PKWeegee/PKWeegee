@@ -1,0 +1,118 @@
+{
+    "2": {
+        "104_0": {
+            "lines": [
+                "Are you hungry yet?"
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "Too bad! There's nothing here!"
+            ]
+        }
+    },
+    "0": {
+        "214_0": {
+            "lines": [
+                "You're quite determined."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "But that's gonna end here."
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "A desert? Here?!"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "This was supposed to be a lush oasis."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "I think I found the culprit who destroyed it."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Well, you're not wrong."
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "I think I greatly improved",
+                "this place."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "There's no food anywhere near here.",
+                "So you'll certainly feel the hunger soon."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Uh-huh.",
+                "Let's just get going!"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "If its a fight you want,",
+                "I'll battle my way through you!"
+            ]
+        }
+    },
+    "1": {
+        "38_0": {
+            "lines": [
+                "So?",
+                "I think its you who needs some food."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Eh, um, yes, certainly..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "I'll be on my way to",
+                "the nightmare realm now."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Umm. If thats where you wanna go,",
+                "I won't stop you..."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "But you'll never reach it."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "The poles are a harsh enviroment.",
+                "You won't get through them."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "If you continue to be this cocky,",
+                "you'll certainly freeze to death."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Actually, that sounds fun. ",
+                "I'll just quietly follow you~"
+            ]
+        }
+    }
+}
