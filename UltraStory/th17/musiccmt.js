@@ -73,26 +73,26 @@
         "@",
         "",
         "This is the Stage 4 theme.",
-        "",
-        "\"When you think of music that plays in Hell, you think of heavy metal!\" was the stereotype ",
-        "that I thought of when I was first making this song but, because I guess I am fated to lack ",
-        "the knowledge of metal, like usual this song is a small bit of metal.",
-        "This song makes you feel the enemies' strength and the margin which makes you feel good."
+        "Actual Theme: Stormy Subterranean Tunnel",
+        "Turning hell into a cold wasteland. Yea, knowing how to change the bg fog really helps. ",
+        "Not quite happy with it, but there's only so much you can do, you know. ",
+        "Overall though, this is where the game gets even more brutal, obviously.",
+        "Pack up tight, the nightmare realm awaits."
     ],
     "17": [
         "@",
         "",
         "This is the Staff Roll theme.",
-        "",
-        "It's an arrangement of the Stage 4 theme."
+        "Actual Theme: Peaceful",
+        "Thank you, for having this journey with me."
     ],
     "16": [
         "@",
         "",
         "This is the ending theme.",
-        "",
-        "It's got a swingin' vibe for some reason.",
-        "No real meaning behind it, though."
+        "Actual Theme: Player's Death",
+        "And so, the journey comes to a close.",
+        "I'm so tired..."
     ],
     "14": [
         "@",
@@ -107,52 +107,52 @@
     "13": [
         "@",
         "",
-        "This is Keiki Haniyasushin's theme.",
-        "",
-        "She's a genius sculptor. My only theme for this one was \"how cool can I make this boss",
-        "even though she's fighting in a work apron while holding sculpting tools?\" (Lol)",
-        "Since you end up fighting her without either the player or protagonist knowing who the",
-        "real bad guy is, it's a refreshing and somewhat-somber song with no feeling of hostility."
+        "This is Lucidia Kaiza's theme.",
+        "Actual Theme: Finn Deimne Fáil ~ Fate of White Young Deer",
+        "The Lucid Gem! But she seems to have snatched a certain dream dweller.",
+        "What will our heroes do? Will they fight her with all they can?",
+        "Do they even have a choice?",
+        "This, and much more, on the next episode of Dream Rebellion Z. (jk lol)"
     ],
     "12": [
         "@",
         "",
         "This is the final stage theme.",
-        "",
-        "Now we're inside the Garden of Humanity.",
-        "Emperor Nintoku's kofun became a World Heritage Site, yeah? But they can't",
-        "investigate inside of it without the Imperial Household Agency's permission, so technically",
-        "we don't actually know whose grave it is. What a sense of adventure that gives."
+        "Actual Theme: Toyokumo, the Dreaming City in the Sky",
+        "The final stage! Honestly, I think graphically, the bg looks amazing.",
+        "Especially the scene at the end of the boss fight.",
+        "It really gives the feeling of \"this is the final battle\".",
+        "Which is exactly what I wanted."
     ],
     "11": [
         "@",
         "",
-        "This is Mayumi Joutouguu's theme.",
-        "",
-        "She's a haniwa soldier. I loved that NHK program with the haniwa costume",
-        "back in the day; I can remember it so clearly. I wanted to make a cool haniwa",
-        "this time, but \"oi, Hanimaru! ♪ Prince Hanimaru\" kept playing in my head the",
-        "whole time. The song is the usual midboss-ey fare, but it goes pretty hard."
+        "This is Nightmare Seraph's theme.",
+        "Actual Theme: Nocturnal Paranoia",
+        "And here we reach ultimate edge. Yeah, I had to, at least once.",
+        "It was kinda hard to write, because the player thinks to themselves",
+        "alot here, and internal monolouges are quite difficult.",
+        "Oh well, I think it worked."
     ],
     "10": [
         "@",
         "",
         "This is the Stage 5 theme.",
-        "",
-        "The Animal Realm, where survival of the fittest is the one and only law.",
-        "Economic success reigns supreme, and individual thought isn't valued one bit.",
-        "Personal feelings are nothing but an obstruction in such a streamlined society.",
-        "It's one nightmare vision of urban society, where talk of \"self-responsiblity\" runs rampant."
+        "Actual Theme: Running through the Clouds ~ Beast Mix",
+        "Bet you didn't think the nightmare realm would look like this.",
+        "Neither did I, honestly. I was just kinda winging it, but then I went with",
+        "a space theme, and I think it works quite well.",
+        "Don't get lost in the stars, its still dangerous."
     ],
     "9": [
         "@",
         "",
-        "This is Yachie Kicchou's theme.",
-        "",
-        "She's a legendary creature that's like a cross between a dragon and a tortoise.",
-        "This one turned out as a mysterious song that can give you both a cool impression",
-        "or a cute impression, a lighthearted one or a heavy one. Since she's one of the game's",
-        "key characters, I added a bit of flair to it despite her midgame position."
+        "This is Nightmare Yachie's theme.",
+        "Actual Theme: Reversed Asterion",
+        "The final horserider, war!",
+        "Pretty fitting paralells, between Yachie and War, I'd say.",
+        "I do like the little detail of giving her a sword.",
+        "Makes her stand out a bit more."
     ],
     "15": [
         "@",
