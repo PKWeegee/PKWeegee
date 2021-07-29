@@ -98,11 +98,11 @@
         "@",
         "",
         "This is the Extra Stage theme.",
-        "",
-        "The product of a 42-year-old man trying his hardest to unleash his inner chuunibyou.",
-        "Everything I make feels somehow nostalgic, which is probably a side effect of my age...",
-        "I'd like to refine my sensitivity together with my children from here on out.",
-        "I think this whole song has a really handsome-sounding melody throughout, though."
+        "Actual Theme: Spooky Skyscraper",
+        "The final stage of Dream Rebellion...",
+        "Its been a really long time, but I'm finally done...",
+        "It feels so unreal to be finally done with it.",
+        "But lets go out with a bang!"
     ],
     "13": [
         "@",
@@ -157,11 +157,11 @@
     "15": [
         "@",
         "",
-        "This is Saki Kurokoma's theme.",
-        "",
-        "She's Kurokoma. Since she's apparently a total meathead, her personality doesn't",
-        "seem all that bad. She exudes the most sense of security in the whole Animal Realm.",
-        "I tried to give her a cowgirl-esque outfit since she's a horse, but when you give it a",
-        "good, long think (or even just a short one), that's what her rider should be wearing."
+        "This is Fake's theme.",
+        "Actual Theme: A dream to be forgotten ~ Vita Somnium",
+        "I dont want to say too much about this character,",
+        "just know that she's quite important.",
+        "And yes, she is Jessica's Dream Dweller.",
+        "But with that...I'm finally free! (haha as if)"
     ]
 }
