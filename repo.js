@@ -7,6 +7,7 @@
     ],
     "patches": {
         "CirnAya": "CirnAya",
-        "UltraStory": "UltraStory"
+        "UltraStory": "UltraStory",
+		"ThAltJess": "Alternative Touhou Experience with Playable Jessica"
     }
 }
