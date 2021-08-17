@@ -1,0 +1,215 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Ugh, I hate mansions..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Growing up in one...",
+                "It was awful."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "You, the green one!"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "You shot down my master."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Huh? I didn't mean to!"
+            ]
+        },
+        "95_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "As her Number 1 assistant,",
+                "I have to take revenge for her."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "L-look, she came at me first!"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "She would never do that."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "But I'm telling the truth...",
+                "I'm not here to cause trouble."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "I can see it all over your face",
+                "that you want to make a mess here."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "The books do look interesting, but...",
+                "...uhm."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...wait. Actually, I wanted to ask something.",
+                "Is this mansion producing a mist?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Our mistress has indeed expelled some mist."
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "Oh so that's whats happening."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I cannot allow you to",
+                "see the mistress."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "But it's my only lead so far."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "...By the way, just who are you?"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "My name is Jessica by the way.",
+                "Don't you forget it."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Alright...noted.",
+                ""
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Whoa, so many books."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I'll just quietly take them later."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "I can't let you do that!"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "I'm gonna carry 'em off."
+            ]
+        },
+        "94_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "You shot down my master just now,",
+                "that is absoultely unforgivable!"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Did I really?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Yes you did!"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "And why would that be my fault?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Because you are some kind of maniac."
+            ]
+        },
+        "99_0": {
+            "lines": [
+                "Gee, thanks for the compliment."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "You are hopeless."
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "And what about you?"
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I think its time to have some revenge."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Ooh, scary."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "That mouth of yours",
+                "will only land you in trouble..."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "You're pretty good with magic.",
+                "Ya got anythin' else to show me?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "*sob sob* I'm sorry that I failed you,",
+                "Lady Patchouli..."
+            ]
+        }
+    }
+}
