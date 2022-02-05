@@ -1,0 +1,269 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Is it you? Are you the ones trying to attack",
+                "the village in the middle of this night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "What happened to the village?",
+                "Where's the humans? What did you do?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I won't hand the humans over to you youkai."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'll make this night never have happened!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Aah, what the heck are you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Stay here! Argh, dammit."
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "So persistent."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Hey, culprit."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Tell us right now where the human village went."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Everything is gone!",
+                "What kind of powers do you have?!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I have done nothing."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Keine Kamishirasawa"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I just made it so that the village",
+                "was invisible to your kind."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "We don't have time to stick around here."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The Moon's gradually sinking lower as we speak."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "You can hold the night for a bit more, right?"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "She has just caused another incident",
+                "by removing the whole village."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "\"Humans never settled here in the first place.\""
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "All I did was make it look that way."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'll protect the humans from this ill-omened night."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Hey, hey."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I can see the humans just like usual, though."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Trickery of this level isn't useful at all,",
+                "is it?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Really, what <i$are> you two?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I don't see them though."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Uu. Your pity isn't helping."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "And you."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "You're a half-beast, right?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'm human when the Moon isn't full."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Not unlike a human-faced dog",
+                "or a human-faced rock, then."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Why are you assuming everything but my face changes?!",
+                "I'll have you know that the transformation is full-body!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Or it's like Gozu and Mezu,",
+                "where only the head turns into a beast's."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...Oh well."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "If you're going to say that, I won't let you take it back."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Tonight, I'll make an imperial feast out of your history!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "Myself aside, this one's history would amount",
+                "to a single rice grain."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "Shut up.",
+                "I've had a whole life, before I came here!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Give us the village back!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "It'll be okay to put it back. We weren't thinking",
+                "anything of you and the humans here to begin with."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Then, where are you trying to go?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Uh, over there?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "This way."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "If you're after the ones behind the recent unusual Moon,",
+                "they're that way."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Oh wow, I guessed correctly!"
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "...Your finger is off from hers by 70 degrees."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "You are pointing in the opposite direction.",
+                "Uhm, how did she even guess what we are doing?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "It'd be more strange if she hadn't figured it out."
+            ]
+        }
+    }
+}
