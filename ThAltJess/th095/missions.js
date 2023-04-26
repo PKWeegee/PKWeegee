@@ -110,121 +110,121 @@
     },
     "0_2_0": {
         "lines": [
-            "I came upon a travelling entertainer at the village.",
-            "I thought about asking her if she wanted a doll,",
-            "but it looked like she didn't need any. So I didn't."
+            "I don't know why, but these attacks are so unlike her.",
+            "I wonder where she got those from.",
+            "Let's see if she can show me more."
         ]
     },
     "0_2_1": {
         "lines": [
-            "Even though I was only asking about history,",
-            "this was unusually bright.",
-            "But, my camera has a good backlight."
+            "Oh, the teacher from the human village.",
+            "I remember rewinding VHS tapes back in the day.",
+            "Man, I feel old..."
         ]
     },
     "0_2_2": {
         "lines": [
-            "The entertainer again.",
-            "Would you say she's juggling?",
-            "Being dexterous is always an advantage, isn't it?"
+            "Makai? Is that a realm like Gensokyo?",
+            "I wonder what its like over there.",
+            "Oh...she said its blocked off...dangit."
         ]
     },
     "0_2_3": {
         "lines": [
-            "Speaking of history, the history this person speaks of",
-            "and the one we know are pretty different.",
-            "Something I've never heard of before..."
+            "I wonder, did that old story really happen?",
+            "Maybe there's a shred of truth behind it.",
+            "Afterall, thats how most stories get started..."
         ]
     },
     "0_2_4": {
         "lines": [
-            "I was assaulted by a large number of dolls.",
-            "Is this a new set from the entertainer?",
-            "I was surprised, so I guess it worked."
+            "Gah, where did those knifes come from?!",
+            "She didn't even use dolls to make them appear!",
+            "Is this some kind of Makai magic...?"
         ]
     },
     "0_2_5": {
         "lines": [
-            "I thought it was nice that I'd be treated to such a",
-            "show of power without even having to move.",
-            "All I had to do was finish it."
+            "Opening up the tomb of an old egyptian king...",
+            "Alot of people died becaused they did that.",
+            "I think they just inhaled some ancient bacteria though."
         ]
     },
     "0_2_6": {
         "lines": [
-            "I guess she's not an entertainer after all.",
-            "Is she just good with her hands?",
-            "I think I'd encourage her to try acting."
+            "So she remembers those attacks from someone else?",
+            "Someone from Makai, I presume?",
+            "This really makes me want to visit that place."
         ]
     },
     "0_2_7": {
         "lines": [
-            "I found some characters I've never seen",
-            "in books from the outside, so I asked her to read it.",
-            "It looks like it reads \"Yamato.\" I see, I see."
+            "She seemed quite serious all of a sudden...",
+            "Eh, I'm sure its nothing to worry about.",
+            "Not like she could ever cause an incident."
         ]
     },
     "0_3_0": {
         "lines": [
-            "Geez, I think the camera's busted...",
-            "For some reason, I couldn't focus well and take any good",
-            "pictures."
+            "It's so late, but they are practicing here...",
+            "I just wanted to enjoy the sunflowers a bit.",
+            "Oh well, here goes nothing!"
         ]
     },
     "0_3_1": {
         "lines": [
-            "The air was stagnant, and I had a bad feeling about it.",
-            "Since this was dangerous territory, I thought I'd walk",
-            "on in for the heck of it. But I wonder if I can write about it."
+            "Sound travels through the air in waves.",
+            "Never thought I'd actually see it visualized,",
+            "but its hard to get close if she's doing that!"
         ]
     },
     "0_3_2": {
         "lines": [
-            "Can these rabbits run or what?",
-            "I was thinking of writing about rabbit lifestyles,",
-            "but they kept flying everywhere and I couldn't stop them..."
+            "Trumpets are quite loud when you put your air into it.",
+            "Why do I associate skeletons with trumpets then?",
+            "Who put that idea in my head?!"
         ]
     },
     "0_3_3": {
         "lines": [
-            "It seems like I'm losing focus from time to time.",
-            "That's not good. Even if I don't look through",
-            "the viewfinder, everything looks like it's shifting...eh?"
+            "Violins only have 4 strings? I always thought",
+            "they had more. I wonder if that's a mandela effect,",
+            "of if I just never really bothered to look closely..."
         ]
     },
     "0_3_4": {
         "lines": [
-            "So, I decided to walk in again.",
-            "I'm not worried about this nasty air.",
-            "The wind can blow it all away anyway."
+            "Wow, a visualization of echos!",
+            "It gets quite hectic, if you get too loud.",
+            "But I've dodged worse stuff."
         ]
     },
     "0_3_5": {
         "lines": [
-            "It's not that the camera was broken,",
-            "but that there's some strange power at work.",
-            "Now this is news! But the camera still won't focus..."
+            "Violins are actually kinda interesting!",
+            "Even though they are just guitars you play with sticks.",
+            "I hope she didn't hear me say that..."
         ]
     },
     "0_3_6": {
         "lines": [
-            "Today, I stepped into that murky air again.",
-            "I'm fine, but the camera doesn't seem to be.",
-            "You can barely see anything in these pictures. Poor thing."
+            "Phew, pianos are alot of work to deal with.",
+            "So many buttons to press, its kind of overwhelming.",
+            "But it sounds good, so I can't complain..."
         ]
     },
     "0_3_7": {
         "lines": [
-            "Right.",
-            "\"He who chases two rabbits at once catches neither.\"",
-            "I do have a lot of rabbit pictures, though."
+            "Trumpets are pretty cool actually.",
+            "When I was a kid, I used to play the saxophone.",
+            "Those are similar, right?"
         ]
     },
     "0_3_8": {
         "lines": [
-            "If you look closely, there's a rabbit there.",
-            "These weird visions can distract you.",
-            "Could this rabbit have caused it? No way."
+            "Was her violin made by that guy?",
+            "Would be a weird coincidence, wouldn't it?",
+            "Oh well, I'm tone-deaf anyways."
         ]
     },
     "0_4_0": {
