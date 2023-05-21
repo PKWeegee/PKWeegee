@@ -229,114 +229,114 @@
     },
     "0_4_0": {
         "lines": [
-            "A surprise jump kick?",
-            "I really don't like violent youkai.",
-            "She has no chance of matching my speed."
+            "Fireworks, indoors?!",
+            "That's a work safety violation if I've",
+            "ever seen one. I'm writing her up!"
         ]
     },
     "0_4_1": {
         "lines": [
-            "I heard a particular experimental magic was finished,",
-            "so I took some pictures of it. It felt like she was",
-            "negating her own power for no reason, which was new."
+            "Lucifer, an angel who was thrown into hell by deus.",
+            "Interesting story, for sure.",
+            "However I yet have to see hell for myself."
         ]
     },
     "0_4_2": {
         "lines": [
-            "I have a good feeling about these shots. These are",
-            "rainbow-colored lotus flowers. What should I write?",
-            "I should also note the roots were rainbow too..."
+            "Where did that fire come from?!",
+            "It felt like there was a dragon in the room, but",
+            "I didn't see anything. An illusion perhaps...?"
         ]
     },
     "0_4_3": {
         "lines": [
-            "This also seems to be an experiment.",
-            "A new magic, where fire isn't hot...",
-            "Is it okay?"
+            "Iblis...a being birthed from smokeless fire.",
+            "You know, I just hope no one does something",
+            "that would trigger him..."
         ]
     },
     "0_4_4": {
         "lines": [
-            "More jump kicks.",
-            "Sometimes these rough-and-tumble youkai are just there.",
-            "Geez, should I just write an article about that?"
+            "Gah, she's trying to block my chakras!",
+            "I've seen this once before, you go totally limb!!",
+            "Well, uh...I saw it in a show at least, hehe... ^^''"
         ]
     },
     "0_4_5": {
         "lines": [
-            "This too is from another experiment.",
-            "It's not very sunflower-ish for something called Himawari...",
-            "Is this new in its own way?"
+            "Rahu...a snake that swalloed the sun and moon.",
+            "Apparently they also got their head cut off...",
+            "I wonder if such youkai exist in Gensokyo."
         ]
     },
     "0_4_6": {
         "lines": [
-            "I heard there was some exercise that's good",
-            "for your health, so I took some pictures.",
-            "But should I really rely on such unreliable information?"
+            "This seems very old-school.",
+            "I wonder what the meaning of this one might be.",
+            "Still...quite curious for a spellcard."
         ]
     },
     "0_4_7": {
         "lines": [
-            "Yet again, this seems to be another experiment.",
-            "Doesn't it dazzle the spellcaster herself?",
-            "Still, the viewfinder was having trouble."
+            "Mara...a representation of our own selfish desires.",
+            "By engaging in what we want, we never reach enlightenment.",
+            "But...I'd rather just do what I want."
         ]
     },
     "0_5_0": {
         "lines": [
-            "I was suddenly set upon by a cat. What a bother.",
-            "It was a shock, so I took some shots.",
-            "I'll see if I can write something about it later."
+            "Oh, a cat. I wonder what she's doing here.",
+            "Preparing for another feast perhaps?",
+            "Oh well, she's not why I'm here."
         ]
     },
     "0_5_1": {
         "lines": [
-            "All in one moment...",
-            "I think she moved too fast for my eyes to follow.",
-            "Seems like it'll be impossible to catch her in that moment."
+            "Woah...to think she'd use that move again.",
+            "Makes me a bit nostalgic, I think that was the first",
+            "pattern she ever threw at me."
         ]
     },
     "0_5_2": {
         "lines": [
-            "Again, bothered by this cat. Really fast, this time.",
-            "But the faster she moved, the more orderly she became.",
-            "A monster cat that moves systematically is something else..."
+            "Ah, the classic cat move. Pushing crap off the table.",
+            "Why do they even do that?",
+            "Cats are quite strange creatures..."
         ]
     },
     "0_5_3": {
         "lines": [
-            "I got it! Caught her moving superfast!",
-            "The trick is, she doesn't move far and only straight,",
-            "so preparation was key."
+            "She split a single sword into two!",
+            "Maybe it was just an illusion, but that was still",
+            "a very impressive feat!"
         ]
     },
     "0_5_4": {
         "lines": [
-            "This was quite a shock.",
-            "She not only bounced around, but seemed to use",
-            "some techniques. Not just a wild cat."
+            "Woah, I should have known better than to mess around while",
+            "she was taking a nap! Since she's a youkai cat,",
+            "her claws hurt alot more. Gotta be careful!"
         ]
     },
     "0_5_5": {
         "lines": [
-            "This was a surprise. She could focus so well",
-            "as to cut out sound altogether.",
-            "Pictures won't show this. Neither could a newspaper."
+            "I was so focused on her attack, that all time seemed",
+            "to slow down, and any sound just stopped.",
+            "It's as if I reached nirvana, if just for a second."
         ]
     },
     "0_5_6": {
         "lines": [
-            "She's just a monster cat. Don't imagine that anybody",
-            "can beat me in terms of speed. As long as I'm not",
-            "looking through the viewfinder, I'm the fastest."
+            "Cats hate water, that's a given.",
+            "They also get really cranky if they get wet.",
+            "Shame I forgot my spray bottle at the shrine."
         ]
     },
     "0_5_7": {
         "lines": [
-            "Considering it's in the blink of an eye,",
-            "being attacked at that speed is scary.",
-            "I mean, wouldn't the picture be all blurry?"
+            "It's incredible how fast she can move once she gets going.",
+            "I wonder if she's even faster than that tengu?",
+            "We should plan a marathon race at some point."
         ]
     },
     "0_6_0": {
