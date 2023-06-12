@@ -341,111 +341,111 @@
     },
     "0_6_0": {
         "lines": [
-            "I went to the Scarlet Mansion to take pictures because",
-            "I heard that you could see some magic tricks.",
-            "But even I could do something like this."
+            "She's just throwing around knives without any thought.",
+            "Although, something feels familiar.",
+            "Kinda lazy..."
         ]
     },
     "0_6_1": {
         "lines": [
-            "I opted for a theme of \"bats will give you nightmares\"",
-            "for this photo shoot.",
-            "But the true form of the nightmare was a vampire. Ble~eh."
+            "She gave me no time at all to take photos of her.",
+            "It also seemed like she was counting under her breath.",
+            "Is that something vampires do normally?"
         ]
     },
     "0_6_2": {
         "lines": [
-            "It looks like last time wasn't a trick.",
-            "What I saw this time was \"Multiplying Knives.\"",
-            "I'm more interested in her instant movement than her knives."
+            "What the heck?! A...steamroller? Kind of?",
+            "What kind of maniac do you have to be to throw such a thing",
+            "on top of someone?! This mansion is absolutely ridiculous!"
         ]
     },
     "0_6_3": {
         "lines": [
-            "The blood-tipped knife dripped its red essence",
-            "while flying through the air. Or something like that."
+            "That's quite a big spear she's tossing around there.",
+            "Good thing its a bit unwieldy for her."
         ]
     },
     "0_6_4": {
         "lines": [
-            "This time, the trick was \"Incredible Multiplying Knives\".",
-            "Isn't this too much?"
+            "In the blink of a moment, I was surrounded!",
+            "...does she have something against me?"
         ]
     },
     "0_6_5": {
         "lines": [
-            "I set out again to learn what kind of damage",
-            "bats can do...and it was not fun.",
-            "So, I wiped some of them out."
+            "I don't know why, but for some reason bats strike",
+            "me as something thats very overused in alot of things.",
+            "Hmm...odd."
         ]
     },
     "0_6_6": {
         "lines": [
-            "The last trick was teleportation.",
-            "I thought I had her in my sights, but...",
-            "she would always move out of the way."
+            "What? She stopped time to avoid my camera!",
+            "That's...really clever actually.",
+            "Annoying, but clever."
         ]
     },
     "0_6_7": {
         "lines": [
-            "Finally, I returned to see what the vampire",
-            "herself could do. If I publish these pictures,",
-            "no one will have a reason to be scared. It's not like I was."
+            "A vampire using a cross to attack...that's strange.",
+            "Maybe she's trying to show how strong she is, by",
+            "using something that could weaken her."
         ]
     },
     "0_7_0": {
         "lines": [
-            "I went out in search of a fox with a lot of tails.",
-            "This is a picture of it looking at the flowers."
+            "It seems the fox is summoning a familiar that replicates",
+            "her shikigami's attacks. Does she miss her?"
         ]
     },
     "0_7_1": {
         "lines": [
-            "In order to get pictures of spirits, I traveled to the other",
-            "side. I quickly managed some pictures of large ghosts.",
-            "They seemed to be inviting me to join them..."
+            "She was making me walk along an old forgotten path...",
+            "Apparently it was here before they built the staircase.",
+            "I don't know whats more tedious..."
         ]
     },
     "0_7_2": {
         "lines": [
-            "It looked as if she was securing a place for flower-viewing.",
-            "She seemed pretty busy, spreading and securing a mat,",
-            "so I went ahead and took some pictures."
+            "Shikigami are, in a sense, limited in their freedom.",
+            "Is this a cry for help from her?",
+            "She looked pretty content though..."
         ]
     },
     "0_7_3": {
         "lines": [
-            "A photo of some lively spirits.",
-            "These don't really capture the essence of them, though.",
-            "They aren't fake ghosts."
+            "It seems she has some control over the spirits.",
+            "Or they just really wanted to get close to me.",
+            "Either way...gross."
         ]
     },
     "0_7_4": {
         "lines": [
-            "She appeared to be training, so I took some pictures.",
-            "Of course, I didn't bother her.",
-            "I was only taking photos, after all."
+            "Being able to make such symbols, must take quite some training.",
+            "It seems like she's taking after her master quite a bit.",
+            "I think she would be proud."
         ]
     },
     "0_7_5": {
         "lines": [
-            "\"How charming!\" This is that kind of spirit photo.",
-            "If you look closely, you can see lots of small orbs.",
-            "What kinda place is this...ah, it's the other world."
+            "Woah, who knew her fan...thing could do that?!",
+            "I guess its more than just a nice backdrop for her.",
+            "I'd like a fan, based on that..."
         ]
     },
     "0_7_6": {
         "lines": [
-            "Finally, the true nature of the animal is revealed.",
-            "That speed is quite impressive.",
-            "But doesn't she get dizzy?"
+            "She spins around alot in her free time.",
+            "Doesn't that make her dizzy?",
+            "Maybe she's more of a machine than an animal at this point."
         ]
     },
     "0_7_7": {
         "lines": [
-            "These are the bright, radiant butterflies of that world.",
-            "I might just do a feature on this place next time.",
-            "\"How to have three times more fun dying!\" Maybe not."
+            "She's actually a really powerful being...",
+            "Good thing she is so carefree, otherwise I'd have",
+            "been in huge trouble back then!"
         ]
     },
     "0_8_0": {
