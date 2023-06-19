@@ -450,169 +450,169 @@
     },
     "0_8_0": {
         "lines": [
-            "I don't really know why,",
-            "but this pharmacist had a ghastly aura about her.",
-            "Making medicine must be difficult."
+            "I never really paid attention to it, but she does have a bow.",
+            "I guess thats why she's shooting arrows at me suddenly.",
+            "Never seen that type of bullet before..."
         ]
     },
     "0_8_1": {
         "lines": [
-            "What is this?",
-            "I've been shown something I've never heard of.",
-            "This person seems to be a famous collector of rare objects."
+            "Wait...this seems very familiar! Pong?!",
+            "I feel like she forgot how it actually works.",
+            "But still...why would she know it in the first place?"
         ]
     },
     "0_8_2": {
         "lines": [
-            "I had a dream of impossibly fast butterflies.",
-            "It was definitely the medicine, but when I woke up",
-            "I took pictures to make sure I didn't forget."
+            "She's a doctor, so it makes sense that she uses medicine.",
+            "Her way of applying it though...that's a bit strange.",
+            "Only one to top that might be that one italian..."
         ]
     },
     "0_8_3": {
         "lines": [
-            "Hot! Really, really hot.",
-            "I've never seen a rock like this before.",
-            "I'd say it's something like a cooking rock."
+            "Flowers that produce fire?! Wait...I've heard about that.",
+            "Not in real life, but...a game! Yeah, I remember!",
+            "How does she know though?!"
         ]
     },
     "0_8_4": {
         "lines": [
-            "The pharmacist deals with mercury.",
-            "I asked her what she needs it for...",
-            "Seems like a trade secret. Poison? Immortality?"
+            "She told me that I was having internal bleeding.",
+            "She wanted to operate on me, but I told her its fine.",
+            "Afterall, blood is supposed to be internal, right?"
         ]
     },
     "0_8_5": {
         "lines": [
-            "I can't believe that such a large board is really seamless.",
-            "If so, wouldn't you need a tree larger than any in Gensokyo?"
+            "Geez, she's really trying to make me play some Tetris.",
+            "I wonder how long it took her to set that up..."
         ]
     },
     "0_8_6": {
         "lines": [
-            "This fragrance gives you severe hallucinations. Even though",
-            "I can handle strong smells, I couldn't endure it for long.",
-            "But would a picture tell this story...?"
+            "She just started throwing scalpels at me, trying to operate on me.",
+            "Maybe she was just messing with me but...",
+            "That's still very scary..."
         ]
     },
     "0_8_7": {
         "lines": [
-            "I really have no idea about this thing.",
-            "Miss Kaguya called it \"Mysterium\".",
-            "Is this enough to write about?"
+            "She's really pulling at straws here.",
+            "It's nothing like the game \"Asteroids\", which",
+            "she wanted to refrence. Maybe she needs a break."
         ]
     },
     "0_9_0": {
         "lines": [
-            "This is a lot of money being thrown around.",
-            "\"Don't carry cash into the night,\" was it?",
-            "Though it was probably just ripped off from the deceased."
+            "Sheesh, where does she get all this money?",
+            "Is ferrying spirits really such a good job?",
+            "Maybe I should apply for an internship..."
         ]
     },
     "0_9_1": {
         "lines": [
-            "It seems that liars meet a horrible fate when they die.",
-            "Their tongue is pulled off, roasted, dipped in salt,",
-            "pepper, and lemon juice."
+            "Oh no, its her again. What, is she gonna lecture me some more?",
+            "Well, maybe, but I didn't listen.",
+            "She does seem like a very strict person though."
         ]
     },
     "0_9_2": {
         "lines": [
-            "I took some photos of this coming death.",
-            "She wouldn't kill anyone, but a plain shot would be boring,",
-            "so I had her pose instead."
+            "Moving across the Sanzu River, it all depends on how you act.",
+            "You can either take it easy and lean back, or you can risk it",
+            "to maybe earn a better afterlife."
         ]
     },
     "0_9_3": {
         "lines": [
-            "One's self is tested three years after they die.",
-            "Honestly, I don't know who does the judging,",
-            "but it'd make for a really good article."
+            "There's 9 layers of hell, depending on the weight of your sins.",
+            "She threw 10 attacks at me however...",
+            "Maybe that last one was just meant for me."
         ]
     },
     "0_9_4": {
         "lines": [
-            "It seems that it rains around the Sanzu river.",
-            "Though, I've been told that rain is demonic.",
-            "I don't quite understand, but I took pictures anyway."
+            "This rain is making me feel very heavy. Not physically,",
+            "but spiritually. Or maybe it's just...",
+            "Well no, I think its the rain."
         ]
     },
     "0_9_5": {
         "lines": [
-            "When I asked if there was such a thing as a false accusation,",
-            "she thought and answered \"yes.\"",
-            "In other words, leave no room for scandal."
+            "She sees things too much like black and white.",
+            "In my opinion, reality doesn't really work like that.",
+            "It's all more or less a muddy grey."
         ]
     },
     "0_9_6": {
         "lines": [
-            "She decides the price of my life by herself.",
-            "Just from pictures, it looks expensive,",
-            "but what is it really worth?"
+            "So much money! If I could just nab some of that, our shrine",
+            "could be so much better off! Then again...maybe I shouldn't.",
+            "This money is probably cursed. I know, I'll give it to Marisa."
         ]
     },
     "0_9_7": {
         "lines": [
-            "What is this!",
-            "I looked into her mirror and saw everything about me.",
-            "I never thought I'd be taking pictures of myself..."
+            "Woah, what happened?! It felt like I was fighting myself...",
+            "But something was definitely off about that...",
+            "Maybe her mirror is broken..."
         ]
     },
     "0_10_0": {
         "lines": [
-            "While looking for news, I was suddenly attacked.",
-            "A noiseless, irrational fear.",
-            "I hope that feeling comes out in the photos..."
+            "Hm? What's Marisa doing at the Scarlet Devil Mansion?",
+            "Judging by her reaction, I think I caught her red-handed.",
+            "And then I got a laser to the face..."
         ]
     },
     "0_10_1": {
         "lines": [
-            "I was fairly sure vampires were weak to",
-            "the cross symbol, but it doesn't seem like it.",
-            "She just came out and played with it..."
+            "She was making some bright star, but the camera",
+            "made these weird light artifacts, making it look weird.",
+            "I hope the camera isn't busted..."
         ]
     },
     "0_10_2": {
         "lines": [
-            "Looking through the viewfinder,",
-            "I was set upon with no place to hide.",
-            "But, nothing can stand before this camera."
+            "I found myself back in the Netherworld, only to find some",
+            "weird spirit. Her attack seemed way too cosmic for",
+            "just a simple spirit though. I wonder who she is..."
         ]
     },
     "0_10_3": {
         "lines": [
-            "This feels somewhat hypnotic.",
-            "Waves become particles, and then back to waves.",
-            "Would a photo capture this?"
+            "Mimas is one of Saturns moons, and it looks a bit weird.",
+            "I'm more focused on her hypnotizing display of colors.",
+            "Still...this all feels a bit too unreal."
         ]
     },
     "0_10_4": {
         "lines": [
-            "I wonder if my camera's okay.",
-            "What kind of human can live inside such strong fire?",
-            "A firefighter?"
+            "Oh, her. I think it was...Yuuka? I only saw her",
+            "briefly during the flower incident. I wonder what she",
+            "does on a normal day."
         ]
     },
     "0_10_5": {
         "lines": [
-            "Red, blue, yellow, white, black. I've never seen turtles",
-            "like that. But, I'm a journalist before a hunter",
-            "of rarities. I should be able to write up something."
+            "Apparently this is the original Master Spark!",
+            "Looks like Marisa just stole it from her at some point.",
+            "What a sneaky b-...magician she is!"
         ]
     },
     "0_10_6": {
         "lines": [
-            "This thick oni mist hurts if you touch it.",
-            "On top of that, my wind can't blow it away.",
-            "It doesn't seem to need any wind to move."
+            "This one has a really powerful aura about her...",
+            "Something's definitely not right here...",
+            "I gotta figure out whats going on."
         ]
     },
     "0_10_7": {
         "lines": [
-            "I haven't seen an oni's power in forever.",
-            "Simply the most powerful youkai in Gensokyo.",
-            "That's a simplification, though."
+            "Her power is out of this world. Its almost as if she's a demon.",
+            "I think I'm done taking pictures for now.",
+            "I'm actually pretty tired..."
         ]
     }
 }
