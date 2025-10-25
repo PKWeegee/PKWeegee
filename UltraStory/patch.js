@@ -10,5 +10,5 @@
     "https://mirrors.thpatch.net/PKWeegee/UltraStory/",
     "http://mirrors.thpatch.net/PKWeegee/UltraStory/"
   ],
-  "title": "UltraStory"
+  "title": "Ultra Patch + New Story + Graphical Changes + Different Music"
 }
