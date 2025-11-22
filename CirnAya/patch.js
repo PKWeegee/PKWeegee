@@ -7,3 +7,4 @@
     "https://mirrors.thpatch.net/PKWeegee/CirnAya/"
   ],
   "title": "Changes Reimu and Marisa into Aya and Cirno"
+}
