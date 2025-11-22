@@ -6,5 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/PKWeegee/ThAltJess/"
   ],
-  "title": "ThAltJess"
+  "title": "Changes all Danmaku Patterns + New Character and Story to follow"
 }
