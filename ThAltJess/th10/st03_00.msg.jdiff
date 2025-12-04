@@ -1,0 +1,180 @@
+{
+    "0": {
+        "32_0": {
+            "lines": [
+                "Ack! A human?!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Uh, thanks?",
+                "Wait, where are you going?"
+            ]
+        }
+    },
+    "1": {
+        "38_0": {
+            "lines": [
+                "Awww, my optical camo suit broke!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Actually, I think I broke it."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You're not a human...",
+                "Fellow youkai can always pick me out very well."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Surely that can't be it.",
+                "That big ball of bullets was just an easy target."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "See you, youkai friend!",
+                "By the way, it's dangerous if you go any further!"
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "Do I look like I care?"
+            ]
+        }
+    },
+    "2": {
+        "38_0": {
+            "lines": [
+                "Oh, it's that youkai from before.",
+                "Didn't I tell you not to go any deeper?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The hell were you running away for?!"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Huh?",
+                "Oh sorry, force of habit."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "So what's up? What brings you here today?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Mountain. Faith. Some God.",
+                "I'm gonna beat her up. The usual, pretty much."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "You want to take on the god of the mountain?",
+                "Are you actually insane?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Let me tell you straight up...",
+                "You'd better leave."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I'm Nitori Kawashiro.",
+                "They call me Nitori the Valley Kappa."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Go on now, better get back to where you came from!",
+                "There's lots of folks up ahead who are...special cases."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "I'm quite special myself.",
+                "I think I can handle whatever nonsense gets thrown at me."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "You're quite confident, aren't you?",
+                "Why did it have to turn out this way..."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "Oh well, if you really want to get into the mountain,",
+                "you'll have to show me how serious you are!"
+            ]
+        }
+    },
+    "3": {
+        "30_0": {
+            "lines": [
+                "Woah...it's been forever since I saw power like yours.",
+                "To think my weapons weren't enough to beat you..."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "You had some cute little toys."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Hey, you. You are one of my sworn friends",
+                "since ancient times, so I'll let you go on ahead."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Sworn friends?",
+                "That's how you treat friends?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "That's just how youkai enjoy each other's company."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Forgive me for being so rash."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Don't mention it, I'm used to every youkai fighting",
+                "with me at this point. Wouldn't be a fun incident otherwise."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Someone like you solving incidents?",
+                "Oh wait, you're from the Hakurei Shrine aren't you?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Well, I'll tell the kappa around here about you, so just go on ahead."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "A waterfall...",
+                "Time to bust in!"
+            ]
+        }
+    }
+}
