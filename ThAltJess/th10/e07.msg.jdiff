@@ -1,0 +1,205 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Sanae  $Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The shrine that stood on the eastern border of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "The shrine trees stained crimson later than the mountain's."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "After the battle, Jessica invited the mountain god to her shrine."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Jessica  >\"I...think we got off on the wrong foot before.",
+                "<l$> We both may have acted a bit rashly.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Kanako  >\"You're certainly right about that...I give my apologies."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> But surely that's not the only reason for this invitation, right?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Jessica  >\"Exactly. I wanted to talk with you about some stuff."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> Even if I'd rather not talk about it at all...\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Kanako  >\"Well if you're uncomfortable with the topic...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Jessica  >\"I am but...maybe I need to talk about it.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Kanako  >\"You may be right about that."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Feel free to open your heart a bit,",
+                "<l$> and tell me about your worries.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Jessica  >\"It's about this uh, youkai thats posessing me.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Kanako  >\"I figured as much.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Jessica  >\"...What's that smug look about?\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Kanako  >\"You're a rare kind of anomaly it seems."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<l$> Human and youkai usually live as seperate beings.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Jessica  >\"Well, yeah...so it's unnatural, yes?"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Kanako  >\"Ahaha.",
+                "<l$> That may be so, but you're not in imbalance.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Jessica  >\"Imbalance?"
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$> I feel more imbalanced than ever before!",
+                "<l$> My whole being is at stake!\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Kanako  >\"Not at all. Don't you see that you are strong?",
+                "<l$> You even managed to beat me.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Jessica  >\"I beat you because I have skills in danmaku.\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Kanako  >\"Oh wait, I've been rambling, haven't I?\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Jessica  >\"Yes, yes you have...\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "Jessica wanted to ask a god to help her get rid",
+                "of her new youkai half."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Kanako however declined that in an instant."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "What has been set in motion cannot be halted so easily."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Jessica didn't want to believe what she said."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "Deep down she may know her fate."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "But even so, her mind fights against it."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "She refuses to believe that she's becoming a youkai."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "By living in denial, she thinks she can ignore the issue to make it go away."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "But that's not how that works, now is it?"
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Maybe she'll learn someday..."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "36_1": {
+            "lines": [
+                "<c$Ending No.02 — Don't ask gods for favors$>"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<l$> <c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

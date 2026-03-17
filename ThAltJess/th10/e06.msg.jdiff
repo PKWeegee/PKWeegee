@@ -1,0 +1,214 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Aya  $Reimu  $Nitori  $Sanae  $Kanako  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The shrine that stood on the eastern border of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "The shrine trees stained crimson later than the mountain's."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "On the porch sat a lonely girl, pondering her album."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Jessica  >\"It does make one think though...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Jessica  >\"Could that god be telling the truth?\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Jessica  >\"Surely that can't be right though..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> But then again, I don't want to think about it now.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Jessica  >\"And I still didn't figure this stuff out.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Jessica  >\"These last few photos...I don't remember taking them."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> And its of people I never even saw before, or since."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> Maybe I should ask Reimu at some point.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Aya  >\"Why hello there! What are you doing here?"
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> Oh, what a lovely album. You filled it to the brim!\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Jessica  >\"Ugh, why are you here?\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Aya  >\"Scoop-hunting.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Jessica  >\"Hunt elsewhere, I'm not in the mood.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Aya  >\"If I waited for the right mood, I'd wait forever."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> The perfect article doesn't just present itself."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> You have to hunt for it."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> And you are just very interesting, what can I say?\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Jessica  >\"I don't want to be interesting...\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Aya  >\"I'm not leaving until I get some stuff to write.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Jessica  >\"Fiiiine...",
+                "<l$> What do you want to ask about?"
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> My grand photo adventures? Something else?\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<r$Aya  >\"If it's not too much to ask,",
+                "<l$> could you tell me about that new bracelet and hair?\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Jessica  >\"Hard pass...is what I'd like to say..."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<l$> But you won't take that for an answer."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "<l$> In short, nothing is happening, it's just uh...fashion.\""
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "<r$Aya  >\"Fashion, is it?\""
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "<r$Jessica  >\"Y-yeah...just, trying to fit in with the shrine more.\""
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "<r$Aya  >\"And you even changed some strands of hair for that?\""
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<r$Jessica  >\"This interview is over. Shouldn't you be elsewhere anyways?"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<l$> The Genbu Ravine is in chaos, why don't you report about that?\""
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Just like that, the tengu flew off in a frenzy."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "Jessica knew that something was happening at the ravine.",
+                "But how did she know that?"
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "Some call it intuition, some call it instinct.",
+                "If you were to ask her yourself she'd probably say:"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "Don't worry about it.",
+                "Now let me sort my thoughts a bit more."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "38_1": {
+            "lines": [
+                "<c$Ending No.01 — Tengu are as pushy as ever$>"
+            ]
+        },
+        "39_0": {
+            "lines": [
+                "<l$> <c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

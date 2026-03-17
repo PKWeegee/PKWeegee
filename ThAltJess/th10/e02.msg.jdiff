@@ -1,0 +1,50 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >Morning at the Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After losing to the god, Jessica made her lonely way home as"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "the tengu jeered and threw rocks at her."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Reimu  >\"Oh, this really sucks.",
+                "<l$> That god just threw pillars at me??\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "Jessica pondered the shrine's fate and went back to fight."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "But you can't dodge bullets if you're burdened with worry."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "6_1": {
+            "lines": [
+                "<c$Ending No.09 — Can you let go of your worries?$>"
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Aim for a 1cc on Normal or higher!$>"
+            ]
+        }
+    }
+}

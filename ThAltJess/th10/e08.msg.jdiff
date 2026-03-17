@@ -1,0 +1,181 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Marisa  $Reimu  >The Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The shrine that stood on the eastern border of Gensokyo."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "The shrine trees stained crimson later than the mountain's."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "Another shrine maiden paid this one a visit."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Sanae  >\"Sooo...what about uh...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Jessica  >\"Ugh, could you please stop?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> I'm not some freakshow science fair project.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Sanae  >\"Oh wait, just tell me what year you think it is.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Jessica  >\"I've got no idea honestly."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> I've been in Gensokyo for a while now, it doesn't matter.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Sanae  >\"But you think stuff I know is oldschool.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Jessica  >\"Because it is. Like, seriously, Xenogears?"
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Cool game, but you really gotta try the new one.\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Sanae  >\"They make more games finally??\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Jessica  >\"All the good it does you, we can't get them here.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Sanae  >\"Oh but still, knowing about all that...so cool!\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Jessica  >\"I feel like I just opened Pandora's Box...\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Sanae  >\"Now I want to ask you so many things...\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Jessica  >\"Please dont..."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> I may like games and stuff..."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> but if Gensokyo really is in a different time...\""
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<r$Sanae  >\"Ooh yeah, wouldn't wanna mess with the future, huh?"
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<l$> But maybe I can get some info out of you someday!\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Jessica  >\"I'd appreciate a more casual friendship?\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Marisa  >\"Oh uh...yeah, I'm sorry. It's been a bit lonely."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> You know, hanging out with just gods? Kinda weird."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<l$> So uh, I'd actually like to be friends with you.\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<r$Jessica  >\"Sounds good...but please stop looking at me like that.\""
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Why exactly Jessica knows about things from the future,",
+                "that will remain a mystery for a while longer."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Sanae is just glad to have someone like her to talk to."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "And Jessica is also a bit happy."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "She may not have liked her time in the outside world,",
+                "but she is from a simpler time. A small thread to connect her to her roots."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "Let's hope Sanae can be normal for a while."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<c$Ending No.03 — Nerdy Time Travel Shenanigans?$>"
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "<l$> <c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

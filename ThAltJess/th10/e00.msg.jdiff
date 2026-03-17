@@ -1,0 +1,50 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Reimu  >Morning at the Hakurei Shrine."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "After losing to the god, Jessica made her lonely way home as"
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "the tengu talked about her behind her back."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Jessica  >\"Oh, this really sucks.",
+                "<l$> That stupid waterfall was way too steep..."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> If I don't go right back there now...\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "Jessica headed straight back without stopping to sleep."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "Even though that's the worst enemy of a danmaku battle..."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<c$Ending No.07 — Have you gotten enough sleep lately?$>"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Aim for a 1cc on Normal or higher!$>"
+            ]
+        }
+    }
+}
